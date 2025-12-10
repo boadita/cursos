@@ -271,13 +271,13 @@
     {
         "id": 3,
         "nombre": "Curso completo de Python",
-        "clases": 16,
+        "clases": 15,
         "etiqueta": "Python",
-        "categoria": "Clase 1: Programación",
+        "categoria": "Lenguaje de programacion",
         "descripcion": "Aprende Python desde cero hasta análisis de datos y visualización con Numpy, Pandas y Matplotlib.",
         "temario": [
             {
-                "titulo": "Clase 2: Introducción a Python",
+                "titulo": "Clase 1: Introducción a Python",
                 "contenido": [
                     "Qué es Python y para qué sirve.",
                     "Instalación de Python y entornos de desarrollo (VS Code, PyCharm, Jupyter).",
@@ -285,7 +285,7 @@
                 ]
             },
             {
-                "titulo": "Clase 3: Variables y tipos de datos",
+                "titulo": "Clase 2: Variables y tipos de datos",
                 "contenido": [
                     "Tipos de datos: enteros, flotantes, cadenas, booleanos.",
                     "Conversión de tipos.",
@@ -293,7 +293,7 @@
                 ]
             },
             {
-                "titulo": "Clase 4: Operadores y expresiones",
+                "titulo": "Clase 3: Operadores y expresiones",
                 "contenido": [
                     "Operadores aritméticos, lógicos y relacionales.",
                     "Precedencia de operadores.",
@@ -301,7 +301,7 @@
                 ]
             },
             {
-                "titulo": "Clase 5: Estructuras de control",
+                "titulo": "Clase 4: Estructuras de control",
                 "contenido": [
                     "Condicionales: if, elif, else.",
                     "Bucles: for, while.",
@@ -309,7 +309,7 @@
                 ]
             },
             {
-                "titulo": "Clase 6: Colecciones",
+                "titulo": "Clase 5: Colecciones",
                 "contenido": [
                     "Listas y tuplas: creación, acceso y métodos principales.",
                     "Conjuntos y diccionarios: operaciones básicas y métodos.",
@@ -317,7 +317,7 @@
                 ]
             },
             {
-                "titulo": "Clase 7: Funciones",
+                "titulo": "Clase 6: Funciones",
                 "contenido": [
                     "Definición de funciones y argumentos.",
                     "Valores de retorno.",
@@ -326,7 +326,7 @@
                 ]
             },
             {
-                "titulo": "Clase 8: Manejo de archivos",
+                "titulo": "Clase 7: Manejo de archivos",
                 "contenido": [
                     "Leer y escribir archivos de texto.",
                     "Trabajar con archivos JSON.",
@@ -334,7 +334,7 @@
                 ]
             },
             {
-                "titulo": "Clase 9: Programación orientada a objetos",
+                "titulo": "Clase 8: Programación orientada a objetos",
                 "contenido": [
                     "Clases y objetos.",
                     "Atributos y métodos.",
@@ -343,7 +343,7 @@
                 ]
             },
             {
-                "titulo": "Clase 10: Módulos y paquetes",
+                "titulo": "Clase 9: Módulos y paquetes",
                 "contenido": [
                     "Importar librerías estándar y externas.",
                     "Crear módulos propios.",
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "titulo": "Clase 11: Python para automatización",
+                "titulo": "Clase 10: Python para automatización",
                 "contenido": [
                     "Escribir scripts para tareas repetitivas.",
                     "Automatización básica de archivos y datos.",
@@ -359,7 +359,7 @@
                 ]
             },
             {
-                "titulo": "Clase 12: Introducción a Numpy",
+                "titulo": "Clase 11: Introducción a Numpy",
                 "contenido": [
                     "Qué es Numpy y para qué se utiliza.",
                     "Arrays en Numpy vs listas de Python.",
@@ -368,7 +368,7 @@
                 ]
             },
             {
-                "titulo": "Clase 13: Manipulación de datos con Pandas",
+                "titulo": "Clase 12: Manipulación de datos con Pandas",
                 "contenido": [
                     "Introducción a Pandas.",
                     "Series y DataFrames.",
@@ -377,7 +377,7 @@
                 ]
             },
             {
-                "titulo": "Clase 14: Análisis de datos con Pandas",
+                "titulo": "Clase 13: Análisis de datos con Pandas",
                 "contenido": [
                     "Agrupaciones con groupby.",
                     "Merge, join y concatenación de DataFrames.",
@@ -386,7 +386,7 @@
                 ]
             },
             {
-                "titulo": "Clase 15: Visualización con Matplotlib",
+                "titulo": "Clase 14: Visualización con Matplotlib",
                 "contenido": [
                     "Tipos de gráficos: línea, barra, histograma, pastel.",
                     "Personalización de gráficos: títulos, etiquetas, colores.",
@@ -395,7 +395,7 @@
                 ]
             },
             {
-                "titulo": "Clase 16: Proyecto final de análisis de datos",
+                "titulo": "Clase 15: Proyecto final de análisis de datos",
                 "contenido": [
                     "Integrar Numpy, Pandas y Matplotlib.",
                     "Ejemplo: Análisis de dataset real (ventas, población, deportes, etc.).",

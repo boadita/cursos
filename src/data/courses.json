@@ -269,6 +269,142 @@
         ]
     },
     {
+        "id": 3,
+        "nombre": "Curso completo de Python",
+        "clases": 16,
+        "etiqueta": "Python",
+        "categoria": "Clase 1: Programación",
+        "descripcion": "Aprende Python desde cero hasta análisis de datos y visualización con Numpy, Pandas y Matplotlib.",
+        "temario": [
+            {
+                "titulo": "Clase 2: Introducción a Python",
+                "contenido": [
+                    "Qué es Python y para qué sirve.",
+                    "Instalación de Python y entornos de desarrollo (VS Code, PyCharm, Jupyter).",
+                    "Primeros pasos: consola interactiva y ejecución de scripts."
+                ]
+            },
+            {
+                "titulo": "Clase 3: Variables y tipos de datos",
+                "contenido": [
+                    "Tipos de datos: enteros, flotantes, cadenas, booleanos.",
+                    "Conversión de tipos.",
+                    "Buenas prácticas de nombrado de variables."
+                ]
+            },
+            {
+                "titulo": "Clase 4: Operadores y expresiones",
+                "contenido": [
+                    "Operadores aritméticos, lógicos y relacionales.",
+                    "Precedencia de operadores.",
+                    "Expresiones y uso de paréntesis."
+                ]
+            },
+            {
+                "titulo": "Clase 5: Estructuras de control",
+                "contenido": [
+                    "Condicionales: if, elif, else.",
+                    "Bucles: for, while.",
+                    "Control de flujo: break, continue, pass."
+                ]
+            },
+            {
+                "titulo": "Clase 6: Colecciones",
+                "contenido": [
+                    "Listas y tuplas: creación, acceso y métodos principales.",
+                    "Conjuntos y diccionarios: operaciones básicas y métodos.",
+                    "Iteración sobre colecciones."
+                ]
+            },
+            {
+                "titulo": "Clase 7: Funciones",
+                "contenido": [
+                    "Definición de funciones y argumentos.",
+                    "Valores de retorno.",
+                    "Funciones lambda.",
+                    "Modularización y buenas prácticas."
+                ]
+            },
+            {
+                "titulo": "Clase 8: Manejo de archivos",
+                "contenido": [
+                    "Leer y escribir archivos de texto.",
+                    "Trabajar con archivos JSON.",
+                    "Manejo de errores con try/except."
+                ]
+            },
+            {
+                "titulo": "Clase 9: Programación orientada a objetos",
+                "contenido": [
+                    "Clases y objetos.",
+                    "Atributos y métodos.",
+                    "Herencia y polimorfismo.",
+                    "Ejemplo práctico de clase."
+                ]
+            },
+            {
+                "titulo": "Clase 10: Módulos y paquetes",
+                "contenido": [
+                    "Importar librerías estándar y externas.",
+                    "Crear módulos propios.",
+                    "Uso de librerías útiles: os, sys, math, datetime, random."
+                ]
+            },
+            {
+                "titulo": "Clase 11: Python para automatización",
+                "contenido": [
+                    "Escribir scripts para tareas repetitivas.",
+                    "Automatización básica de archivos y datos.",
+                    "Ejemplos prácticos."
+                ]
+            },
+            {
+                "titulo": "Clase 12: Introducción a Numpy",
+                "contenido": [
+                    "Qué es Numpy y para qué se utiliza.",
+                    "Arrays en Numpy vs listas de Python.",
+                    "Operaciones básicas con arrays: suma, resta, multiplicación, división.",
+                    "Funciones estadísticas: mean, median, std, min, max."
+                ]
+            },
+            {
+                "titulo": "Clase 13: Manipulación de datos con Pandas",
+                "contenido": [
+                    "Introducción a Pandas.",
+                    "Series y DataFrames.",
+                    "Lectura y escritura de archivos CSV y Excel.",
+                    "Filtrado, selección y ordenamiento de datos."
+                ]
+            },
+            {
+                "titulo": "Clase 14: Análisis de datos con Pandas",
+                "contenido": [
+                    "Agrupaciones con groupby.",
+                    "Merge, join y concatenación de DataFrames.",
+                    "Manejo de valores nulos.",
+                    "Estadísticas descriptivas y resúmenes."
+                ]
+            },
+            {
+                "titulo": "Clase 15: Visualización con Matplotlib",
+                "contenido": [
+                    "Tipos de gráficos: línea, barra, histograma, pastel.",
+                    "Personalización de gráficos: títulos, etiquetas, colores.",
+                    "Subplots y estilos.",
+                    "Guardar gráficos como imágenes."
+                ]
+            },
+            {
+                "titulo": "Clase 16: Proyecto final de análisis de datos",
+                "contenido": [
+                    "Integrar Numpy, Pandas y Matplotlib.",
+                    "Ejemplo: Análisis de dataset real (ventas, población, deportes, etc.).",
+                    "Visualización de resultados y conclusiones."
+                ]
+            }
+        ]
+    },
+    {
         "id": 4,
         "nombre": "Curso de PHP",
         "clases": 12,

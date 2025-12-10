@@ -1,0 +1,2116 @@
+[
+    {
+        "id": 1,
+        "nombre": "Excel Práctico de 0 a Avanzado",
+        "clases": 12,
+        "etiqueta": "Excel",
+        "categoria": "Ofimatica",
+        "descripcion": "Curso completo para aprender Excel desde lo básico hasta nivel intermedio-avanzado, con énfasis en práctica y aplicaciones reales.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción y entorno de trabajo",
+                "contenido": [
+                    "Qué es Excel y sus usos profesionales",
+                    "Interfaz: cinta de opciones, pestañas, celdas, filas, columnas",
+                    "Tipos de datos y formato básico",
+                    "Guardar, abrir y cerrar archivos",
+                    "Práctica: crear tu primera hoja con cálculos simples"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Fórmulas y funciones básicas",
+                "contenido": [
+                    "Concepto de fórmula y referencia de celda",
+                    "Operadores aritméticos",
+                    "Funciones básicas: SUMA, PROMEDIO, MAX, MIN, CONTAR, CONTARA",
+                    "Práctica: hoja de control de gastos personales"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Manejo de datos y formato",
+                "contenido": [
+                    "Formato de número, moneda, fecha y texto",
+                    "Bordes, colores, alineación y formato condicional",
+                    "Copiar, mover, arrastrar fórmulas",
+                    "Práctica: reporte de ventas con formato profesional"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Referencias y funciones lógicas",
+                "contenido": [
+                    "Referencias absolutas, relativas y mixtas",
+                    "Funciones lógicas: SI, Y, O, SI.ERROR",
+                    "Práctica: cálculo de comisiones y descuentos"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Funciones de texto y fecha",
+                "contenido": [
+                    "Funciones de texto: IZQUIERDA, DERECHA, CONCAT, TEXTO, LARGO",
+                    "Funciones de fecha y hora: HOY, AHORA, DÍA, MES, AÑO",
+                    "Práctica: generación automática de reportes con fechas"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Ordenar, filtrar y validar datos",
+                "contenido": [
+                    "Ordenar por una o varias columnas",
+                    "Filtros automáticos y avanzados",
+                    "Validación de datos y listas desplegables",
+                    "Práctica: control de inventario con filtros inteligentes"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Tablas y nombres definidos",
+                "contenido": [
+                    "Crear y usar tablas de Excel",
+                    "Rango con nombre y su uso en fórmulas",
+                    "Práctica: seguimiento de empleados o alumnos"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Funciones de búsqueda",
+                "contenido": [
+                    "BUSCARV, BUSCARX, INDICE + COINCIDIR",
+                    "Práctica: hoja maestra con búsqueda de datos entre hojas"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Gráficos y visualización",
+                "contenido": [
+                    "Tipos de gráficos: columnas, líneas, pastel, combinados",
+                    "Personalización de gráficos",
+                    "Práctica: crear un dashboard simple de ventas"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Tablas dinámicas (Parte I)",
+                "contenido": [
+                    "Qué son y para qué sirven las tablas dinámicas",
+                    "Crear una tabla dinámica básica",
+                    "Agrupar, ordenar y filtrar dentro de una tabla dinámica",
+                    "Práctica: resumen mensual de ventas"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Tablas dinámicas (Parte II)",
+                "contenido": [
+                    "Campos calculados",
+                    "Gráficos dinámicos",
+                    "Segmentación de datos (Slicers)",
+                    "Práctica: mini dashboard interactivo"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Automatización, repaso y proyecto final",
+                "contenido": [
+                    "Introducción a macros (grabador)",
+                    "Tips avanzados: buscar objetivos, formato condicional avanzado, proteger hojas",
+                    "Repaso general",
+                    "Proyecto final: reporte empresarial automatizado"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Curso Completo de C++",
+        "clases": 15,
+        "etiqueta": "Cpp",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso completo de C++ desde conceptos básicos hasta programación orientada a objetos, manejo de memoria y proyecto final.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a C++",
+                "contenido": [
+                    "¿Qué es C++ y para qué se usa?",
+                    "Instalación del entorno (CodeBlocks, Dev-C++, VSCode + MinGW)",
+                    "Compilación y ejecución de programas",
+                    "Estructura básica de un programa",
+                    "Comentarios y buenas prácticas iniciales"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Tipos de datos y variables",
+                "contenido": [
+                    "Tipos de datos primitivos (int, float, double, char, bool)",
+                    "Constantes",
+                    "Operadores aritméticos, lógicos y relacionales",
+                    "Entrada y salida de datos con cin y cout"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Control de flujo: condicionales",
+                "contenido": [
+                    "Uso de if / else / else if",
+                    "Operador ternario",
+                    "Switch-case",
+                    "Ejercicios de lógica condicional"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Bucles",
+                "contenido": [
+                    "Bucle for",
+                    "Bucle while",
+                    "Bucle do-while",
+                    "Uso de break y continue",
+                    "Ejercicios de repetición y patrones"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Arreglos y cadenas",
+                "contenido": [
+                    "Arreglos estáticos unidimensionales",
+                    "Arreglos bidimensionales (matrices)",
+                    "Strings (char[]) vs std::string",
+                    "Recorrido, búsqueda y ordenamiento básico"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Funciones",
+                "contenido": [
+                    "Declaración y definición de funciones",
+                    "Paso por valor y por referencia",
+                    "Funciones con retorno y sin retorno",
+                    "Variables globales y locales",
+                    "Sobrecarga de funciones"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Modularización",
+                "contenido": [
+                    "Archivos .h (declaraciones) y .cpp (implementaciones)",
+                    "Uso de namespaces",
+                    "Separación del código por módulos",
+                    "Buenas prácticas de organización"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Punteros",
+                "contenido": [
+                    "Concepto de puntero",
+                    "Operadores * y &",
+                    "Punteros y arreglos",
+                    "Punteros nulos y no inicializados",
+                    "Ejercicios prácticos con punteros"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Memoria dinámica",
+                "contenido": [
+                    "Uso de new y delete",
+                    "Arreglos dinámicos",
+                    "Punteros a estructuras",
+                    "Introducción a punteros a funciones",
+                    "Gestión de memoria y errores comunes"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Estructuras y librerías STL básicas",
+                "contenido": [
+                    "Uso de struct",
+                    "typedef y alias",
+                    "Introducción a std::vector",
+                    "Uso básico de std::string",
+                    "Funciones de STL como std::sort"
+                ]
+            },
+            {
+                "titulo": "Clase 11: POO: fundamentos",
+                "contenido": [
+                    "Qué es la Programación Orientada a Objetos",
+                    "Clases y objetos",
+                    "Atributos y métodos",
+                    "Encapsulamiento",
+                    "Getters y setters"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Constructores y destructores",
+                "contenido": [
+                    "Constructores: por defecto, parametrizado, copia",
+                    "Uso de this",
+                    "Destructor",
+                    "Métodos const",
+                    "Gestión de memoria con objetos"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Herencia",
+                "contenido": [
+                    "Herencia simple",
+                    "protected vs private",
+                    "Constructores en herencia",
+                    "Sobrecarga vs sobrescritura",
+                    "Clases derivadas y jerarquías"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Polimorfismo",
+                "contenido": [
+                    "Polimorfismo en tiempo de compilación (sobrecarga)",
+                    "Polimorfismo en tiempo de ejecución (virtual)",
+                    "Métodos virtuales y virtual puro",
+                    "Clases abstractas",
+                    "Punteros a clases base"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto final con POO",
+                "contenido": [
+                    "Desarrollo de un mini sistema completo (ej. gestión de estudiantes, inventario, sistema bancario, agenda de contactos)",
+                    "Uso de clases, herencia y polimorfismo",
+                    "Punteros y memoria dinámica",
+                    "Archivos .h y .cpp organizados",
+                    "Menú interactivo y opcional: persistencia en archivo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Curso de PHP",
+        "clases": 12,
+        "etiqueta": "PHP",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso completo de PHP desde fundamentos hasta un mini proyecto con base de datos y POO.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a PHP",
+                "contenido": [
+                    "Qué es PHP y dónde se utiliza",
+                    "Instalación de entorno (XAMPP, Laragon, Docker)",
+                    "Primer script: 'Hola Mundo'",
+                    "Comentarios y sintaxis básica"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Variables, tipos y operadores",
+                "contenido": [
+                    "Tipos de datos: string, int, float, boolean",
+                    "Reglas para nombrar variables",
+                    "Operadores aritméticos, lógicos y de comparación"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Condiciones y Bucles",
+                "contenido": [
+                    "Estructuras if / else / elseif",
+                    "Switch",
+                    "Bucles for, while y do…while",
+                    "Ejercicios prácticos de control de flujo"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Arreglos normales y asociativos",
+                "contenido": [
+                    "Crear y recorrer arrays",
+                    "Funciones útiles: count(), array_push(), array_merge()",
+                    "Arrays multidimensionales"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Funciones y manejo básico de errores",
+                "contenido": [
+                    "Declarar funciones con parámetros y retorno",
+                    "Funciones predefinidas en PHP",
+                    "Include y require",
+                    "Manejo básico de errores"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Formularios y superglobales",
+                "contenido": [
+                    "Crear formularios HTML",
+                    "Enviar datos con GET y POST",
+                    "Validación simple de formularios",
+                    "Uso de superglobales $_POST, $_GET, $_SERVER"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Sesiones, cookies y subida de archivos",
+                "contenido": [
+                    "Crear y destruir sesiones",
+                    "Guardar y leer cookies",
+                    "Subida de archivos al servidor",
+                    "Validación de archivos subidos"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Introducción a POO en PHP",
+                "contenido": [
+                    "Clases y objetos",
+                    "Propiedades y métodos",
+                    "Modificadores de acceso: public, private, protected",
+                    "Constructor de clases"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Herencia, interfaces y autoload",
+                "contenido": [
+                    "Herencia entre clases con 'extends'",
+                    "Interfaces y clases abstractas",
+                    "Autoload básico con PSR-4",
+                    "Ejemplos prácticos de POO"
+                ]
+            },
+            {
+                "titulo": "Clase 10: PHP + MySQL (CRUD I)",
+                "contenido": [
+                    "Conexión a base de datos con PDO",
+                    "Insert y Select",
+                    "Manejo de excepciones",
+                    "Buenas prácticas en consultas SQL"
+                ]
+            },
+            {
+                "titulo": "Clase 11: PHP + MySQL (CRUD II)",
+                "contenido": [
+                    "Update y Delete",
+                    "Integración con HTML y formularios",
+                    "Seguridad: prevención de SQL Injection y XSS",
+                    "Ejercicio completo CRUD"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Mini proyecto final",
+                "contenido": [
+                    "Desarrollo de una aplicación CRUD completa",
+                    "Implementación de login simple",
+                    "Estructura básica MVC sin framework",
+                    "Documentación y cierre del curso"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Curso Completo de Go (Golang)",
+        "clases": 15,
+        "etiqueta": "Go",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso completo de Golang diseñado para aprender desde los fundamentos hasta el desarrollo de aplicaciones concurrentes y proyectos completos con Go.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Go",
+                "contenido": [
+                    "Historia y características de Go",
+                    "Instalación del entorno (Go, VS Code / GoLand)",
+                    "Estructura básica de un programa en Go",
+                    "Comandos: go run, go build, go mod init",
+                    "Primer programa: 'Hola Mundo'"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Tipos de datos y variables",
+                "contenido": [
+                    "Tipos básicos: int, float64, string, bool",
+                    "Declaración de variables y declaración corta := ",
+                    "Constantes y conversiones de tipo",
+                    "Entrada y salida básica"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Control de flujo",
+                "contenido": [
+                    "Estructuras condicionales: if, else, switch",
+                    "Bucles: for clásico y for-range",
+                    "Manejo básico de errores con error"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Arreglos, slices y mapas",
+                "contenido": [
+                    "Arreglos y slices: diferencias y operaciones",
+                    "Funciones útiles de slices: append, copy, len, cap",
+                    "Mapas: creación, lectura, escritura y eliminación"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Funciones",
+                "contenido": [
+                    "Declaración y llamado de funciones",
+                    "Parámetros y valores de retorno",
+                    "Funciones variádicas",
+                    "Funciones anónimas y closures"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Structs y métodos",
+                "contenido": [
+                    "Creación de structs",
+                    "Acceso y modificación de campos",
+                    "Métodos con receptor",
+                    "Composición de structs"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Interfaces",
+                "contenido": [
+                    "Concepto de interfaz",
+                    "Interfaces implícitas en Go",
+                    "Polimorfismo con interfaces"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Manejo de errores",
+                "contenido": [
+                    "Error como tipo en Go",
+                    "Manejo idiomático de errores",
+                    "Errores personalizados"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Concurrencia con Goroutines",
+                "contenido": [
+                    "Qué es una Goroutine",
+                    "Creación y ejecución de Goroutines",
+                    "Ejemplos prácticos de concurrencia"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Canales",
+                "contenido": [
+                    "Introducción a canales",
+                    "Canales con y sin buffer",
+                    "Comunicación y sincronización entre Goroutines",
+                    "Patrones de concurrencia"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Archivos y paquetes",
+                "contenido": [
+                    "Lectura y escritura de archivos con os y bufio",
+                    "Uso de ioutil y manejo de errores",
+                    "Creación y uso de paquetes propios"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Consumo de APIs",
+                "contenido": [
+                    "Realizar peticiones HTTP con net/http",
+                    "Manejo de métodos GET y POST",
+                    "Parseo de JSON con encoding/json",
+                    "Ejemplo de cliente API"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Servidor web con Go",
+                "contenido": [
+                    "Crear un servidor web básico",
+                    "Definir rutas y manejadores",
+                    "Envío de respuestas",
+                    "Uso básico de middlewares"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Conexión a base de datos",
+                "contenido": [
+                    "Uso de database/sql",
+                    "Conexión a MySQL/PostgreSQL",
+                    "Operaciones CRUD básicas",
+                    "Manejo de errores en consultas"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto final",
+                "contenido": [
+                    "Definición de proyecto final",
+                    "Estructura de proyecto y módulos",
+                    "Desarrollo de un API REST, Chat concurrente o Agenda de contactos",
+                    "Pruebas y despliegue"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Curso de Kotlin - 15 clases",
+        "clases": 15,
+        "etiqueta": "Kotlin",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso completo de Kotlin desde lo básico hasta desarrollo de aplicaciones Android, incluyendo programación funcional y corutinas.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Kotlin y entorno",
+                "contenido": [
+                    "Historia y características de Kotlin",
+                    "Diferencias con Java",
+                    "Instalación y configuración de IntelliJ IDEA y Android Studio",
+                    "Primer programa “Hola Mundo”",
+                    "Compilación y ejecución desde consola"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Variables, tipos de datos y operadores",
+                "contenido": [
+                    "Variables mutables (var) e inmutables (val)",
+                    "Tipos primitivos: Int, Double, Float, Boolean, Char, String",
+                    "Conversión de tipos",
+                    "Operadores aritméticos, lógicos y relacionales"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Estructuras de control",
+                "contenido": [
+                    "if, else if, else",
+                    "when",
+                    "Bucles: for, while, do-while",
+                    "break y continue"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Funciones básicas",
+                "contenido": [
+                    "Declaración y uso de funciones",
+                    "Parámetros y retorno de funciones",
+                    "Parámetros por defecto y named arguments",
+                    "Scope de variables y recursión simple"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Funciones avanzadas y lambdas",
+                "contenido": [
+                    "Funciones lambda y anónimas",
+                    "Funciones de orden superior",
+                    "Uso de it y scope functions (apply, run, also)",
+                    "Extensiones de funciones"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Colecciones y arrays",
+                "contenido": [
+                    "Arrays y listas (List, MutableList)",
+                    "Mapas (Map, MutableMap) y conjuntos (Set, MutableSet)",
+                    "Iteración y filtrado de colecciones",
+                    "Funciones map, filter, reduce, forEach"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Null Safety y manejo de errores",
+                "contenido": [
+                    "Tipos nulos (?) y operador seguro (?.)",
+                    "Operador Elvis (?:) y not-null assertion (!!)",
+                    "Manejo de excepciones: try-catch-finally",
+                    "Funciones let, also, takeIf"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Clases y objetos",
+                "contenido": [
+                    "Declaración de clases",
+                    "Propiedades y métodos",
+                    "Constructores primarios y secundarios",
+                    "Bloques init y visibilidad (private, protected, public)"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Herencia e interfaces",
+                "contenido": [
+                    "Herencia con open y override",
+                    "Clases abstractas",
+                    "Interfaces",
+                    "Polimorfismo y uso práctico en Kotlin"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Programación funcional",
+                "contenido": [
+                    "Funciones puras",
+                    "Colecciones inmutables",
+                    "Lambdas con map, flatMap, fold, reduce",
+                    "Scope functions (apply, run, with, also, let)"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Corutinas y concurrencia",
+                "contenido": [
+                    "Concepto de corutinas",
+                    "launch, async y await",
+                    "Funciones suspend",
+                    "Flujos (Flow) básicos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Introducción a Android con Kotlin",
+                "contenido": [
+                    "Estructura de un proyecto Android",
+                    "Activity y ciclo de vida",
+                    "Layouts y recursos",
+                    "Primer app simple (contador o lista)"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Interacción con UI y eventos",
+                "contenido": [
+                    "Botones, EditText y TextView",
+                    "Listeners (onClick, onLongClick)",
+                    "RecyclerView básico",
+                    "Toast y Snackbar"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Manejo de datos y persistencia",
+                "contenido": [
+                    "SharedPreferences",
+                    "SQLite y Room básico",
+                    "Guardar y recuperar datos",
+                    "Modelos de datos y serialización JSON"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto final y buenas prácticas",
+                "contenido": [
+                    "Desarrollo de un proyecto integrador (app de tareas con almacenamiento)",
+                    "Uso de Git y control de versiones",
+                    "Revisión de código y refactorización",
+                    "Buenas prácticas y clean code en Kotlin y Android"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Curso Completo de JavaScript",
+        "clases": 15,
+        "etiqueta": "Javascript",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso de JavaScript desde cero hasta conceptos de POO, LocalStorage, Módulos y Node.js. Incluye fundamentos, DOM, eventos y proyecto final.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a JavaScript",
+                "contenido": [
+                    "Historia breve de JavaScript",
+                    "JS en la web: HTML + CSS + JS",
+                    "Qué es el motor V8",
+                    "Uso de la consola del navegador",
+                    "Insertar JavaScript con <script> interno y externo",
+                    "Primeros comandos: console.log(), alertas",
+                    "Ejercicio: Mostrar un mensaje en pantalla y en consola"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Variables y Tipos de Datos",
+                "contenido": [
+                    "Declarar variables: var, let, const",
+                    "Tipos de datos: string, number, boolean, null, undefined",
+                    "Operadores aritméticos básicos",
+                    "Concatenación y template strings",
+                    "Ejercicio: Crear variables personales y mostrar mensaje usando template strings"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Operaciones con Strings y Números",
+                "contenido": [
+                    "Propiedades de strings: .length",
+                    "Métodos de strings: .toUpperCase(), .toLowerCase(), .includes(), .replace()",
+                    "Métodos numéricos: Math.random(), Math.floor(), Math.round()",
+                    "Conversión entre tipos: Number(), String()",
+                    "Ejercicio: Crear un generador de números aleatorios y mensaje formateado"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Condicionales",
+                "contenido": [
+                    "Estructuras if, else, else if",
+                    "Operadores de comparación: ===, !==, >, <, >=, <=",
+                    "Operadores lógicos: &&, ||, !",
+                    "Control de flujo con condicionales anidados",
+                    "Ejercicio: Determinar si un usuario es mayor de edad y sistema de notas"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Bucles",
+                "contenido": [
+                    "For clásico",
+                    "While",
+                    "Do...while",
+                    "Control de bucle: break y continue",
+                    "Ejercicio: Imprimir números del 1 al 100 y mostrar solo los pares"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Arreglos (Arrays)",
+                "contenido": [
+                    "Crear arreglos",
+                    "Acceso por índice",
+                    "Métodos fundamentales: push(), pop(), shift(), unshift(), includes(), indexOf()",
+                    "Recorrer arrays con for y for...of",
+                    "Ejercicio: Crear lista de compras y agregar/eliminar elementos"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Objetos",
+                "contenido": [
+                    "Declaración de objetos con llaves {}",
+                    "Propiedades y métodos",
+                    "Acceso a propiedades: obj.prop, obj['prop']",
+                    "Objetos dentro de arrays",
+                    "Ejercicio: Crear un objeto usuario con nombre, edad y método saludar"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Funciones",
+                "contenido": [
+                    "Funciones declaradas",
+                    "Funciones expresadas",
+                    "Funciones flecha () => {}",
+                    "Parámetros y retorno",
+                    "Alcance (scope) básico",
+                    "Ejercicio: Crear funciones de suma, resta, multiplicación y división"
+                ]
+            },
+            {
+                "titulo": "Clase 9: POO (Parte 1): Clases y Objetos",
+                "contenido": [
+                    "Qué es la POO",
+                    "Clase en JavaScript",
+                    "Constructor constructor()",
+                    "Instancias con new",
+                    "Métodos dentro de la clase",
+                    "Ejercicio: Clase Persona con nombre y edad + método saludar"
+                ]
+            },
+            {
+                "titulo": "Clase 10: POO (Parte 2): Herencia",
+                "contenido": [
+                    "Extends",
+                    "Uso de super()",
+                    "Clases base y clases hijas",
+                    "Reutilización de métodos",
+                    "Ejercicio: Clase Animal → Perro que hereda y sobrescribe un método"
+                ]
+            },
+            {
+                "titulo": "Clase 11: POO (Parte 3): Encapsulamiento y Polimorfismo",
+                "contenido": [
+                    "Atributos privados con #propiedad",
+                    "Getters y setters",
+                    "Polimorfismo",
+                    "Sobreescritura de métodos",
+                    "Ejercicio: Clase CuentaBancaria con saldo privado y métodos depositar/retirar"
+                ]
+            },
+            {
+                "titulo": "Clase 12: DOM y Eventos",
+                "contenido": [
+                    "document.getElementById, querySelector",
+                    "Cambiar texto, estilos y atributos",
+                    "Crear y eliminar elementos del DOM",
+                    "Eventos: click, input, submit, teclado",
+                    "event.preventDefault()",
+                    "Ejercicio: Formulario que capture datos sin recargar + botón que cambie contenido"
+                ]
+            },
+            {
+                "titulo": "Clase 13: LocalStorage",
+                "contenido": [
+                    "Qué es LocalStorage",
+                    "setItem, getItem, removeItem, clear",
+                    "Guardar objetos con JSON.stringify() y JSON.parse()",
+                    "Cargar datos al iniciar la página",
+                    "Diferencias LocalStorage vs SessionStorage",
+                    "Ejercicio: To-Do List que se guarde automáticamente"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Módulos en JavaScript",
+                "contenido": [
+                    "Qué son los módulos",
+                    "Export y import (nombrados y por defecto)",
+                    "Organización de carpetas",
+                    "Importar funciones y clases",
+                    "Módulos en el navegador y en Node",
+                    "Ejercicio: Separar app en app.js, dom.js, utils.js"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Introducción a Node.js",
+                "contenido": [
+                    "Qué es Node.js",
+                    "Instalación y uso de Node",
+                    "Ejecutar código con node archivo.js",
+                    "Módulos nativos: fs, http",
+                    "Crear un servidor básico",
+                    "Uso de npm y package.json",
+                    "Ejercicio: Servidor que responda 'Hola desde Node'"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Curso de TypeScript",
+        "clases": 15,
+        "etiqueta": "Typescript",
+        "categoria": "Lenguaje de programacion",
+        "descripcion": "Curso completo de TypeScript desde los conceptos básicos hasta tipos avanzados y POO, incluyendo proyectos prácticos.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a TypeScript",
+                "contenido": [
+                    "Qué es TypeScript",
+                    "Ventajas frente a JavaScript",
+                    "Tipado estático y compilación",
+                    "Instalación del entorno (Node.js + TypeScript)",
+                    "Primer archivo TS y compilación"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Tipos Primitivos y Type Inference",
+                "contenido": [
+                    "Tipos básicos: string, number, boolean, null, undefined",
+                    "Tipo any y unknown",
+                    "Inferencia de tipos automática",
+                    "Errores comunes al tipar variables"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Objetos, Arreglos y Tuplas",
+                "contenido": [
+                    "Tipado de objetos",
+                    "Arrays tipados",
+                    "Tuplas",
+                    "Type alias"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Funciones",
+                "contenido": [
+                    "Tipado de parámetros y retorno",
+                    "Funciones opcionales y por defecto",
+                    "Funciones flecha vs tradicionales",
+                    "Errores comunes en funciones"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Union Types, Intersection Types y Literales",
+                "contenido": [
+                    "Union Types con |",
+                    "Intersection Types con &",
+                    "Tipos literales",
+                    "Narrowing (refinamiento de tipos)"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Interfaces",
+                "contenido": [
+                    "Diferencia entre interface y type",
+                    "Interfaces anidadas",
+                    "Extender interfaces",
+                    "Implementación en clases"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Programación Orientada a Objetos",
+                "contenido": [
+                    "Clases y objetos",
+                    "Propiedades y métodos",
+                    "Modificadores: public, private, protected, readonly",
+                    "Constructores y métodos"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Herencia, Polimorfismo e Interfaces en Clases",
+                "contenido": [
+                    "Extender clases con extends",
+                    "Sobreescritura de métodos",
+                    "Implementación de interfaces en clases",
+                    "Ejemplos prácticos de POO"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Genéricos (Generics)",
+                "contenido": [
+                    "Funciones genéricas",
+                    "Interfaces genéricas",
+                    "Clases genéricas",
+                    "Ejemplos con repositorios y colecciones"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Módulos",
+                "contenido": [
+                    "Import y export",
+                    "Organización del proyecto en carpetas",
+                    "Compilación de módulos a JavaScript",
+                    "Buenas prácticas en modularización"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Namespaces",
+                "contenido": [
+                    "Qué son y cuándo usarlos",
+                    "Namespaces internos",
+                    "Agrupación de utilidades",
+                    "Comparación con módulos modernos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Decoradores",
+                "contenido": [
+                    "Decoradores de clases",
+                    "Decoradores de propiedades y métodos",
+                    "Decoradores experimentales",
+                    "Ejemplos prácticos: @Log, validaciones"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Tipado Avanzado",
+                "contenido": [
+                    "Pick, Partial, Required, Readonly",
+                    "Record, Omit",
+                    "Tipos condicionales",
+                    "Inferencia avanzada y utilidades propias"
+                ]
+            },
+            {
+                "titulo": "Clase 14: TypeScript en Frontend y Backend",
+                "contenido": [
+                    "Uso de TS en React y Angular (visión general)",
+                    "Uso de TS en Node.js",
+                    "Configuración avanzada de tsconfig.json",
+                    "Consumo de APIs con TypeScript"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto Final",
+                "contenido": [
+                    "Mini sistema de pedidos (Producto, Cliente, Pedido)",
+                    "Uso de clases, interfaces y herencia",
+                    "Módulos organizados",
+                    "Tipos avanzados para validación de datos",
+                    "Documentación con TypeDoc",
+                    "Compilación y ejecución del proyecto"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Curso de SQL",
+        "clases": 15,
+        "etiqueta": "SQL",
+        "categoria": "Bases de Datos",
+        "descripcion": "Curso completo de SQL desde conceptos básicos hasta consultas avanzadas, incluyendo manipulación de datos, relaciones, funciones, vistas, procedimientos almacenados, triggers y seguridad.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a las bases de datos y SQL",
+                "contenido": [
+                    "Conceptos de bases de datos y DBMS",
+                    "Diferencias entre bases de datos relacionales y no relacionales",
+                    "Introducción a SQL",
+                    "Instalación y configuración de MySQL/PostgreSQL",
+                    "Primer contacto con un cliente SQL"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Creación de bases de datos y tablas",
+                "contenido": [
+                    "Sintaxis de CREATE DATABASE y CREATE TABLE",
+                    "Tipos de datos: numéricos, texto, fecha/hora, booleanos",
+                    "Claves primarias y restricciones básicas (NOT NULL, UNIQUE)"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Inserción, actualización y eliminación de datos",
+                "contenido": [
+                    "INSERT INTO para agregar datos",
+                    "UPDATE para modificar datos existentes",
+                    "DELETE para eliminar registros",
+                    "Uso de filtros y condiciones WHERE",
+                    "Buenas prácticas para manipular datos"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Consultas básicas con SELECT",
+                "contenido": [
+                    "SELECT simple",
+                    "Ordenamiento de resultados con ORDER BY",
+                    "Filtrado de datos con WHERE",
+                    "Operadores lógicos y relacionales"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Funciones de agregación y grupos",
+                "contenido": [
+                    "COUNT, SUM, AVG, MIN, MAX",
+                    "Uso de GROUP BY",
+                    "Filtro de grupos con HAVING",
+                    "Ejercicios prácticos de reportes"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Consultas avanzadas con JOINs",
+                "contenido": [
+                    "INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN",
+                    "Relaciones entre tablas",
+                    "Ejercicios prácticos combinando varias tablas"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Subconsultas y consultas anidadas",
+                "contenido": [
+                    "Subconsultas en SELECT, WHERE y FROM",
+                    "Uso de alias",
+                    "Ejercicios prácticos de consultas anidadas"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Operadores avanzados y funciones de texto",
+                "contenido": [
+                    "LIKE, IN, BETWEEN, IS NULL",
+                    "Funciones de cadena: CONCAT, SUBSTRING, UPPER, LOWER",
+                    "Ejercicios de manipulación de texto"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Funciones de fecha y hora",
+                "contenido": [
+                    "NOW(), DATE, YEAR, MONTH, DAY",
+                    "Cálculos y comparaciones con fechas",
+                    "Ejercicios prácticos de reportes temporales"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Índices, claves foráneas y restricciones",
+                "contenido": [
+                    "Claves foráneas y relaciones",
+                    "Integridad referencial",
+                    "Uso de índices para optimizar consultas"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Vistas y consultas almacenadas",
+                "contenido": [
+                    "Creación de vistas con CREATE VIEW",
+                    "Procedimientos almacenados con CREATE PROCEDURE",
+                    "Beneficios y ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Triggers y transacciones",
+                "contenido": [
+                    "Creación de triggers (BEFORE, AFTER)",
+                    "Concepto de transacciones: COMMIT y ROLLBACK",
+                    "Ejemplos de control de integridad"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Seguridad y permisos",
+                "contenido": [
+                    "Gestión de usuarios y roles",
+                    "GRANT y REVOKE",
+                    "Buenas prácticas de seguridad"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Optimización y buenas prácticas",
+                "contenido": [
+                    "Consultas eficientes y uso de índices",
+                    "Normalización de bases de datos (1NF, 2NF, 3NF)",
+                    "Ejercicios de optimización de consultas"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto final y repaso general",
+                "contenido": [
+                    "Desarrollo de un mini proyecto (ventas, inventario o escuela)",
+                    "Consultas avanzadas combinando todos los conceptos",
+                    "Evaluación práctica y repaso de dudas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Curso de MongoDB",
+        "clases": 15,
+        "etiqueta": "MongoDB",
+        "categoria": "Bases de Datos",
+        "descripcion": "Curso completo de MongoDB, desde conceptos básicos hasta integración con aplicaciones y proyecto final.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a MongoDB",
+                "contenido": [
+                    "Qué es MongoDB",
+                    "Modelo documental vs relacional",
+                    "Ventajas y casos de uso",
+                    "Instalación de MongoDB, Mongo Shell y Compass",
+                    "Primera conexión a MongoDB"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Conceptos fundamentales",
+                "contenido": [
+                    "Base de datos, colecciones y documentos",
+                    "JSON y BSON",
+                    "Creación de bases y colecciones",
+                    "Insertar documentos: insertOne, insertMany"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Consultas básicas",
+                "contenido": [
+                    "Uso de find()",
+                    "Filtros simples (igualdad, desigualdad)",
+                    "Proyecciones",
+                    "Ordenamiento y paginación: sort(), limit(), skip()",
+                    "Práctica: consultas sobre colección de productos"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Consultas avanzadas",
+                "contenido": [
+                    "Operadores de comparación: $gt, $lt, $gte, $lte",
+                    "Operadores de conjuntos: $in, $nin",
+                    "Operadores lógicos: $and, $or, $not",
+                    "Búsquedas por rangos",
+                    "Ejercicios de consultas complejas"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Actualizaciones I",
+                "contenido": [
+                    "updateOne, updateMany",
+                    "Operadores $set y $unset",
+                    "replaceOne",
+                    "Uso de upsert",
+                    "Práctica con escenarios comunes"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Actualizaciones II",
+                "contenido": [
+                    "Operadores sobre arreglos: $push, $pull, $addToSet, $pop, $each",
+                    "Modificación de estructuras complejas",
+                    "Ejercicios prácticos"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Eliminación y validación",
+                "contenido": [
+                    "deleteOne, deleteMany",
+                    "Validaciones en colecciones",
+                    "Esquemas y reglas básicas",
+                    "Manejo de errores comunes"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Modelado de Datos NoSQL",
+                "contenido": [
+                    "Documentos embebidos vs referencias",
+                    "Desnormalización",
+                    "Patrones de diseño en MongoDB",
+                    "Cómo modelar según el caso de uso",
+                    "Taller práctico: diseño de un mini-modelo"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Índices",
+                "contenido": [
+                    "Qué es un índice",
+                    "Índices simples, compuestos y únicos",
+                    "Índices de texto",
+                    "Uso de explain() para analizar consultas",
+                    "Práctica: acelerando consultas"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Aggregation Framework I",
+                "contenido": [
+                    "Qué es un pipeline",
+                    "Etapas básicas: $match, $project, $sort",
+                    "Creación de pipelines sencillos"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Aggregation Framework II",
+                "contenido": [
+                    "Etapas avanzadas: $group, $lookup, $limit, $unwind",
+                    "Construcción de reportes",
+                    "Ejercicios tipo analítica"
+                ]
+            },
+            {
+                "titulo": "Clase 12: MongoDB Atlas",
+                "contenido": [
+                    "Crear cluster gratuito",
+                    "Conectar desde Compass y aplicaciones",
+                    "Monitoreo de rendimiento",
+                    "Backups y seguridad básica",
+                    "Gestión de usuarios y roles"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Integración con Node.js (Mongoose)",
+                "contenido": [
+                    "Conexión desde Node.js",
+                    "Modelo y esquemas en Mongoose",
+                    "CRUD desde una API",
+                    "Práctica: endpoints para colecciones"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Integración con Python (PyMongo)",
+                "contenido": [
+                    "Conexión con PyMongo",
+                    "Operaciones CRUD desde Python",
+                    "Consulta y procesamiento de datos",
+                    "Buenas prácticas de conexión"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto Final",
+                "contenido": [
+                    "Diseño del modelo documental",
+                    "Inserción de datos",
+                    "Consultas avanzadas",
+                    "Índices y optimización",
+                    "Pipelines de agregación",
+                    "Conexión desde API",
+                    "Propuesta de proyectos: inventario de pastelería, gestión de pedidos, blog, estadísticas de partidos o catálogo de productos"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Curso de Diseño Web",
+        "clases": 15,
+        "etiqueta": "Web",
+        "categoria": "Desarrollo Web",
+        "descripcion": "Curso completo de diseño web desde fundamentos hasta la creación de un proyecto final, incluyendo HTML, CSS, diseño responsivo y JavaScript básico.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción al Diseño Web",
+                "contenido": [
+                    "Qué es diseño web (UI/UX).",
+                    "Arquitectura de un sitio web.",
+                    "Principios visuales: color, tipografía, espaciado.",
+                    "Ejemplos de buenos y malos diseños."
+                ]
+            },
+            {
+                "titulo": "Clase 2: Conceptos de Usabilidad y UX",
+                "contenido": [
+                    "Usabilidad web: reglas básicas.",
+                    "Diseño centrado en el usuario.",
+                    "Wireframes vs. prototipos.",
+                    "Herramientas del diseñador (Figma, Adobe XD)."
+                ]
+            },
+            {
+                "titulo": "Clase 3: HTML Básico",
+                "contenido": [
+                    "Estructura mínima de un documento HTML.",
+                    "Etiquetas fundamentales: texto, imágenes, listas.",
+                    "Atributos básicos.",
+                    "Buenas prácticas de organización."
+                ]
+            },
+            {
+                "titulo": "Clase 4: HTML Semántico",
+                "contenido": [
+                    "header, nav, section, article, aside, footer.",
+                    "SEO básico con etiquetas semánticas.",
+                    "Accesibilidad desde el marcado."
+                ]
+            },
+            {
+                "titulo": "Clase 5: Formularios y Estructuras Complejas",
+                "contenido": [
+                    "<form>, inputs, selects, textareas.",
+                    "Validaciones HTML5.",
+                    "Agrupación de campos y buenas prácticas."
+                ]
+            },
+            {
+                "titulo": "Clase 6: CSS Esencial",
+                "contenido": [
+                    "Selectores básicos y avanzados.",
+                    "Box Model.",
+                    "Colores, tipografías, medidas, espaciado.",
+                    "Concepto de cascada y herencia."
+                ]
+            },
+            {
+                "titulo": "Clase 7: Maquetación y Layout",
+                "contenido": [
+                    "Display: inline, block, inline-block.",
+                    "Position: relative, absolute, fixed.",
+                    "Unidades absolutas y relativas (px, %, rem, vh)."
+                ]
+            },
+            {
+                "titulo": "Clase 8: Flexbox a profundidad",
+                "contenido": [
+                    "Contenedores y elementos flex.",
+                    "Alineación, distribución y orden.",
+                    "Ejercicios de layout con Flexbox."
+                ]
+            },
+            {
+                "titulo": "Clase 9: CSS Grid",
+                "contenido": [
+                    "Grid container y grid items.",
+                    "Plantillas de columnas y filas.",
+                    "Creación de layouts responsivos con grid."
+                ]
+            },
+            {
+                "titulo": "Clase 10: Diseño Responsivo (RWD)",
+                "contenido": [
+                    "Media Queries.",
+                    "Mobile First vs Desktop First.",
+                    "Breakpoints estándar.",
+                    "Cómo adaptar un sitio a móvil, tablet y desktop."
+                ]
+            },
+            {
+                "titulo": "Clase 11: Estilos Avanzados",
+                "contenido": [
+                    "Animaciones y transiciones.",
+                    "Bordes, sombras, degradados.",
+                    "Variables CSS (custom properties).",
+                    "Pseudoclases y pseudoelementos."
+                ]
+            },
+            {
+                "titulo": "Clase 12: JavaScript para Diseño Web",
+                "contenido": [
+                    "Introducción al DOM.",
+                    "Eventos básicos: click, input, mouseover.",
+                    "Interacciones simples para UI."
+                ]
+            },
+            {
+                "titulo": "Clase 13: Componentes Interactivos",
+                "contenido": [
+                    "Menú responsive (hamburguesa).",
+                    "Sliders/carousels simples.",
+                    "Ventanas modales.",
+                    "Validaciones visuales con JS."
+                ]
+            },
+            {
+                "titulo": "Clase 14: Prototipado y Workflow",
+                "contenido": [
+                    "Diseño del prototipo en Figma.",
+                    "Conversión del prototipo a HTML/CSS.",
+                    "Organización de carpetas y assets.",
+                    "Revisión del diseño final."
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto Final",
+                "contenido": [
+                    "Maquetación completa del sitio.",
+                    "Aplicación de estilos y responsividad.",
+                    "Inclusión de JS básico.",
+                    "Revisión, pruebas y publicación (GitHub Pages o hosting)."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Curso de Angular",
+        "clases": 12,
+        "etiqueta": "Angular",
+        "categoria": "Framework de Frontend",
+        "descripcion": "Curso completo de Angular para aprender a crear aplicaciones SPA, manejo de componentes, servicios, formularios, ruteo y consumo de APIs.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Angular y configuración del entorno",
+                "contenido": [
+                    "Qué es Angular y aplicaciones SPA",
+                    "Node.js, npm y Angular CLI",
+                    "Crear primer proyecto con ng new",
+                    "Estructura del proyecto (src, app, assets)",
+                    "Servir la aplicación con ng serve"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Componentes y Data Binding",
+                "contenido": [
+                    "Definición y estructura de componentes",
+                    "Templates, estilos y lógica en TypeScript",
+                    "Interpolación, property binding y event binding",
+                    "Two-way binding con ngModel",
+                    "Directivas estructurales: *ngIf y *ngFor"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Comunicación entre componentes",
+                "contenido": [
+                    "Uso de @Input y @Output",
+                    "EventEmitter para comunicación",
+                    "Jerarquía de componentes",
+                    "Buenas prácticas en comunicación de datos"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Servicios e Inyección de Dependencias",
+                "contenido": [
+                    "Qué es un servicio y su propósito",
+                    "Crear servicios con Angular CLI",
+                    "Inyección de dependencias",
+                    "Arquitectura basada en servicios"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Consumo de APIs con HttpClient",
+                "contenido": [
+                    "Importar HttpClientModule",
+                    "Peticiones GET, POST, PUT y DELETE",
+                    "Manejo básico de errores",
+                    "Introducción a Observables y suscripciones"
+                ]
+            },
+            {
+                "titulo": "Clase 6: RxJS y manejo avanzado de Observables",
+                "contenido": [
+                    "Pipes de RxJS: map, tap, filter",
+                    "Operadores para peticiones anidadas: switchMap",
+                    "Uso de Async pipe",
+                    "Flujo de datos reactivo y buenas prácticas"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Ruteo básico",
+                "contenido": [
+                    "Configuración del RouterModule",
+                    "Creación y navegación de rutas",
+                    "Parámetros de ruta",
+                    "Uso de RouterLink y RouterOutlet"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Ruteo avanzado",
+                "contenido": [
+                    "Lazy Loading de módulos",
+                    "Guards (CanActivate) para protección de rutas",
+                    "Rutas hijas y redirecciones",
+                    "Estructuras modulares en proyectos grandes"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Formularios por Template",
+                "contenido": [
+                    "Crear formulario con ngModel",
+                    "Validaciones integradas",
+                    "Estados del formulario",
+                    "Mostrar mensajes de error"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Formularios Reactivos",
+                "contenido": [
+                    "FormGroup, FormControl y FormBuilder",
+                    "Validaciones personalizadas",
+                    "FormArray y formularios dinámicos",
+                    "Envío de datos desde el formulario"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Pipes, Directivas y Elementos Avanzados",
+                "contenido": [
+                    "Uso de Pipes existentes",
+                    "Crear pipe personalizado",
+                    "Crear directiva personalizada",
+                    "Buenas prácticas en componentes inteligentes y tontos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto Final",
+                "contenido": [
+                    "Integración de módulos, ruteo y formularios",
+                    "Consumo de API y servicios",
+                    "Build del proyecto con ng build",
+                    "Opciones de despliegue: Firebase, Vercel, Netlify, GitHub Pages"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "nombre": "Curso de React",
+        "clases": 12,
+        "etiqueta": "React",
+        "categoria": "Framework de Frontend",
+        "descripcion": "Curso completo de React.js, desde conceptos básicos hasta el desarrollo de una aplicación final, incluyendo manejo de estado, hooks, ruteo y consumo de APIs.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a React",
+                "contenido": [
+                    "Qué es React, historia y ventajas",
+                    "Componentes y Virtual DOM",
+                    "Diferencia entre React y otros frameworks",
+                    "Instalación del entorno (Node.js, npm/yarn, Create React App o Vite)"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Primeros Componentes",
+                "contenido": [
+                    "Crear componentes funcionales",
+                    "JSX: sintaxis y reglas",
+                    "Props: pasar datos a los componentes",
+                    "Renderizado de listas simples"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Manejo de Estado",
+                "contenido": [
+                    "useState: definición y uso",
+                    "Eventos en React",
+                    "Formularios simples y manejo de inputs"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Componentes y Comunicación",
+                "contenido": [
+                    "Props vs State",
+                    "Comunicación entre componentes (padre → hijo, hijo → padre con callbacks)",
+                    "Composición de componentes"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Efectos y Ciclo de Vida",
+                "contenido": [
+                    "useEffect: definición y ejemplos",
+                    "Ciclo de vida de los componentes funcionales",
+                    "Fetching de datos externos con useEffect"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Ruteo",
+                "contenido": [
+                    "React Router: instalación y configuración",
+                    "Rutas básicas y anidadas",
+                    "Parámetros en las rutas"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Manejo avanzado de formularios",
+                "contenido": [
+                    "Formularios controlados y no controlados",
+                    "Validaciones básicas",
+                    "Librerías de formularios (opcional: Formik o React Hook Form)"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Context API",
+                "contenido": [
+                    "Qué es Context y para qué sirve",
+                    "Crear un contexto global",
+                    "Consumir datos desde cualquier componente"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Hooks adicionales",
+                "contenido": [
+                    "useRef: referencias a elementos y persistencia de valores",
+                    "useMemo y useCallback: optimización de componentes",
+                    "Custom Hooks: definición y ejemplos"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Estilos y librerías UI",
+                "contenido": [
+                    "CSS Modules, Styled Components o Tailwind CSS",
+                    "Librerías de componentes: Material UI o Bootstrap",
+                    "Animaciones simples"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Consumo de APIs y manejo de datos",
+                "contenido": [
+                    "Axios o fetch para peticiones HTTP",
+                    "Manejo de estados de carga y error",
+                    "Integración de APIs públicas (ejemplo: JSONPlaceholder o Pokémon API)"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto final",
+                "contenido": [
+                    "Desarrollar una pequeña aplicación completa (ejemplo: lista de tareas, app de notas o mini e-commerce)",
+                    "Uso de estado, props, hooks y ruteo",
+                    "Despliegue básico en Vercel, Netlify o GitHub Pages"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "nombre": "Curso de Django",
+        "clases": 12,
+        "etiqueta": "Django",
+        "categoria": "Framework de Backend",
+        "descripcion": "Curso completo de Django desde los fundamentos hasta la creación de un proyecto final funcional.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Django y configuración del entorno",
+                "contenido": [
+                    "Qué es Django y sus ventajas",
+                    "Arquitectura MTV (Modelo-Template-Vista)",
+                    "Instalación de Python, pip, virtualenv y Django",
+                    "Crear un proyecto Django básico",
+                    "Estructura de un proyecto Django"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Aplicaciones Django y rutas iniciales",
+                "contenido": [
+                    "Diferencia entre proyecto y aplicación",
+                    "Crear una aplicación Django",
+                    "Configurar urls.py",
+                    "Views básicas y respuestas HTTP",
+                    "Probar la primera página web"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Plantillas y manejo de HTML",
+                "contenido": [
+                    "Introducción a los templates de Django",
+                    "Uso de {% %} y {{ }}",
+                    "Herencia de plantillas",
+                    "Archivos estáticos: CSS, JS e imágenes"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Modelos y base de datos",
+                "contenido": [
+                    "Introducción al ORM de Django",
+                    "Definir modelos",
+                    "Migraciones (makemigrations y migrate)",
+                    "Uso de admin para manejar datos"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Formularios y manejo de datos",
+                "contenido": [
+                    "Formularios HTML en Django",
+                    "Formularios automáticos (ModelForm)",
+                    "Validación de datos",
+                    "Guardar información en la base de datos"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Vistas y URLs avanzadas",
+                "contenido": [
+                    "Vistas basadas en funciones vs. vistas basadas en clases",
+                    "URLs dinámicas y parámetros",
+                    "Redirecciones y respuestas personalizadas",
+                    "Decoradores de vistas (login_required)"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Sistema de usuarios y autenticación",
+                "contenido": [
+                    "Crear usuarios y perfiles",
+                    "Login, logout y registro",
+                    "Restricción de acceso a ciertas vistas",
+                    "Personalizar templates de autenticación"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Relaciones entre modelos",
+                "contenido": [
+                    "Tipos de relaciones: OneToOne, ManyToMany, ForeignKey",
+                    "Consultas con ORM",
+                    "Mostrar datos relacionados en templates",
+                    "Ejemplos prácticos (blogs, comentarios, etc.)"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Gestión de archivos y media",
+                "contenido": [
+                    "Subida de archivos (imágenes, documentos)",
+                    "Configuración de MEDIA_ROOT y MEDIA_URL",
+                    "Mostrar archivos en templates",
+                    "Validaciones básicas"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Django Admin y personalización",
+                "contenido": [
+                    "Personalización del panel de admin",
+                    "Filtrado, búsqueda y list_display",
+                    "Creación de usuarios administrativos",
+                    "Seguridad básica en el admin"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Pruebas y despliegue",
+                "contenido": [
+                    "Testing básico en Django",
+                    "Debugging y logging",
+                    "Configuración de settings para producción",
+                    "Despliegue en servicios como Heroku o Render"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto final",
+                "contenido": [
+                    "Creación de un proyecto completo (blog, tienda o sistema de gestión)",
+                    "Integración de modelos, vistas, templates y usuarios",
+                    "Publicación local y revisión final",
+                    "Feedback y mejora del proyecto"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "nombre": "Curso de Laravel",
+        "clases": 12,
+        "etiqueta": "Laravel",
+        "categoria": "Framework de Backend",
+        "descripcion": "Curso de introducción a Laravel para desarrollar aplicaciones web con PHP, bases de datos y buenas prácticas.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Laravel y entorno de desarrollo",
+                "contenido": [
+                    "Qué es Laravel y ventajas frente a otros frameworks",
+                    "Instalación de Laravel (Composer, Laravel Installer)",
+                    "Configuración del entorno (XAMPP, Laravel Sail o Docker)",
+                    "Estructura de carpetas y archivos en Laravel",
+                    "Primer proyecto 'Hola Mundo' en Laravel"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Rutas y controladores",
+                "contenido": [
+                    "Concepto de rutas",
+                    "Tipos de rutas (web, api)",
+                    "Parámetros en rutas",
+                    "Creación de controladores (Artisan make:controller)",
+                    "Asociar rutas a métodos de controladores"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Vistas y Blade",
+                "contenido": [
+                    "Introducción a Blade (motor de plantillas de Laravel)",
+                    "Sintaxis de Blade",
+                    "Layouts y secciones",
+                    "Inclusión de vistas parciales (@include)",
+                    "Variables y estructuras condicionales en Blade"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Bases de datos y Eloquent",
+                "contenido": [
+                    "Configuración de la base de datos",
+                    "Introducción a Eloquent ORM",
+                    "Creación de modelos (make:model)",
+                    "Migraciones y seeding",
+                    "CRUD básico usando Eloquent"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Formularios y validación",
+                "contenido": [
+                    "Creación de formularios en Blade",
+                    "Validación de datos en el controlador",
+                    "Mensajes de error y redirección",
+                    "Mass Assignment y protección de campos"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Relaciones en Eloquent",
+                "contenido": [
+                    "Tipos de relaciones: uno a uno, uno a muchos, muchos a muchos",
+                    "Ejemplos prácticos de relaciones",
+                    "Uso de métodos with y load para consultas eficientes"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Autenticación básica",
+                "contenido": [
+                    "Sistema de autenticación con laravel/ui o Breeze",
+                    "Registro, login y logout",
+                    "Middleware auth",
+                    "Protegiendo rutas"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Autorización y roles",
+                "contenido": [
+                    "Middleware personalizado",
+                    "Gates y Policies",
+                    "Control de acceso basado en roles",
+                    "Ejemplo práctico: usuarios y administradores"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Componentes Blade y Livewire",
+                "contenido": [
+                    "Qué son los componentes Blade",
+                    "Creación y uso de componentes",
+                    "Introducción a Laravel Livewire (opcional para interactividad)",
+                    "Ejemplo de un componente interactivo"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Consumo de APIs y AJAX",
+                "contenido": [
+                    "Introducción a API REST en Laravel",
+                    "Creación de rutas y controladores API",
+                    "Uso de Postman para pruebas",
+                    "Consumo de APIs desde Blade con Axios/fetch"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Testing y debugging",
+                "contenido": [
+                    "Introducción a pruebas en Laravel (PHPUnit)",
+                    "Tests de rutas, modelos y controladores",
+                    "Debugging con dd(), dump(), Laravel Telescope",
+                    "Manejo de errores y logging"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto final",
+                "contenido": [
+                    "Desarrollo de un proyecto completo (por ejemplo, blog o sistema de tareas)",
+                    "Integrar rutas, vistas, Eloquent, autenticación y validación",
+                    "Despliegue en un servidor local o remoto (opcional)",
+                    "Revisión y resolución de dudas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "nombre": "Curso de CodeIgniter",
+        "clases": 12,
+        "etiqueta": "CodeIgniter",
+        "categoria": "Framework de Backend",
+        "descripcion": "Curso completo de CodeIgniter para aprender a crear aplicaciones web utilizando el patrón MVC, bases de datos, seguridad y buenas prácticas.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a CodeIgniter y configuración del entorno",
+                "contenido": [
+                    "Qué es CodeIgniter y sus ventajas",
+                    "Requisitos: PHP, servidor local (XAMPP/WAMP/LAMP)",
+                    "Instalación de CodeIgniter",
+                    "Estructura de carpetas y archivos importantes",
+                    "Primer 'Hello World' en CodeIgniter"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Fundamentos de MVC (Modelo-Vista-Controlador)",
+                "contenido": [
+                    "Explicación del patrón MVC",
+                    "Cómo se implementa en CodeIgniter",
+                    "Creación de un controlador simple",
+                    "Creación de una vista básica"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Controladores y rutas",
+                "contenido": [
+                    "Creación de controladores con múltiples métodos",
+                    "Parámetros en URLs y rutas personalizadas",
+                    "Uso del archivo routes.php"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Vistas y plantillas",
+                "contenido": [
+                    "Creación de vistas dinámicas",
+                    "Uso de variables en las vistas",
+                    "Plantillas y layouts reutilizables",
+                    "Incluyendo CSS y JS en CodeIgniter"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Modelos y bases de datos",
+                "contenido": [
+                    "Conexión a base de datos MySQL",
+                    "Creación de modelos y métodos CRUD",
+                    "Uso del Query Builder"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Formularios y validación",
+                "contenido": [
+                    "Creación de formularios HTML en CodeIgniter",
+                    "Validación de formularios con la librería form_validation",
+                    "Mensajes de error personalizados"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Operaciones CRUD completas",
+                "contenido": [
+                    "Integración de modelos, vistas y controladores para CRUD",
+                    "Listado, creación, edición y eliminación de registros",
+                    "Redirecciones y mensajes de éxito/error"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Librerías y helpers",
+                "contenido": [
+                    "Uso de librerías integradas (session, email, pagination)",
+                    "Helpers comunes (URL, form, text)",
+                    "Creación de librerías personalizadas"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Seguridad en CodeIgniter",
+                "contenido": [
+                    "Prevención de SQL Injection",
+                    "Protección contra XSS",
+                    "Autenticación básica de usuarios"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Sesiones y manejo de usuarios",
+                "contenido": [
+                    "Inicio y cierre de sesión",
+                    "Control de acceso según roles",
+                    "Persistencia de datos en sesión"
+                ]
+            },
+            {
+                "titulo": "Clase 11: AJAX y CodeIgniter",
+                "contenido": [
+                    "Introducción a AJAX en CodeIgniter",
+                    "Integración con jQuery",
+                    "Creación de respuestas JSON desde controladores"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto final y buenas prácticas",
+                "contenido": [
+                    "Creación de una pequeña aplicación web (ej: sistema de registro de usuarios, blog o inventario)",
+                    "Repaso de conceptos clave",
+                    "Buenas prácticas de desarrollo en CodeIgniter"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "nombre": "Curso de Git & GitHub",
+        "clases": 12,
+        "etiqueta": "Git-GitHub",
+        "categoria": "Desarrollo y Control de Versiones",
+        "descripcion": "Curso completo de Git y GitHub para aprender control de versiones, colaboración y flujos de trabajo profesionales.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción al Control de Versiones",
+                "contenido": [
+                    "Qué es el control de versiones",
+                    "Problemas sin control de versiones",
+                    "Qué es Git y qué es GitHub",
+                    "Instalación de Git en Windows, Linux y Mac",
+                    "Configuración inicial de Git (nombre, email)"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Primeros Pasos con Git",
+                "contenido": [
+                    "Crear repositorios: git init",
+                    "Ciclo de vida de archivos (Working dir → Staging → Commit)",
+                    "Comandos básicos: git add, git commit, git status",
+                    "Buenas prácticas de mensajes de commit"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Navegación y Revisiones Históricas",
+                "contenido": [
+                    "Inspeccionar cambios: git log, git log --oneline, git diff",
+                    "Ver estados anteriores del proyecto",
+                    "Restauración básica: git checkout archivo, git restore"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Conexión con GitHub",
+                "contenido": [
+                    "Crear un repositorio en GitHub",
+                    "Enlazar repositorio local a remoto: git remote add origin",
+                    "Subir cambios: git push",
+                    "Descargar repositorios: git clone",
+                    "Actualizar cambios locales: git pull"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Flujo de Trabajo con GitHub",
+                "contenido": [
+                    "SSH vs HTTPS",
+                    "Crear ramas directamente en GitHub",
+                    "Gestionar branches desde la plataforma",
+                    "Crear y editar archivos desde GitHub",
+                    "Introducción a GitHub Desktop (opcional)"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Ramas en Git (Branching)",
+                "contenido": [
+                    "Crear ramas: git branch, git switch",
+                    "Cambiar de rama",
+                    "Fusionar ramas: git merge",
+                    "Estrategias de branching: feature branches, hotfix branches"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Resolución de Conflictos",
+                "contenido": [
+                    "Qué es un conflicto",
+                    "Conflictos simples y complejos",
+                    "Herramientas visuales para resolver conflictos (VSCode)",
+                    "Buenas prácticas para evitarlos"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Trabajo Colaborativo en GitHub",
+                "contenido": [
+                    "Fork de repositorios",
+                    "Pull Requests: creación, revisión, merge",
+                    "Issues y gestión de tareas",
+                    "GitHub Projects (tableros estilo Trello)"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Git Avanzado",
+                "contenido": [
+                    "Deshacer cambios: git reset (soft, mixed, hard), git revert, git restore",
+                    "Stash: git stash, git stash pop",
+                    "Cherry-pick",
+                    "Tags y versiones"
+                ]
+            },
+            {
+                "titulo": "Clase 10: GitHub Avanzado",
+                "contenido": [
+                    "Archivos fundamentales: README.md, .gitignore, LICENSE, CONTRIBUTING.md",
+                    "Crear GitHub Pages para alojar sitios web",
+                    "Crear Releases en GitHub"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Automatización con GitHub Actions",
+                "contenido": [
+                    "Qué son los Workflows",
+                    "CI/CD básico",
+                    "Crear workflow de ejemplo: ejecución automática de pruebas, automatización de builds, deploy simple"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto Final Integrado",
+                "contenido": [
+                    "Crear un proyecto colaborativo real",
+                    "Repositorio inicial, ramas por funcionalidad",
+                    "Asignación de Issues",
+                    "Pull Requests y Merge",
+                    "Despliegue con Actions",
+                    "Conclusiones y recomendaciones profesionales"
+                ]
+            }
+        ]
+    }
+]

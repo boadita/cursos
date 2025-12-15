@@ -1,0 +1,157 @@
+[
+  {
+    "id": "IN_01",
+    "nombre": "Inglés Básico (A1)",
+    "clases": 15,
+    "etiqueta": "ingles_basico",
+    "categoria": "Inglés",
+    "subcategoria": "Basico",
+    "descripcion": "Curso introductorio para aprender las bases del idioma inglés y comunicarse en situaciones cotidianas simples.",
+    "temario": [
+      {
+        "titulo": "Introducción al inglés",
+        "contenido": ["Saludos, presentaciones, alfabeto y pronunciación básica"]
+      },
+      {
+        "titulo": "Números y vocabulario básico",
+        "contenido": ["Números, colores, días de la semana, meses y estaciones"]
+      },
+      {
+        "titulo": "Gramática inicial",
+        "contenido": ["Verbo to be, artículos, pronombres personales"]
+      },
+      {
+        "titulo": "Presente simple",
+        "contenido": ["Estructura afirmativa, negativa e interrogativa"]
+      },
+      {
+        "titulo": "Comunicación básica",
+        "contenido": ["Preguntas simples y frases comunes para la vida diaria"]
+      }
+    ]
+  },
+  {
+    "id": "IN_02",
+    "nombre": "Inglés Elemental (A2)",
+    "clases": 20,
+    "etiqueta": "ingles_elemental",
+    "categoria": "Inglés",
+    "subcategoria": "Basico",
+    "descripcion": "Curso para ampliar vocabulario y mejorar la comunicación en contextos cotidianos.",
+    "temario": [
+      {
+        "titulo": "Rutinas diarias",
+        "contenido": ["Hábitos, horarios y actividades diarias"]
+      },
+      {
+        "titulo": "Familia y entorno",
+        "contenido": ["Vocabulario relacionado con familia, amigos y relaciones"]
+      },
+      {
+        "titulo": "Situaciones cotidianas",
+        "contenido": ["Compras, restaurantes y direcciones"]
+      },
+      {
+        "titulo": "Pasado simple",
+        "contenido": ["Uso de verbos regulares e irregulares"]
+      },
+      {
+        "titulo": "Preposiciones y cantidades",
+        "contenido": ["Preposiciones de tiempo y lugar, cuantificadores"]
+      }
+    ]
+  },
+  {
+    "id": "IN_03",
+    "nombre": "Inglés Intermedio (B1)",
+    "clases": 25,
+    "etiqueta": "ingles_intermedio",
+    "categoria": "Inglés",
+    "subcategoria": "Intermedio",
+    "descripcion": "Curso orientado a lograr una comunicación más fluida en contextos personales y laborales.",
+    "temario": [
+      {
+        "titulo": "Trabajo y estudios",
+        "contenido": ["Vocabulario profesional y académico"]
+      },
+      {
+        "titulo": "Viajes y experiencias",
+        "contenido": ["Situaciones de viaje y experiencias personales"]
+      },
+      {
+        "titulo": "Tiempos verbales intermedios",
+        "contenido": ["Presente perfecto y pasado continuo"]
+      },
+      {
+        "titulo": "Comparaciones",
+        "contenido": ["Comparativos y superlativos"]
+      },
+      {
+        "titulo": "Producción escrita",
+        "contenido": ["Redacción de correos y textos cortos"]
+      }
+    ]
+  },
+  {
+    "id": "IN_04",
+    "nombre": "Inglés Intermedio Alto (B2)",
+    "clases": 30,
+    "etiqueta": "ingles_alto",
+    "categoria": "Inglés",
+    "subcategoria": "Avanzado",
+    "descripcion": "Curso para desarrollar habilidades de comprensión y expresión en temas complejos.",
+    "temario": [
+      {
+        "titulo": "Temas sociales y culturales",
+        "contenido": ["Análisis de noticias y cultura general"]
+      },
+      {
+        "titulo": "Gramática avanzada",
+        "contenido": ["Condicionales, voz pasiva y reported speech"]
+      },
+      {
+        "titulo": "Expresión oral",
+        "contenido": ["Debates y conversaciones estructuradas"]
+      },
+      {
+        "titulo": "Comprensión auditiva",
+        "contenido": ["Audios y videos de dificultad media-alta"]
+      },
+      {
+        "titulo": "Escritura formal",
+        "contenido": ["Ensayos y textos formales"]
+      }
+    ]
+  },
+  {
+    "id": "IN_05",
+    "nombre": "Inglés Avanzado (C1-C2)",
+    "clases": 35,
+    "etiqueta": "ingles_avanzado",
+    "categoria": "Inglés",
+    "subcategoria": "Avanzado",
+    "descripcion": "Curso avanzado para alcanzar fluidez y precisión en contextos académicos y profesionales.",
+    "temario": [
+      {
+        "titulo": "Comunicación profesional",
+        "contenido": ["Entrevistas, presentaciones y reuniones"]
+      },
+      {
+        "titulo": "Debates y argumentación",
+        "contenido": ["Expresión de opiniones complejas y defensa de ideas"]
+      },
+      {
+        "titulo": "Gramática y vocabulario avanzado",
+        "contenido": ["Phrasal verbs, modismos y expresiones idiomáticas"]
+      },
+      {
+        "titulo": "Comprensión avanzada",
+        "contenido": ["Textos técnicos y literarios"]
+      },
+      {
+        "titulo": "Producción escrita avanzada",
+        "contenido": ["Informes, artículos y ensayos largos"]
+      }
+    ]
+  }
+]

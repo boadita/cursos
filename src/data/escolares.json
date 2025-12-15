@@ -1,0 +1,3076 @@
+[
+    {
+        "id": "MAT_E01",
+        "nombre": "Matemáticas 1° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_1_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 1° de secundaria, abarcando números, operaciones, fracciones, decimales, geometría y estadística básica.",
+        "temario": [
+            {
+                "titulo": "Números Naturales y Sistema Decimal",
+                "contenido": [
+                    "Concepto de número natural",
+                    "Lectura y escritura de números grandes",
+                    "Valor posicional",
+                    "Comparación y orden"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Números Naturales – Suma y Resta",
+                "contenido": [
+                    "Propiedades básicas",
+                    "Operaciones combinadas simples",
+                    "Problemas reales contextualizados"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Números Naturales – Multiplicación y División",
+                "contenido": [
+                    "Multiplicación por 1, 2 y 3 cifras",
+                    "División exacta e inexacta",
+                    "Verificación de resultados"
+                ]
+            },
+            {
+                "titulo": "Múltiplos y Divisores",
+                "contenido": [
+                    "Criterios de divisibilidad",
+                    "MCM y MCD",
+                    "Aplicación en problemas"
+                ]
+            },
+            {
+                "titulo": "Fracciones – Conceptos Básicos",
+                "contenido": [
+                    "Parte de un entero",
+                    "Tipos de fracciones",
+                    "Comparación y orden"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Fracciones – Suma y Resta",
+                "contenido": [
+                    "Mínimo común denominador",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Fracciones – Multiplicación y División",
+                "contenido": [
+                    "Simplificación",
+                    "Interpretación de resultados",
+                    "Problemas de la vida diaria"
+                ]
+            },
+            {
+                "titulo": "Decimales – Lectura y Representación",
+                "contenido": [
+                    "Valor posicional en decimales",
+                    "Transformación fracción ↔ decimal",
+                    "Comparación y orden"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Decimales",
+                "contenido": [
+                    "Suma, resta, multiplicación y división",
+                    "Problemas con dinero y medidas"
+                ]
+            },
+            {
+                "titulo": "Proporcionalidad y Porcentajes",
+                "contenido": [
+                    "Razón y proporción",
+                    "Regla de tres",
+                    "Porcentajes en situaciones reales"
+                ]
+            },
+            {
+                "titulo": "Geometría Básica – Figuras Planas",
+                "contenido": [
+                    "Conceptos de punto, recta, segmento y plano",
+                    "Perímetro de figuras básicas"
+                ]
+            },
+            {
+                "titulo": "Áreas de Figuras Planas",
+                "contenido": [
+                    "Área del cuadrado, rectángulo, triángulo",
+                    "Composición y descomposición de figuras"
+                ]
+            },
+            {
+                "titulo": "Coordenadas en el Plano Cartesiano",
+                "contenido": [
+                    "Ejes y puntos",
+                    "Ubicación de coordenadas",
+                    "Representación gráfica"
+                ]
+            },
+            {
+                "titulo": "Estadística Básica",
+                "contenido": [
+                    "Recolección y registro de datos",
+                    "Gráficos de barras y líneas",
+                    "Medidas básicas: moda y media"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios combinados",
+                    "Resolución de dudas",
+                    "Mini proyecto o desafío final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E02",
+        "nombre": "Matemáticas 2° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_2_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 2° de secundaria, incluyendo números enteros, ecuaciones, álgebra, geometría y estadística básica.",
+        "temario": [
+            {
+                "titulo": "Conjuntos Numéricos",
+                "contenido": [
+                    "Concepto de conjunto",
+                    "Subconjuntos",
+                    "Operaciones con conjuntos",
+                    "Diagramas de Venn"
+                ]
+            },
+            {
+                "titulo": "Números Enteros – Representación y Orden",
+                "contenido": [
+                    "Recta numérica",
+                    "Valor absoluto",
+                    "Comparación y orden de enteros"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Números Enteros",
+                "contenido": [
+                    "Suma y resta con enteros",
+                    "Multiplicación y división",
+                    "Reglas de signos",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Potenciación y Radicales Básicos",
+                "contenido": [
+                    "Definición de potencia",
+                    "Potencias de 10",
+                    "Raíz cuadrada aproximada y exacta",
+                    "Problemas contextualizados"
+                ]
+            },
+            {
+                "titulo": "Expresiones Algebraicas – Introducción",
+                "contenido": [
+                    "Términos, coeficientes y variables",
+                    "Clasificación de expresiones",
+                    "Valor numérico de una expresión"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Expresiones Algebraicas",
+                "contenido": [
+                    "Suma y resta de expresiones",
+                    "Simplificación",
+                    "Productos notables básicos"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones Lineales de Primer Grado",
+                "contenido": [
+                    "Concepto de ecuación",
+                    "Propiedades de igualdad",
+                    "Resolución paso a paso",
+                    "Problemas con ecuaciones"
+                ]
+            },
+            {
+                "titulo": "Inecuaciones Simples",
+                "contenido": [
+                    "Signo mayor/menor",
+                    "Resolución en la recta numérica",
+                    "Problemas de aplicación"
+                ]
+            },
+            {
+                "titulo": "Proporcionalidad y Regla de Tres",
+                "contenido": [
+                    "Proporcionalidad directa e inversa",
+                    "Regla de tres simple",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Geometría – Ángulos",
+                "contenido": [
+                    "Tipos de ángulos",
+                    "Ángulos adyacentes, opuestos por el vértice",
+                    "Paralelas y transversales"
+                ]
+            },
+            {
+                "titulo": "Geometría – Triángulos",
+                "contenido": [
+                    "Clasificación por lados y ángulos",
+                    "Propiedades internas",
+                    "Suma de ángulos interiores",
+                    "Construcción básica"
+                ]
+            },
+            {
+                "titulo": "Geometría – Cuadriláteros y Polígonos",
+                "contenido": [
+                    "Paralelogramos, trapecios, rombos",
+                    "Propiedades",
+                    "Suma de ángulos internos de un polígono"
+                ]
+            },
+            {
+                "titulo": "Perímetros y Áreas",
+                "contenido": [
+                    "Cálculo del perímetro en figuras complejas",
+                    "Área de triángulos, paralelogramos y trapecios",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Estadística – Tablas y Gráficos",
+                "contenido": [
+                    "Tablas de frecuencia",
+                    "Gráficos circulares, pictogramas y de barras",
+                    "Interpretación de datos"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación",
+                "contenido": [
+                    "Ejercicios integradores",
+                    "Resolución de problemas mixtos",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E03",
+        "nombre": "Matemáticas 3° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_3_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 3° de secundaria, enfocado en álgebra, ecuaciones, funciones, geometría analítica y estadística.",
+        "temario": [
+            {
+                "titulo": "Conjuntos Numéricos Ampliados",
+                "contenido": [
+                    "Racionales e irracionales",
+                    "Representación en la recta numérica",
+                    "Aproximación decimal"
+                ]
+            },
+            {
+                "titulo": "Operaciones con Números Racionales",
+                "contenido": [
+                    "Suma, resta, multiplicación y división",
+                    "Fracciones algebraicas simples",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Potencias y Radicales",
+                "contenido": [
+                    "Propiedades de las potencias",
+                    "Radicales: simplificación y operaciones básicas",
+                    "Conversión entre potencia y radical"
+                ]
+            },
+            {
+                "titulo": "Notación Científica",
+                "contenido": [
+                    "Potencias de 10",
+                    "Transformación decimal ↔ científica",
+                    "Problemas con magnitudes grandes o pequeñas"
+                ]
+            },
+            {
+                "titulo": "Álgebra – Monomios y Polinomios",
+                "contenido": [
+                    "Grado, términos y coeficientes",
+                    "Operaciones de monomios",
+                    "Clasificación y operaciones básicas de polinomios"
+                ]
+            },
+            {
+                "titulo": "Productos Notables",
+                "contenido": [
+                    "Cuadrado de un binomio",
+                    "Producto de binomios conjugados",
+                    "Binomio por trinomio",
+                    "Aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Factorización I – Casos Básicos",
+                "contenido": [
+                    "Factor común",
+                    "Factor común por agrupación"
+                ]
+            },
+            {
+                "titulo": "Factorización II – Trinomios",
+                "contenido": [
+                    "Trinomio cuadrado perfecto",
+                    "Trinomio cuadrático simple"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Primer Grado – Avanzado",
+                "contenido": [
+                    "Ecuaciones con paréntesis",
+                    "Ecuaciones con denominadores",
+                    "Problemas de aplicación"
+                ]
+            },
+            {
+                "titulo": "Sistemas de Ecuaciones Lineales (2x2)",
+                "contenido": [
+                    "Método de sustitución",
+                    "Método de igualación",
+                    "Método de reducción",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Geometría – Teorema de Pitágoras",
+                "contenido": [
+                    "Concepto",
+                    "Aplicaciones directas",
+                    "Uso en triángulos y problemas reales"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica – Rectas",
+                "contenido": [
+                    "Plano cartesiano",
+                    "Ecuación de la recta",
+                    "Representación gráfica"
+                ]
+            },
+            {
+                "titulo": "Proporcionalidad y Funciones",
+                "contenido": [
+                    "Variable dependiente e independiente",
+                    "Función lineal",
+                    "Interpretación gráfica y algebraica"
+                ]
+            },
+            {
+                "titulo": "Estadística – Medidas de Tendencia Central",
+                "contenido": [
+                    "Media aritmética",
+                    "Mediana",
+                    "Moda",
+                    "Problemas interpretativos"
+                ]
+            },
+            {
+                "titulo": "Repaso Integral y Evaluación Final",
+                "contenido": [
+                    "Ejercicios combinados",
+                    "Resolución de problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E04",
+        "nombre": "Matemáticas 4° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_4_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 4° de secundaria, consolidando álgebra, funciones, geometría y estadística avanzada.",
+        "temario": [
+            {
+                "titulo": "Números Reales",
+                "contenido": [
+                    "Conjuntos numéricos: racionales e irracionales",
+                    "Propiedades y operaciones básicas",
+                    "Aproximación y redondeo"
+                ]
+            },
+            {
+                "titulo": "Radicales – Operaciones Avanzadas",
+                "contenido": [
+                    "Simplificación de radicales",
+                    "Suma, resta, multiplicación y división",
+                    "Radicales con exponentes fraccionarios"
+                ]
+            },
+            {
+                "titulo": "Potencias y Exponentes",
+                "contenido": [
+                    "Propiedades de potencias con exponentes enteros",
+                    "Exponentes negativos y fraccionarios",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Álgebra – Polinomios",
+                "contenido": [
+                    "Clasificación de polinomios",
+                    "Operaciones: suma, resta y multiplicación",
+                    "División de polinomios por monomio"
+                ]
+            },
+            {
+                "titulo": "Factorización Avanzada",
+                "contenido": [
+                    "Trinomios cuadrados perfectos",
+                    "Diferencia de cuadrados",
+                    "Factorización por agrupación avanzada"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Primer y Segundo Grado",
+                "contenido": [
+                    "Ecuaciones lineales con fracciones y paréntesis",
+                    "Ecuaciones cuadráticas completas",
+                    "Resolución por factorización y fórmula general"
+                ]
+            },
+            {
+                "titulo": "Sistemas de Ecuaciones Lineales",
+                "contenido": [
+                    "Método de sustitución",
+                    "Método de reducción",
+                    "Aplicación en problemas de dos incógnitas"
+                ]
+            },
+            {
+                "titulo": "Funciones Lineales",
+                "contenido": [
+                    "Concepto de función",
+                    "Pendiente e intersección con los ejes",
+                    "Representación gráfica y problemas"
+                ]
+            },
+            {
+                "titulo": "Funciones Cuadráticas",
+                "contenido": [
+                    "Forma canónica",
+                    "Vértice y parábola",
+                    "Gráfica y resolución de problemas"
+                ]
+            },
+            {
+                "titulo": "Proporcionalidad y Razón",
+                "contenido": [
+                    "Razón y proporción",
+                    "Regla de tres compuesta",
+                    "Aplicaciones en la vida cotidiana"
+                ]
+            },
+            {
+                "titulo": "Geometría – Triángulos y Polígonos",
+                "contenido": [
+                    "Tipos de triángulos y propiedades",
+                    "Suma de ángulos en polígonos",
+                    "Resolución de problemas"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica – Rectas y Puntos",
+                "contenido": [
+                    "Ecuación de la recta",
+                    "Pendiente e intersección",
+                    "Distancia entre dos puntos"
+                ]
+            },
+            {
+                "titulo": "Teorema de Pitágoras y Aplicaciones",
+                "contenido": [
+                    "Problemas de triángulos rectángulos",
+                    "Aplicación a problemas reales",
+                    "Triángulos semejantes"
+                ]
+            },
+            {
+                "titulo": "Estadística y Probabilidad Básica",
+                "contenido": [
+                    "Tablas y gráficos",
+                    "Medidas de tendencia central",
+                    "Probabilidad simple y problemas prácticos"
+                ]
+            },
+            {
+                "titulo": "Repaso Integral y Evaluación Final",
+                "contenido": [
+                    "Ejercicios combinados de álgebra, geometría y funciones",
+                    "Resolución de problemas complejos",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E05",
+        "nombre": "Matemáticas 5° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_5_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 5° de secundaria, incluyendo álgebra avanzada, funciones, progresiones, geometría, trigonometría y logaritmos.",
+        "temario": [
+            {
+                "titulo": "Números Reales y Propiedades",
+                "contenido": [
+                    "Revisión de números racionales e irracionales",
+                    "Operaciones combinadas",
+                    "Propiedades distributiva, asociativa y conmutativa"
+                ]
+            },
+            {
+                "titulo": "Radicales y Exponentes",
+                "contenido": [
+                    "Simplificación de radicales",
+                    "Operaciones combinadas",
+                    "Exponentes enteros y fraccionarios"
+                ]
+            },
+            {
+                "titulo": "Polinomios y Operaciones",
+                "contenido": [
+                    "Clasificación: monomios, binomios y trinomios",
+                    "Suma, resta, multiplicación y división por monomio",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Factorización Avanzada",
+                "contenido": [
+                    "Factor común, diferencia de cuadrados",
+                    "Trinomios y factor común por agrupación",
+                    "Aplicaciones en resolución de ecuaciones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Primer y Segundo Grado",
+                "contenido": [
+                    "Ecuaciones lineales con fracciones",
+                    "Ecuaciones cuadráticas completas e incompletas",
+                    "Resolución por factorización y fórmula general"
+                ]
+            },
+            {
+                "titulo": "Sistemas de Ecuaciones Lineales y Cuadráticos",
+                "contenido": [
+                    "Sistemas de 2x2: sustitución, reducción e igualación",
+                    "Aplicación en problemas reales",
+                    "Introducción a sistemas con ecuación cuadrática"
+                ]
+            },
+            {
+                "titulo": "Funciones Lineales y Cuadráticas",
+                "contenido": [
+                    "Concepto de función y dominio",
+                    "Representación gráfica",
+                    "Funciones lineales y cuadráticas: análisis e interpretación"
+                ]
+            },
+            {
+                "titulo": "Funciones Polinómicas y Racionales",
+                "contenido": [
+                    "Funciones de mayor grado",
+                    "Funciones racionales simples",
+                    "Representación gráfica y análisis"
+                ]
+            },
+            {
+                "titulo": "Progresiones Aritméticas y Geométricas",
+                "contenido": [
+                    "Definición y fórmula de término general",
+                    "Suma de términos",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Geometría – Triángulos y Polígonos",
+                "contenido": [
+                    "Propiedades de triángulos semejantes y congruentes",
+                    "Suma de ángulos en polígonos",
+                    "Resolución de problemas"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica",
+                "contenido": [
+                    "Rectas: pendiente, intersección y paralelismo",
+                    "Distancia entre puntos y punto medio",
+                    "Aplicación en problemas"
+                ]
+            },
+            {
+                "titulo": "Teorema de Pitágoras y Trigonometría Básica",
+                "contenido": [
+                    "Triángulos rectángulos",
+                    "Razones trigonométricas: seno, coseno, tangente",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Probabilidad y Estadística",
+                "contenido": [
+                    "Medidas de tendencia central",
+                    "Gráficos de barras, líneas y circulares",
+                    "Probabilidad simple y compuesta"
+                ]
+            },
+            {
+                "titulo": "Logaritmos y Aplicaciones",
+                "contenido": [
+                    "Concepto de logaritmo",
+                    "Propiedades y operaciones",
+                    "Aplicación a problemas simples"
+                ]
+            },
+            {
+                "titulo": "Repaso Integral y Evaluación Final",
+                "contenido": [
+                    "Ejercicios integradores: álgebra, geometría, funciones y trigonometría",
+                    "Resolución de problemas mixtos",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E06",
+        "nombre": "Matemáticas 6° de Secundaria",
+        "clases": 15,
+        "etiqueta": "Matematicas_6_secundaria",
+        "categoria": "escolares",
+        "subcategoria": "Secundaria",
+        "descripcion": "Curso de matemáticas para 6° de secundaria, consolidando álgebra avanzada, funciones, geometría, trigonometría, logaritmos y estadística para preparación preuniversitaria.",
+        "temario": [
+            {
+                "titulo": "Números Reales y Operaciones Combinadas",
+                "contenido": [
+                    "Revisión de números racionales e irracionales",
+                    "Propiedades de los números reales",
+                    "Operaciones combinadas y jerarquía de operaciones"
+                ]
+            },
+            {
+                "titulo": "Radicales y Exponentes",
+                "contenido": [
+                    "Simplificación de radicales",
+                    "Operaciones combinadas",
+                    "Exponentes enteros y fraccionarios",
+                    "Potencias de base negativa y cero"
+                ]
+            },
+            {
+                "titulo": "Polinomios y Operaciones",
+                "contenido": [
+                    "Monomios, binomios y polinomios",
+                    "Suma, resta y multiplicación de polinomios",
+                    "División de polinomios por monomio y binomio"
+                ]
+            },
+            {
+                "titulo": "Factorización Avanzada",
+                "contenido": [
+                    "Factor común, diferencia de cuadrados",
+                    "Trinomios y factor común por agrupación",
+                    "Aplicación en resolución de ecuaciones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Primer y Segundo Grado",
+                "contenido": [
+                    "Ecuaciones lineales con fracciones",
+                    "Ecuaciones cuadráticas completas e incompletas",
+                    "Resolución por factorización y fórmula general"
+                ]
+            },
+            {
+                "titulo": "Sistemas de Ecuaciones",
+                "contenido": [
+                    "Sistemas lineales 2x2 y 3x3",
+                    "Resolución por sustitución, reducción e igualación",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Funciones Lineales y Cuadráticas",
+                "contenido": [
+                    "Concepto de función y dominio",
+                    "Representación gráfica",
+                    "Funciones lineales y cuadráticas: análisis e interpretación"
+                ]
+            },
+            {
+                "titulo": "Funciones Polinómicas y Racionales",
+                "contenido": [
+                    "Funciones de mayor grado",
+                    "Funciones racionales",
+                    "Representación gráfica y aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Progresiones Aritméticas y Geométricas",
+                "contenido": [
+                    "Fórmulas de término general y suma de términos",
+                    "Aplicaciones prácticas y problemas de interés financiero"
+                ]
+            },
+            {
+                "titulo": "Geometría – Triángulos y Polígonos",
+                "contenido": [
+                    "Triángulos semejantes y congruentes",
+                    "Propiedades de cuadriláteros y polígonos",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica",
+                "contenido": [
+                    "Rectas: pendiente, intersección y paralelismo",
+                    "Distancia entre puntos, punto medio",
+                    "Problemas aplicados en el plano cartesiano"
+                ]
+            },
+            {
+                "titulo": "Trigonometría Avanzada",
+                "contenido": [
+                    "Razones trigonométricas: seno, coseno, tangente",
+                    "Ley de senos y cosenos",
+                    "Resolución de triángulos y problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Logaritmos y Exponenciales",
+                "contenido": [
+                    "Concepto y propiedades de logaritmos",
+                    "Resolución de ecuaciones exponenciales y logarítmicas",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Probabilidad y Estadística Avanzada",
+                "contenido": [
+                    "Medidas de tendencia central y dispersión",
+                    "Probabilidad simple y compuesta",
+                    "Interpretación de gráficos y tablas"
+                ]
+            },
+            {
+                "titulo": "Repaso Integral y Evaluación Final",
+                "contenido": [
+                    "Ejercicios integradores de álgebra, geometría, funciones, trigonometría y estadística",
+                    "Resolución de problemas complejos",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E07",
+        "nombre": "Álgebra Básica",
+        "clases": 12,
+        "etiqueta": "Algebra_basica",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso introductorio al álgebra para estudiantes que desean fortalecer sus bases en operaciones algebraicas, ecuaciones y funciones fundamentales.",
+        "temario": [
+            {
+                "titulo": "Introducción al Álgebra",
+                "contenido": [
+                    "Concepto de álgebra",
+                    "Expresiones algebraicas",
+                    "Lenguaje algebraico"
+                ]
+            },
+            {
+                "titulo": "Propiedades y Operaciones con Números Reales",
+                "contenido": [
+                    "Jerarquía de operaciones",
+                    "Propiedades conmutativa, asociativa y distributiva",
+                    "Resolución de operaciones combinadas"
+                ]
+            },
+            {
+                "titulo": "Monomios y Polinomios",
+                "contenido": [
+                    "Identificación de términos",
+                    "Grado de un polinomio",
+                    "Suma y resta de polinomios"
+                ]
+            },
+            {
+                "titulo": "Multiplicación de Monomios y Polinomios",
+                "contenido": [
+                    "Productos notables básicos",
+                    "Multiplicación por monomios",
+                    "Multiplicación entre polinomios"
+                ]
+            },
+            {
+                "titulo": "Factorización I",
+                "contenido": [
+                    "Factor común",
+                    "Diferencia de cuadrados",
+                    "Factorización simple"
+                ]
+            },
+            {
+                "titulo": "Factorización II",
+                "contenido": [
+                    "Trinomio cuadrado perfecto",
+                    "Trinomio de la forma x² + bx + c",
+                    "Aplicación en resolución de problemas"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Primer Grado",
+                "contenido": [
+                    "Ecuaciones lineales simples",
+                    "Ecuaciones con paréntesis y fracciones",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones de Segundo Grado",
+                "contenido": [
+                    "Ecuaciones completas e incompletas",
+                    "Resolución por factorización",
+                    "Introducción a la fórmula general"
+                ]
+            },
+            {
+                "titulo": "Inecuaciones",
+                "contenido": [
+                    "Concepto de desigualdad",
+                    "Resolución de inecuaciones lineales",
+                    "Representación gráfica en la recta"
+                ]
+            },
+            {
+                "titulo": "Sistemas de Ecuaciones",
+                "contenido": [
+                    "Método de sustitución",
+                    "Método de reducción",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Funciones Lineales",
+                "contenido": [
+                    "Concepto de función",
+                    "Pendiente e intersección",
+                    "Representación gráfica"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Resolución de ejercicios de todos los temas",
+                    "Problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E08",
+        "nombre": "Geometría",
+        "clases": 12,
+        "etiqueta": "Geometria",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso completo de geometría elemental y analítica para fortalecer el razonamiento espacial, el cálculo de áreas, perímetros, ángulos y la interpretación de figuras.",
+        "temario": [
+            {
+                "titulo": "Conceptos Fundamentales de Geometría",
+                "contenido": [
+                    "Punto, recta y plano",
+                    "Segmentos y semirrectas",
+                    "Ángulos: tipos y clasificación"
+                ]
+            },
+            {
+                "titulo": "Operaciones y Medición de Ángulos",
+                "contenido": [
+                    "Medición en grados",
+                    "Ángulos complementarios y suplementarios",
+                    "Ángulos opuestos por el vértice"
+                ]
+            },
+            {
+                "titulo": "Triángulos",
+                "contenido": [
+                    "Clasificación por lados y ángulos",
+                    "Propiedades básicas",
+                    "Suma de ángulos interiores"
+                ]
+            },
+            {
+                "titulo": "Congruencia y Semejanza de Triángulos",
+                "contenido": [
+                    "Criterios de congruencia",
+                    "Criterios de semejanza",
+                    "Aplicaciones en problemas reales"
+                ]
+            },
+            {
+                "titulo": "Cuadriláteros",
+                "contenido": [
+                    "Clasificación de cuadriláteros",
+                    "Propiedades del paralelogramo",
+                    "Trapecios y rombos"
+                ]
+            },
+            {
+                "titulo": "Polígonos Regulares e Irregulares",
+                "contenido": [
+                    "Elementos de un polígono",
+                    "Cálculo de ángulos interiores",
+                    "Perímetros de polígonos"
+                ]
+            },
+            {
+                "titulo": "Circunferencia y Círculo",
+                "contenido": [
+                    "Elementos de la circunferencia",
+                    "Ángulos inscritos y centrales",
+                    "Longitudes y áreas"
+                ]
+            },
+            {
+                "titulo": "Perímetros y Áreas",
+                "contenido": [
+                    "Áreas de figuras planas: triángulos, cuadriláteros y polígonos",
+                    "Aplicación en problemas",
+                    "Uso de fórmulas y deducciones"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica I",
+                "contenido": [
+                    "Plano cartesiano",
+                    "Distancia entre dos puntos",
+                    "Punto medio"
+                ]
+            },
+            {
+                "titulo": "Geometría Analítica II",
+                "contenido": [
+                    "Pendiente de una recta",
+                    "Ecuación de la recta",
+                    "Rectas paralelas y perpendiculares"
+                ]
+            },
+            {
+                "titulo": "Teorema de Pitágoras",
+                "contenido": [
+                    "Concepto y demostración básica",
+                    "Aplicaciones en triángulos rectángulos",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios integradores",
+                    "Problemas de geometría plana y analítica",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E09",
+        "nombre": "Trigonometría",
+        "clases": 12,
+        "etiqueta": "Trigonometria",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso esencial de trigonometría que abarca razones trigonométricas, identidades, resolución de triángulos y aplicaciones prácticas en geometría y física.",
+        "temario": [
+            {
+                "titulo": "Introducción a la Trigonometría",
+                "contenido": [
+                    "Concepto de razón trigonométrica",
+                    "El triángulo rectángulo",
+                    "Aplicaciones iniciales"
+                ]
+            },
+            {
+                "titulo": "Razones Trigonométricas en el Triángulo Rectángulo",
+                "contenido": [
+                    "Seno, coseno y tangente",
+                    "Cosecante, secante y cotangente",
+                    "Relaciones básicas entre razones"
+                ]
+            },
+            {
+                "titulo": "Ángulos y Medición",
+                "contenido": [
+                    "Grados y radianes",
+                    "Conversión entre unidades",
+                    "Ángulos notables"
+                ]
+            },
+            {
+                "titulo": "Círculo Trigonométrico",
+                "contenido": [
+                    "Coordenadas en el círculo trigonométrico",
+                    "Signos de las razones trigonométricas",
+                    "Ángulos en los cuatro cuadrantes"
+                ]
+            },
+            {
+                "titulo": "Identidades Trigonométricas Básicas",
+                "contenido": [
+                    "Identidad fundamental",
+                    "Relaciones pitagóricas",
+                    "Proporciones y simplificaciones"
+                ]
+            },
+            {
+                "titulo": "Identidades Trigonométricas Avanzadas",
+                "contenido": [
+                    "Ángulos dobles",
+                    "Ángulos mitad",
+                    "Suma y diferencia de ángulos"
+                ]
+            },
+            {
+                "titulo": "Resolución de Triángulos Rectángulos",
+                "contenido": [
+                    "Aplicación de razones trigonométricas",
+                    "Problemas con alturas y distancias",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Resolución de Triángulos Oblicuángulos",
+                "contenido": [
+                    "Ley de senos",
+                    "Ley de cosenos",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Funciones Trigonométricas",
+                "contenido": [
+                    "Seno, coseno y tangente como funciones",
+                    "Gráficas básicas",
+                    "Período y amplitud"
+                ]
+            },
+            {
+                "titulo": "Aplicaciones en Física y Geometría",
+                "contenido": [
+                    "Vectores y componentes",
+                    "Movimiento oscilatorio",
+                    "Modelos trigonométricos"
+                ]
+            },
+            {
+                "titulo": "Problemas Avanzados de Trigonometría",
+                "contenido": [
+                    "Problemas de mezcla de identidades",
+                    "Aplicaciones en geometría analítica",
+                    "Ejercicios retadores"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios de todos los temas",
+                    "Problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E10",
+        "nombre": "Aritmética",
+        "clases": 12,
+        "etiqueta": "Aritmetica",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso fundamental para reforzar las operaciones básicas, el manejo de fracciones, porcentajes, razones y proporciones, con aplicación práctica en problemas reales.",
+        "temario": [
+            {
+                "titulo": "Introducción a la Aritmética",
+                "contenido": [
+                    "Conjuntos numéricos",
+                    "Propiedades de los números",
+                    "Jerarquía de operaciones"
+                ]
+            },
+            {
+                "titulo": "Operaciones Básicas con Números Naturales",
+                "contenido": [
+                    "Suma y resta",
+                    "Multiplicación y división",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Divisibilidad",
+                "contenido": [
+                    "Múltiplos y divisores",
+                    "Criterios de divisibilidad",
+                    "Máximo común divisor (MCD) y mínimo común múltiplo (MCM)"
+                ]
+            },
+            {
+                "titulo": "Fracciones I",
+                "contenido": [
+                    "Concepto de fracción",
+                    "Fracciones equivalentes",
+                    "Simplificación"
+                ]
+            },
+            {
+                "titulo": "Fracciones II",
+                "contenido": [
+                    "Suma y resta de fracciones",
+                    "Multiplicación y división",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Decimales",
+                "contenido": [
+                    "Conversión entre fracciones y decimales",
+                    "Operaciones con decimales",
+                    "Aproximación y redondeo"
+                ]
+            },
+            {
+                "titulo": "Porcentajes",
+                "contenido": [
+                    "Cálculo de porcentajes",
+                    "Aumentos y descuentos",
+                    "Aplicaciones financieras básicas"
+                ]
+            },
+            {
+                "titulo": "Razones y Proporciones",
+                "contenido": [
+                    "Razón",
+                    "Proporción directa e inversa",
+                    "Regla de tres"
+                ]
+            },
+            {
+                "titulo": "Proporcionalidad Compuesta",
+                "contenido": [
+                    "Regla de tres compuesta",
+                    "Aplicaciones prácticas",
+                    "Problemas cotidianos"
+                ]
+            },
+            {
+                "titulo": "Potenciación y Radicación Básica",
+                "contenido": [
+                    "Potencias con exponentes naturales",
+                    "Raíces cuadradas y cúbicas",
+                    "Relación entre potencia y raíz"
+                ]
+            },
+            {
+                "titulo": "Problemas de Aplicación Aritmética",
+                "contenido": [
+                    "Problemas cotidianos",
+                    "Problemas de mezcla y combinación",
+                    "Problemas financieros de nivel básico"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios de todos los temas",
+                    "Problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E11",
+        "nombre": "Razón y Proporción",
+        "clases": 10,
+        "etiqueta": "Razon_y_proporcion",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso especializado en el estudio de razones y proporciones, regla de tres simple y compuesta, así como aplicaciones prácticas en problemas cotidianos, financieros y científicos.",
+        "temario": [
+            {
+                "titulo": "Introducción a Razón y Proporción",
+                "contenido": [
+                    "Concepto de razón",
+                    "Tipos de razones",
+                    "Equivalencia de razones"
+                ]
+            },
+            {
+                "titulo": "Proporción",
+                "contenido": [
+                    "Concepto de proporción",
+                    "Propiedades de las proporciones",
+                    "Cuatro términos proporcionales"
+                ]
+            },
+            {
+                "titulo": "Razón Directa e Inversa",
+                "contenido": [
+                    "Relaciones de proporcionalidad directa",
+                    "Relaciones de proporcionalidad inversa",
+                    "Aplicaciones simples"
+                ]
+            },
+            {
+                "titulo": "Regla de Tres Simple",
+                "contenido": [
+                    "Concepto y estructura",
+                    "Regla de tres directa",
+                    "Regla de tres inversa"
+                ]
+            },
+            {
+                "titulo": "Regla de Tres Compuesta",
+                "contenido": [
+                    "Proporcionalidad múltiple",
+                    "Problemas de varios factores",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Porcentajes Relacionados con Proporciones",
+                "contenido": [
+                    "Conversión entre fracciones, decimales y porcentajes",
+                    "Cálculos porcentuales usando proporciones",
+                    "Descuentos y aumentos porcentuales"
+                ]
+            },
+            {
+                "titulo": "Escalas y Mapas",
+                "contenido": [
+                    "Concepto de escala",
+                    "Escalas numéricas y gráficas",
+                    "Aplicación en planos y mapas"
+                ]
+            },
+            {
+                "titulo": "Razones Trigonométricas Iniciales",
+                "contenido": [
+                    "Relación entre razón y triángulos",
+                    "Concepto básico de seno, coseno y tangente",
+                    "Aplicaciones simples"
+                ]
+            },
+            {
+                "titulo": "Problemas Aplicados de Razón y Proporción",
+                "contenido": [
+                    "Problemas financieros",
+                    "Problemas de mezcla",
+                    "Problemas geométricos"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios completos del curso",
+                    "Problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E12",
+        "nombre": "Estadística y Probabilidad Básica",
+        "clases": 10,
+        "etiqueta": "Estadistica_y_probabilidad",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso introductorio que abarca conceptos fundamentales de estadística descriptiva y probabilidad, ideal para estudiantes que comienzan en el análisis de datos.",
+        "temario": [
+            {
+                "titulo": "Introducción a la Estadística",
+                "contenido": [
+                    "Conceptos de población y muestra",
+                    "Datos cualitativos y cuantitativos",
+                    "Tipos de variables"
+                ]
+            },
+            {
+                "titulo": "Organización y Presentación de Datos",
+                "contenido": [
+                    "Tablas de frecuencia",
+                    "Histogramas y polígonos",
+                    "Gráficos de barras y circulares"
+                ]
+            },
+            {
+                "titulo": "Medidas de Tendencia Central",
+                "contenido": [
+                    "Media aritmética",
+                    "Mediana",
+                    "Moda"
+                ]
+            },
+            {
+                "titulo": "Medidas de Dispersión",
+                "contenido": [
+                    "Rango",
+                    "Varianza",
+                    "Desviación estándar"
+                ]
+            },
+            {
+                "titulo": "Medidas de Posición",
+                "contenido": [
+                    "Cuartiles",
+                    "Percentiles",
+                    "Aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Introducción a la Probabilidad",
+                "contenido": [
+                    "Espacio muestral",
+                    "Eventos simples y compuestos",
+                    "Regla de Laplace"
+                ]
+            },
+            {
+                "titulo": "Probabilidad de Eventos Compuestos",
+                "contenido": [
+                    "Unión e intersección de eventos",
+                    "Eventos dependientes e independientes",
+                    "Regla del complemento"
+                ]
+            },
+            {
+                "titulo": "Diagramas y Técnicas de Conteo",
+                "contenido": [
+                    "Diagramas de árbol",
+                    "Tabla de doble entrada",
+                    "Principio fundamental del conteo"
+                ]
+            },
+            {
+                "titulo": "Distribuciones Discretas Básicas",
+                "contenido": [
+                    "Distribución binomial (conceptual)",
+                    "Distribución uniforme discreta",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios de estadística descriptiva",
+                    "Problemas de probabilidad",
+                    "Evaluación integradora"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_E13",
+        "nombre": "Matemática Financiera Básica",
+        "clases": 10,
+        "etiqueta": "Matematica_financiera",
+        "categoria": "escolares",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso introductorio sobre conceptos financieros fundamentales como intereses, descuentos, anualidades y porcentajes aplicados a la vida diaria y al ámbito económico.",
+        "temario": [
+            {
+                "titulo": "Introducción a la Matemática Financiera",
+                "contenido": [
+                    "Conceptos básicos: capital, interés, tiempo",
+                    "Valor del dinero en el tiempo",
+                    "Aplicaciones cotidianas"
+                ]
+            },
+            {
+                "titulo": "Porcentajes y Proporciones Financieras",
+                "contenido": [
+                    "Cálculo de porcentajes aplicado a finanzas",
+                    "Aumentos y descuentos",
+                    "Resolución de problemas básicos"
+                ]
+            },
+            {
+                "titulo": "Interés Simple",
+                "contenido": [
+                    "Fórmula del interés simple",
+                    "Cálculo del capital, tiempo e interés",
+                    "Aplicaciones en préstamos y ahorros"
+                ]
+            },
+            {
+                "titulo": "Interés Compuesto",
+                "contenido": [
+                    "Fórmula del interés compuesto",
+                    "Capitalización",
+                    "Aplicaciones en inversiones"
+                ]
+            },
+            {
+                "titulo": "Descuentos Comerciales",
+                "contenido": [
+                    "Descuento simple",
+                    "Descuento racional",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Tasas de Interés",
+                "contenido": [
+                    "Tasa nominal y efectiva",
+                    "Conversión entre tasas",
+                    "Ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Anualidades Básicas",
+                "contenido": [
+                    "Concepto de anualidad",
+                    "Anualidades vencidas",
+                    "Cálculo de cuotas"
+                ]
+            },
+            {
+                "titulo": "Préstamos y Amortizaciones",
+                "contenido": [
+                    "Sistemas de amortización",
+                    "Cuotas constantes",
+                    "Aplicaciones bancarias"
+                ]
+            },
+            {
+                "titulo": "Problemas Financieros Aplicados",
+                "contenido": [
+                    "Aplicaciones en compras y ventas",
+                    "Decisiones de inversión",
+                    "Interpretación financiera básica"
+                ]
+            },
+            {
+                "titulo": "Repaso General y Evaluación Final",
+                "contenido": [
+                    "Ejercicios completos del curso",
+                    "Problemas integradores",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E01",
+        "nombre": "Física 1 (Conceptos básicos)",
+        "clases": 12,
+        "etiqueta": "Fisica_I",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso introductorio a los principios fundamentales de la física, ideal para estudiantes que inician en el área científica. Cubre unidades, movimiento, fuerzas, energía, trabajo, leyes de Newton y conceptos básicos aplicados.",
+        "temario": [
+            {
+                "titulo": "Introducción a la Física",
+                "contenido": [
+                    "Qué es la física",
+                    "Importancia y aplicaciones",
+                    "Sistema Internacional de Unidades",
+                    "Magnitudes y mediciones"
+                ]
+            },
+            {
+                "titulo": "Vectores y operaciones",
+                "contenido": [
+                    "Magnitudes escalares y vectoriales",
+                    "Suma y resta de vectores",
+                    "Componentes de un vector",
+                    "Producto punto"
+                ]
+            },
+            {
+                "titulo": "Movimiento en una dimensión",
+                "contenido": [
+                    "Posición, desplazamiento y velocidad",
+                    "Aceleración",
+                    "Gráficas de movimiento",
+                    "MRU y MRUV"
+                ]
+            },
+            {
+                "titulo": "Movimiento en dos dimensiones",
+                "contenido": [
+                    "Vectores de movimiento",
+                    "Tiro parabólico",
+                    "Movimiento circular uniforme"
+                ]
+            },
+            {
+                "titulo": "Fuerzas y Leyes de Newton",
+                "contenido": [
+                    "Concepto de fuerza",
+                    "Primera Ley de Newton",
+                    "Segunda Ley de Newton",
+                    "Tercera Ley de Newton",
+                    "Diagramas de cuerpo libre"
+                ]
+            },
+            {
+                "titulo": "Fuerza de fricción y fuerzas comunes",
+                "contenido": [
+                    "Fricción estática y cinética",
+                    "Fuerza normal",
+                    "Tensión",
+                    "Peso"
+                ]
+            },
+            {
+                "titulo": "Trabajo y energía",
+                "contenido": [
+                    "Trabajo mecánico",
+                    "Energía cinética",
+                    "Energía potencial",
+                    "Teorema trabajo-energía"
+                ]
+            },
+            {
+                "titulo": "Conservación de la energía",
+                "contenido": [
+                    "Energía mecánica",
+                    "Sistemas conservativos y no conservativos",
+                    "Diagramas energéticos"
+                ]
+            },
+            {
+                "titulo": "Cantidad de movimiento",
+                "contenido": [
+                    "Momento lineal",
+                    "Impulso",
+                    "Choques elásticos e inelásticos",
+                    "Conservación del momento"
+                ]
+            },
+            {
+                "titulo": "Dinámica del movimiento circular",
+                "contenido": [
+                    "Aceleración centrípeta",
+                    "Fuerza centrípeta",
+                    "Aplicaciones cotidianas"
+                ]
+            },
+            {
+                "titulo": "Gravitación",
+                "contenido": [
+                    "Ley de gravitación universal",
+                    "Campos gravitatorios",
+                    "Movimiento de planetas"
+                ]
+            },
+            {
+                "titulo": "Repaso general y ejercicios",
+                "contenido": [
+                    "Resumen del curso",
+                    "Ejercicios integradores",
+                    "Problemas tipo examen"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E02",
+        "nombre": "Física 2 (Cinemática)",
+        "clases": 12,
+        "etiqueta": "Fisica_II",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso dedicado al estudio detallado del movimiento de los cuerpos sin considerar las fuerzas que lo producen. Incluye análisis en una y dos dimensiones, gráficas, velocidad, aceleración y aplicaciones prácticas.",
+        "temario": [
+            {
+                "titulo": "Introducción a la cinemática",
+                "contenido": [
+                    "Concepto de cinemática",
+                    "Magnitudes del movimiento",
+                    "Sistemas de referencia",
+                    "Convenciones de signo"
+                ]
+            },
+            {
+                "titulo": "Movimiento rectilíneo uniforme (MRU)",
+                "contenido": [
+                    "Desplazamiento",
+                    "Velocidad constante",
+                    "Gráficas posición-tiempo",
+                    "Problemas básicos de MRU"
+                ]
+            },
+            {
+                "titulo": "Movimiento rectilíneo uniformemente variado (MRUV)",
+                "contenido": [
+                    "Aceleración constante",
+                    "Fórmulas del MRUV",
+                    "Gráficas de velocidad y aceleración",
+                    "Caída libre"
+                ]
+            },
+            {
+                "titulo": "Análisis gráfico del movimiento",
+                "contenido": [
+                    "Interpretación de gráficas",
+                    "Área bajo la curva",
+                    "Relación entre x(t), v(t) y a(t)"
+                ]
+            },
+            {
+                "titulo": "Movimiento en dos dimensiones",
+                "contenido": [
+                    "Descomposición vectorial",
+                    "Movimiento independiente en ejes x e y",
+                    "Trayectorias"
+                ]
+            },
+            {
+                "titulo": "Tiro parabólico",
+                "contenido": [
+                    "Ángulo de lanzamiento",
+                    "Alcance máximo",
+                    "Altura máxima",
+                    "Tiempo de vuelo"
+                ]
+            },
+            {
+                "titulo": "Movimiento circular uniforme (MCU)",
+                "contenido": [
+                    "Velocidad angular",
+                    "Periodo y frecuencia",
+                    "Aceleración centrípeta"
+                ]
+            },
+            {
+                "titulo": "Movimiento circular no uniforme",
+                "contenido": [
+                    "Aceleración tangencial",
+                    "Aceleración total",
+                    "Ejemplos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Movimientos relativos",
+                "contenido": [
+                    "Velocidad relativa",
+                    "Composición de movimientos",
+                    "Aplicaciones en transporte"
+                ]
+            },
+            {
+                "titulo": "Cinemática en una dimensión con análisis avanzado",
+                "contenido": [
+                    "Ecuaciones paramétricas",
+                    "Modelos reales de movimiento",
+                    "Resolución de problemas complejos"
+                ]
+            },
+            {
+                "titulo": "Cinemática en dos y tres dimensiones",
+                "contenido": [
+                    "Trayectorias espaciales",
+                    "Movimiento curvilíneo",
+                    "Ejes móviles"
+                ]
+            },
+            {
+                "titulo": "Repaso y problemas integradores",
+                "contenido": [
+                    "Resumen general",
+                    "Problemas tipo examen",
+                    "Aplicaciones prácticas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E03",
+        "nombre": "Física 3 (Dinámica)",
+        "clases": 12,
+        "etiqueta": "Fisica_III",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso centrado en el estudio de las fuerzas que producen o modifican el movimiento. Incluye las Leyes de Newton, fuerzas comunes, fricción, dinámica del movimiento circular y aplicaciones en sistemas físicos.",
+        "temario": [
+            {
+                "titulo": "Conceptos fundamentales de dinámica",
+                "contenido": [
+                    "Relación entre dinámica y cinemática",
+                    "Fuerza y masa",
+                    "Interacciones",
+                    "Sistemas de referencia"
+                ]
+            },
+            {
+                "titulo": "Primera Ley de Newton",
+                "contenido": [
+                    "Concepto de inercia",
+                    "Equilibrio de fuerzas",
+                    "Ejemplos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Segunda Ley de Newton",
+                "contenido": [
+                    "F = m·a",
+                    "Suma de fuerzas",
+                    "Cálculo de aceleraciones",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Tercera Ley de Newton",
+                "contenido": [
+                    "Acción y reacción",
+                    "Fuerzas por pares",
+                    "Ejemplos y aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Fuerza de fricción",
+                "contenido": [
+                    "Fricción estática",
+                    "Fricción cinética",
+                    "Coeficientes de fricción",
+                    "Modelos y ejemplos"
+                ]
+            },
+            {
+                "titulo": "Fuerzas comunes en dinámica",
+                "contenido": [
+                    "Peso",
+                    "Normal",
+                    "Tensión",
+                    "Fuerzas aplicadas"
+                ]
+            },
+            {
+                "titulo": "Fuerzas en planos inclinados",
+                "contenido": [
+                    "Descomposición de fuerzas",
+                    "Movimiento con y sin fricción",
+                    "Ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Movimiento circular dinámico",
+                "contenido": [
+                    "Fuerza centrípeta",
+                    "Curvas y giros",
+                    "Aplicaciones en vehículos y máquinas"
+                ]
+            },
+            {
+                "titulo": "Fuerzas elásticas",
+                "contenido": [
+                    "Ley de Hooke",
+                    "Constante elástica",
+                    "Energía potencial elástica"
+                ]
+            },
+            {
+                "titulo": "Sistemas de fuerzas y cuerpos conectados",
+                "contenido": [
+                    "Poleas ideales",
+                    "Cuerdas tensas",
+                    "Sistemas con varios cuerpos"
+                ]
+            },
+            {
+                "titulo": "Dinámica del rozamiento avanzado",
+                "contenido": [
+                    "Modelos reales",
+                    "Coeficientes variables",
+                    "Problemas no ideales"
+                ]
+            },
+            {
+                "titulo": "Repaso y problemas integradores",
+                "contenido": [
+                    "Ejercicios globales de dinámica",
+                    "Problemas tipo examen",
+                    "Aplicaciones prácticas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E04",
+        "nombre": "Física 4 (Trabajo, Potencia y Energía)",
+        "clases": 12,
+        "etiqueta": "Fisica_IV",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso enfocado en el estudio del trabajo mecánico, la energía en sus distintas formas, la potencia y los principios de conservación. Ideal para comprender cómo se transforma y transfiere la energía en sistemas físicos.",
+        "temario": [
+            {
+                "titulo": "Introducción al trabajo y la energía",
+                "contenido": [
+                    "Concepto de trabajo mecánico",
+                    "Condiciones para que exista trabajo",
+                    "Relación entre trabajo y energía",
+                    "Unidades en el SI"
+                ]
+            },
+            {
+                "titulo": "Trabajo realizado por una fuerza",
+                "contenido": [
+                    "Fuerza constante",
+                    "Fuerza variable",
+                    "Área bajo la curva Fuerza-Distancia",
+                    "Ejemplos y problemas"
+                ]
+            },
+            {
+                "titulo": "Energía cinética",
+                "contenido": [
+                    "Definición",
+                    "Cálculo de energía cinética",
+                    "Teorema trabajo-energía",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Energía potencial gravitatoria",
+                "contenido": [
+                    "Concepto de energía potencial",
+                    "Relación con el trabajo",
+                    "Sistema energía-movimiento",
+                    "Ejercicios"
+                ]
+            },
+            {
+                "titulo": "Energía potencial elástica",
+                "contenido": [
+                    "Ley de Hooke",
+                    "Constante elástica",
+                    "Energía en resortes",
+                    "Ejemplos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Energía mecánica",
+                "contenido": [
+                    "Energía cinética + potencial",
+                    "Conservación de la energía mecánica",
+                    "Sistemas conservativos y no conservativos"
+                ]
+            },
+            {
+                "titulo": "Trabajo realizado por fuerzas no conservativas",
+                "contenido": [
+                    "Fricción y fuerzas disipativas",
+                    "Pérdida de energía",
+                    "Cálculos de energía en sistemas reales"
+                ]
+            },
+            {
+                "titulo": "Potencia",
+                "contenido": [
+                    "Concepto de potencia",
+                    "Potencia media e instantánea",
+                    "Potencia mecánica",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Eficiencia energética",
+                "contenido": [
+                    "Rendimiento",
+                    "Energía útil vs energía suministrada",
+                    "Máquinas y procesos energéticos"
+                ]
+            },
+            {
+                "titulo": "Diagramas energéticos",
+                "contenido": [
+                    "Interpretación de diagramas",
+                    "Pérdidas y transferencias",
+                    "Representación gráfica de sistemas"
+                ]
+            },
+            {
+                "titulo": "Transformación de energía",
+                "contenido": [
+                    "Sistemas reales",
+                    "Conversión entre energía mecánica, térmica, eléctrica",
+                    "Principio de conservación"
+                ]
+            },
+            {
+                "titulo": "Repaso y problemas integradores",
+                "contenido": [
+                    "Ejercicios finales",
+                    "Problemas tipo examen",
+                    "Aplicaciones del mundo real"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E05",
+        "nombre": "Física 5 (Impulso y Cantidad de Movimiento)",
+        "clases": 12,
+        "etiqueta": "Fisica_V",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso dedicado al estudio del impulso, la cantidad de movimiento y los choques. Incluye la conservación del momento lineal y aplicaciones en sistemas físicos, desde situaciones cotidianas hasta problemas avanzados.",
+        "temario": [
+            {
+                "titulo": "Introducción al impulso y cantidad de movimiento",
+                "contenido": [
+                    "Concepto de cantidad de movimiento (momento lineal)",
+                    "Definición de impulso",
+                    "Relación entre impulso y cambio de momento",
+                    "Unidades y significado físico"
+                ]
+            },
+            {
+                "titulo": "Momento lineal en una dimensión",
+                "contenido": [
+                    "Cálculo del momento lineal",
+                    "Vectores en el movimiento lineal",
+                    "Ejemplos y problemas básicos"
+                ]
+            },
+            {
+                "titulo": "Momento lineal en dos y tres dimensiones",
+                "contenido": [
+                    "Componentes del vector momento",
+                    "Suma de momentos",
+                    "Ejercicios aplicados"
+                ]
+            },
+            {
+                "titulo": "Impulso y fuerzas",
+                "contenido": [
+                    "Impulso como área bajo la curva F-t",
+                    "Fuerzas variables",
+                    "Aplicaciones reales"
+                ]
+            },
+            {
+                "titulo": "Conservación de la cantidad de movimiento",
+                "contenido": [
+                    "Principio de conservación",
+                    "Sistemas aislados",
+                    "Ejemplos con objetos en colisión"
+                ]
+            },
+            {
+                "titulo": "Choques elásticos",
+                "contenido": [
+                    "Conservación de la energía cinética",
+                    "Ecuaciones de choque elástico",
+                    "Problemas típicos"
+                ]
+            },
+            {
+                "titulo": "Choques inelásticos",
+                "contenido": [
+                    "Pérdida de energía",
+                    "Choques perfectamente inelásticos",
+                    "Cálculos y ejemplos"
+                ]
+            },
+            {
+                "titulo": "Choques en dos dimensiones",
+                "contenido": [
+                    "Resolución vectorial",
+                    "Componentes x e y",
+                    "Aplicaciones en física y deportes"
+                ]
+            },
+            {
+                "titulo": "Centro de masa",
+                "contenido": [
+                    "Definición y cálculo",
+                    "Centro de masa de sistemas de partículas",
+                    "Movimiento del centro de masa"
+                ]
+            },
+            {
+                "titulo": "Sistemas de partículas",
+                "contenido": [
+                    "Momento total del sistema",
+                    "Fuerza externa e interna",
+                    "Ejemplos resueltos"
+                ]
+            },
+            {
+                "titulo": "Impulso en sistemas reales",
+                "contenido": [
+                    "Seguridad vehicular",
+                    "Airbags y zonas de deformación",
+                    "Análisis de colisiones reales"
+                ]
+            },
+            {
+                "titulo": "Repaso general y ejercicios integradores",
+                "contenido": [
+                    "Resumen del curso",
+                    "Problemas tipo examen",
+                    "Aplicaciones del mundo cotidiano"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E06",
+        "nombre": "Física 6 (Ondas, Oscilaciones, Luz y Sonido)",
+        "clases": 12,
+        "etiqueta": "Fisica_VI",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso dedicado al estudio de los fenómenos ondulatorios, el movimiento oscilatorio, las propiedades de la luz y el sonido. Ideal para comprender cómo se propagan y comportan las ondas en distintos medios.",
+        "temario": [
+            {
+                "titulo": "Introducción al movimiento oscilatorio",
+                "contenido": [
+                    "Concepto de oscilación",
+                    "Movimiento armónico simple (MAS)",
+                    "Amplitud, frecuencia y periodo",
+                    "Ejemplos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Movimiento armónico simple",
+                "contenido": [
+                    "Ecuación del MAS",
+                    "Energía en el MAS",
+                    "Velocidad y aceleración",
+                    "Osciladores ideales"
+                ]
+            },
+            {
+                "titulo": "Oscilaciones amortiguadas y forzadas",
+                "contenido": [
+                    "Tipos de amortiguamiento",
+                    "Resonancia",
+                    "Aplicaciones en ingeniería y música"
+                ]
+            },
+            {
+                "titulo": "Introducción a las ondas",
+                "contenido": [
+                    "Definición de onda",
+                    "Ondas mecánicas y electromagnéticas",
+                    "Elementos de una onda",
+                    "Ecuación de la onda"
+                ]
+            },
+            {
+                "titulo": "Tipos de ondas",
+                "contenido": [
+                    "Ondas transversales",
+                    "Ondas longitudinales",
+                    "Ondas superficiales",
+                    "Ejemplos naturales y tecnológicos"
+                ]
+            },
+            {
+                "titulo": "Superposición e interferencia",
+                "contenido": [
+                    "Principio de superposición",
+                    "Interferencias constructiva y destructiva",
+                    "Ondas estacionarias",
+                    "Fenómenos de resonancia"
+                ]
+            },
+            {
+                "titulo": "Ondas sonoras",
+                "contenido": [
+                    "Naturaleza del sonido",
+                    "Rapidez de propagación",
+                    "Frecuencia y tono",
+                    "Intensidad y nivel sonoro"
+                ]
+            },
+            {
+                "titulo": "Propiedades del sonido",
+                "contenido": [
+                    "Efecto Doppler",
+                    "Reflexión, refracción y difracción del sonido",
+                    "Aplicaciones en acústica"
+                ]
+            },
+            {
+                "titulo": "Introducción a la luz",
+                "contenido": [
+                    "La luz como onda electromagnética",
+                    "Velocidad de la luz",
+                    "Espectro electromagnético",
+                    "Rayos y modelos ondulatorios"
+                ]
+            },
+            {
+                "titulo": "Óptica geométrica",
+                "contenido": [
+                    "Reflexión",
+                    "Refracción",
+                    "Ley de Snell",
+                    "Aplicaciones en lentes y espejos"
+                ]
+            },
+            {
+                "titulo": "Óptica física",
+                "contenido": [
+                    "Interferencia y difracción de la luz",
+                    "Polarización",
+                    "Aplicaciones modernas"
+                ]
+            },
+            {
+                "titulo": "Repaso general y ejercicios integradores",
+                "contenido": [
+                    "Resumen del curso",
+                    "Problemas tipo examen",
+                    "Aplicaciones cotidianas y tecnológicas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E07",
+        "nombre": "Física 7 (Electrostática)",
+        "clases": 12,
+        "etiqueta": "Fisica_VII",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso dedicado al estudio de las cargas eléctricas en reposo, sus interacciones, campos y potenciales eléctricos. Ideal para introducirse a los fundamentos del electromagnetismo.",
+        "temario": [
+            {
+                "titulo": "Introducción a la electrostática",
+                "contenido": [
+                    "Qué es la electrostática",
+                    "Cargas eléctricas",
+                    "Ley de conservación de la carga",
+                    "Conductores y aislantes"
+                ]
+            },
+            {
+                "titulo": "Ley de Coulomb",
+                "contenido": [
+                    "Interacción entre cargas",
+                    "Constante de Coulomb",
+                    "Fuerzas atractivas y repulsivas",
+                    "Ejemplos y problemas"
+                ]
+            },
+            {
+                "titulo": "Principio de superposición",
+                "contenido": [
+                    "Suma vectorial de fuerzas eléctricas",
+                    "Cargas múltiples",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Campo eléctrico",
+                "contenido": [
+                    "Definición de campo eléctrico",
+                    "Líneas de campo",
+                    "Campo de una carga puntual",
+                    "Campo de sistemas de cargas"
+                ]
+            },
+            {
+                "titulo": "Campo eléctrico en conductores",
+                "contenido": [
+                    "Distribución de cargas",
+                    "Equilibrio electrostático",
+                    "Jaula de Faraday",
+                    "Propiedades de los conductores"
+                ]
+            },
+            {
+                "titulo": "Flujo eléctrico",
+                "contenido": [
+                    "Concepto de flujo",
+                    "Superficies abiertas y cerradas",
+                    "Aplicaciones en física"
+                ]
+            },
+            {
+                "titulo": "Ley de Gauss (introducción)",
+                "contenido": [
+                    "Enunciado de la Ley de Gauss",
+                    "Simetrías comunes",
+                    "Cálculo de campo eléctrico",
+                    "Ejemplos básicos"
+                ]
+            },
+            {
+                "titulo": "Potencial eléctrico",
+                "contenido": [
+                    "Relación entre trabajo y potencial",
+                    "Potencial de una carga puntual",
+                    "Potencial de sistemas de cargas",
+                    "Superficies equipotenciales"
+                ]
+            },
+            {
+                "titulo": "Energía potencial eléctrica",
+                "contenido": [
+                    "Definición y cálculo",
+                    "Sistema de dos o más cargas",
+                    "Aplicaciones reales"
+                ]
+            },
+            {
+                "titulo": "Capacitores e introducción a la capacitancia",
+                "contenido": [
+                    "Capacitores paralelos y cilíndricos",
+                    "Capacitancia",
+                    "Energía almacenada",
+                    "Usos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Dieléctricos",
+                "contenido": [
+                    "Materiales dieléctricos",
+                    "Polarización",
+                    "Constante dieléctrica",
+                    "Efectos en capacitores"
+                ]
+            },
+            {
+                "titulo": "Repaso general y ejercicios integradores",
+                "contenido": [
+                    "Resumen del curso",
+                    "Problemas tipo examen",
+                    "Aplicaciones tecnológicas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_E08",
+        "nombre": "Física 8 (Electricidad y Magnetismo)",
+        "clases": 12,
+        "etiqueta": "Fisica_VIII",
+        "categoria": "escolares",
+        "subcategoria": "Física",
+        "descripcion": "Curso dedicado al estudio de los fenómenos eléctricos y magnéticos, su relación profunda y las leyes fundamentales que dan origen al electromagnetismo. Ideal para comprender el comportamiento de cargas en movimiento, campos eléctricos, campos magnéticos y circuitos básicos.",
+        "temario": [
+            {
+                "titulo": "Carga eléctrica y corriente eléctrica",
+                "contenido": [
+                    "Carga eléctrica y sus propiedades",
+                    "Corriente eléctrica",
+                    "Convención de flujo de corriente",
+                    "Materiales conductores y aislantes"
+                ]
+            },
+            {
+                "titulo": "Circuitos eléctricos básicos",
+                "contenido": [
+                    "Voltaje, corriente y resistencia",
+                    "Ley de Ohm",
+                    "Potencia eléctrica",
+                    "Medición con instrumentos"
+                ]
+            },
+            {
+                "titulo": "Resistores en serie y paralelo",
+                "contenido": [
+                    "Asociaciones de resistencias",
+                    "Cálculo de resistencia equivalente",
+                    "Distribución de voltajes y corrientes",
+                    "Ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Campo eléctrico (repaso y aplicación en circuitos)",
+                "contenido": [
+                    "Campo eléctrico en conductores",
+                    "Potencial eléctrico",
+                    "Trabajo eléctrico",
+                    "Relación entre campo, voltaje y corriente"
+                ]
+            },
+            {
+                "titulo": "Introducción al magnetismo",
+                "contenido": [
+                    "Imanes y campos magnéticos",
+                    "Polos magnéticos",
+                    "Líneas de campo magnético",
+                    "Materiales magnéticos"
+                ]
+            },
+            {
+                "titulo": "Fuerza magnética",
+                "contenido": [
+                    "Fuerza sobre una carga en movimiento",
+                    "Regla de la mano derecha",
+                    "Fuerza sobre un conductor con corriente",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Campo magnético producido por corrientes",
+                "contenido": [
+                    "Ley de Biot-Savart",
+                    "Campo de un cable largo",
+                    "Campo en espiras y solenoides",
+                    "Aplicaciones tecnológicas"
+                ]
+            },
+            {
+                "titulo": "Ley de Ampère (introducción)",
+                "contenido": [
+                    "Enunciado",
+                    "Simetrías comunes",
+                    "Cálculo de campos magnéticos",
+                    "Solenoides y toroides"
+                ]
+            },
+            {
+                "titulo": "Inducción electromagnética",
+                "contenido": [
+                    "Ley de Faraday",
+                    "Ley de Lenz",
+                    "Flujo magnético",
+                    "Aplicaciones en generadores y transformadores"
+                ]
+            },
+            {
+                "titulo": "Corriente alterna (AC) e inductancia",
+                "contenido": [
+                    "Corriente alterna vs corriente continua",
+                    "Bobinas e inductores",
+                    "Reactancia inductiva",
+                    "Introducción a circuitos R-L"
+                ]
+            },
+            {
+                "titulo": "Unificación electricidad-magnetismo",
+                "contenido": [
+                    "Ondas electromagnéticas",
+                    "Relación entre E y B",
+                    "Velocidad de propagación",
+                    "Espectro electromagnético"
+                ]
+            },
+            {
+                "titulo": "Repaso general y ejercicios integradores",
+                "contenido": [
+                    "Resumen de electricidad y magnetismo",
+                    "Problemas tipo examen",
+                    "Aplicaciones modernas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E01",
+        "nombre": "Química Básica (Introducción)",
+        "clases": 12,
+        "etiqueta": "Quimica_basica",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso introductorio a los conceptos fundamentales de la química, orientado a estudiantes que comienzan en el área de ciencias. Explica la materia, los átomos, elementos, compuestos, reacciones químicas y principios básicos necesarios para cursos más avanzados.",
+        "temario": [
+            {
+                "titulo": "Clase 1: ¿Qué es la Química?",
+                "contenido": [
+                    "Definición de química",
+                    "Importancia en la vida cotidiana",
+                    "Campos de estudio de la química",
+                    "Método científico aplicado a la química"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Materia y sus propiedades",
+                "contenido": [
+                    "Concepto de materia",
+                    "Estados de la materia",
+                    "Propiedades físicas y químicas",
+                    "Cambios físicos y cambios químicos"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Estructura del átomo",
+                "contenido": [
+                    "Partículas subatómicas",
+                    "Número atómico y número másico",
+                    "Isótopos",
+                    "Modelos atómicos"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Sistema Periódico",
+                "contenido": [
+                    "Organización de la tabla periódica",
+                    "Grupos y períodos",
+                    "Metales, no metales y metaloides",
+                    "Tendencias periódicas básicas"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Enlaces químicos",
+                "contenido": [
+                    "Enlace iónico",
+                    "Enlace covalente",
+                    "Polaridad",
+                    "Fórmulas químicas simples"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Compuestos y nomenclatura básica",
+                "contenido": [
+                    "Compuestos iónicos",
+                    "Compuestos covalentes",
+                    "Introducción a la nomenclatura química",
+                    "Ejemplos y práctica"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Mol y número de Avogadro",
+                "contenido": [
+                    "Concepto de mol",
+                    "Número de Avogadro",
+                    "Cálculos básicos con moles",
+                    "Masa molar"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Ecuaciones químicas",
+                "contenido": [
+                    "Partes de una ecuación química",
+                    "Ley de conservación de la masa",
+                    "Balanceo de ecuaciones",
+                    "Ejercicios guiados"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Tipos de reacciones químicas",
+                "contenido": [
+                    "Síntesis",
+                    "Descomposición",
+                    "Sustitución simple y doble",
+                    "Combustión"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Soluciones químicas",
+                "contenido": [
+                    "Concepto de solución",
+                    "Soluto y solvente",
+                    "Concentraciones: % masa, % volumen, molaridad",
+                    "Factores que afectan la solubilidad"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Ácidos y bases",
+                "contenido": [
+                    "Definiciones de ácidos y bases",
+                    "Escala de pH",
+                    "Indicadores",
+                    "Ejemplos cotidianos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Seguridad en el laboratorio y repaso general",
+                "contenido": [
+                    "Normas básicas de seguridad",
+                    "Uso correcto del material de laboratorio",
+                    "Errores comunes en química básica",
+                    "Repaso y evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E02",
+        "nombre": "Química General",
+        "clases": 12,
+        "etiqueta": "Quimica_general",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso de nivel general que profundiza en los principios fundamentales de la química, incluyendo estructura atómica, leyes ponderales, soluciones, gases, estequiometría, termodinámica básica y equilibrio químico.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Conceptos fundamentales de la química",
+                "contenido": [
+                    "Sistemas materiales",
+                    "Sustancias puras y mezclas",
+                    "Métodos de separación",
+                    "Propiedades intensivas y extensivas"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Teoría atómica moderna",
+                "contenido": [
+                    "Estructura del átomo",
+                    "Niveles y subniveles de energía",
+                    "Configuraciones electrónicas",
+                    "Principios de Aufbau, Pauli y Hund"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Tabla Periódica avanzada",
+                "contenido": [
+                    "Organización electrónica",
+                    "Propiedades periódicas: radio atómico, energía de ionización, afinidad electrónica",
+                    "Metales, no metales y metaloides",
+                    "Tendencias periódicas"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Enlace químico y estructuras de Lewis",
+                "contenido": [
+                    "Enlace iónico, covalente y metálico",
+                    "Geometría molecular (VSEPR)",
+                    "Polaridad molecular",
+                    "Resonancia"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Fuerzas intermoleculares y estados de la materia",
+                "contenido": [
+                    "Fuerzas de Van der Waals",
+                    "Puentes de hidrógeno",
+                    "Puntos de fusión y ebullición",
+                    "Diagramas de fase"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Leyes ponderales y composición química",
+                "contenido": [
+                    "Ley de conservación de la masa",
+                    "Ley de proporciones definidas",
+                    "Ley de proporciones múltiples",
+                    "Cálculo de fórmulas empíricas y moleculares"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Estequiometría",
+                "contenido": [
+                    "Reacciones químicas y ecuaciones balanceadas",
+                    "Reactivo limitante",
+                    "Rendimiento teórico y porcentaje de rendimiento",
+                    "Cálculos con moles"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Estados gaseosos",
+                "contenido": [
+                    "Ley de Boyle, Charles y Gay-Lussac",
+                    "Ecuación de gases ideales",
+                    "Mezclas de gases",
+                    "Ley de Dalton"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Disoluciones",
+                "contenido": [
+                    "Formas de expresar la concentración",
+                    "Molaridad y normalidad",
+                    "Diluciones",
+                    "Factores que afectan la solubilidad"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Termoquímica",
+                "contenido": [
+                    "Energía, trabajo y calor",
+                    "Primer ley de la termodinámica",
+                    "Entalpía",
+                    "Reacciones exotérmicas y endotérmicas"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Cinética química",
+                "contenido": [
+                    "Velocidad de reacción",
+                    "Factores que afectan la velocidad",
+                    "Teoría de colisiones",
+                    "Catalizadores"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Equilibrio químico",
+                "contenido": [
+                    "Concepto de equilibrio",
+                    "Constante de equilibrio (Kc y Kp)",
+                    "Principio de Le Chatelier",
+                    "Aplicaciones en sistemas reales"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E03",
+        "nombre": "Química Inorgánica",
+        "clases": 12,
+        "etiqueta": "Quimica_inorganica",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso enfocado en el estudio de los compuestos inorgánicos, su clasificación, propiedades, nomenclatura, reactividad y aplicaciones. Ideal para estudiantes que desean fortalecer su base química.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la química inorgánica",
+                "contenido": [
+                    "Definición y campo de estudio",
+                    "Diferencias entre química orgánica e inorgánica",
+                    "Importancia y aplicaciones",
+                    "Clasificación de sustancias inorgánicas"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Elementos y compuestos inorgánicos",
+                "contenido": [
+                    "Elementos representativos y de transición",
+                    "Metales, no metales y metaloides",
+                    "Compuestos binarios y ternarios",
+                    "Óxidos, hidruros y sales"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Estructura electrónica y periodicidad",
+                "contenido": [
+                    "Configuraciones electrónicas",
+                    "Bloques s, p, d, f",
+                    "Propiedades periódicas",
+                    "Relación con el comportamiento químico"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Nomenclatura de compuestos inorgánicos I",
+                "contenido": [
+                    "Nomenclatura de óxidos",
+                    "Nomenclatura de hidruros",
+                    "Nomenclatura de sales binarias",
+                    "Reglas IUPAC básicas"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Nomenclatura de compuestos inorgánicos II",
+                "contenido": [
+                    "Nomenclatura de hidróxidos",
+                    "Nomenclatura de oxoácidos",
+                    "Nomenclatura de oxisales",
+                    "Nomenclatura tradicional vs. IUPAC"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Reacciones inorgánicas",
+                "contenido": [
+                    "Reacciones de síntesis",
+                    "Reacciones de descomposición",
+                    "Reacciones de desplazamiento simple y doble",
+                    "Reacciones ácido–base"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Compuestos de coordinación I",
+                "contenido": [
+                    "Conceptos básicos",
+                    "Ligandos y número de coordinación",
+                    "Geometrías comunes",
+                    "Nomenclatura de complejos"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Compuestos de coordinación II",
+                "contenido": [
+                    "Isomería en complejos",
+                    "Teoría del campo cristalino",
+                    "Propiedades magnéticas y electrónicas",
+                    "Ejemplos y aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Química de los metales alcalinos y alcalinotérreos",
+                "contenido": [
+                    "Propiedades generales",
+                    "Reactividad",
+                    "Compuestos importantes",
+                    "Aplicaciones industriales"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Química de los metales de transición",
+                "contenido": [
+                    "Características principales",
+                    "Estados de oxidación",
+                    "Formación de complejos",
+                    "Compuestos relevantes"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Química de no metales",
+                "contenido": [
+                    "Grupos 13–18",
+                    "Tendencias de reactividad",
+                    "Compuestos comunes",
+                    "Aplicaciones tecnológicas"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Aplicaciones y síntesis inorgánica",
+                "contenido": [
+                    "Materiales inorgánicos",
+                    "Nanomateriales",
+                    "Química inorgánica en la vida cotidiana",
+                    "Síntesis de compuestos simples"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E04",
+        "nombre": "Química Orgánica",
+        "clases": 12,
+        "etiqueta": "Quimica_organica",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso introductorio a la química del carbono, abarcando estructuras, grupos funcionales, isomería, nomenclatura y reacciones orgánicas fundamentales.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la química orgánica",
+                "contenido": [
+                    "Concepto de química orgánica",
+                    "Importancia en la vida y en la industria",
+                    "Propiedades del átomo de carbono",
+                    "Hibridación y geometrías del carbono"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Representación de compuestos orgánicos",
+                "contenido": [
+                    "Formulas desarrolladas y semidesarrolladas",
+                    "Formulas condensadas",
+                    "Representación en línea (esqueletal)",
+                    "Reconocimiento de grupos funcionales básicos"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Nomenclatura de alcanos, alquenos y alquinos",
+                "contenido": [
+                    "Reglas generales IUPAC",
+                    "Nomenclatura de alcanos",
+                    "Nomenclatura de alquenos",
+                    "Nomenclatura de alquinos"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Isomería en química orgánica",
+                "contenido": [
+                    "Isomería estructural",
+                    "Isómeros de cadena, posición y función",
+                    "Isomería geométrica (cis/trans)",
+                    "Quiralidad e isomería óptica"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Grupos funcionales I",
+                "contenido": [
+                    "Alcoholes",
+                    "Aldehídos",
+                    "Cetonas",
+                    "Ácidos carboxílicos"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Grupos funcionales II",
+                "contenido": [
+                    "Ésteres",
+                    "Éteres",
+                    "Aminas",
+                    "Amidas"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Aromaticidad",
+                "contenido": [
+                    "El benceno y su estructura",
+                    "Criterios de aromaticidad",
+                    "Sustitución electrofílica aromática",
+                    "Derivados aromáticos comunes"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Reacciones orgánicas I",
+                "contenido": [
+                    "Sustitución",
+                    "Adición",
+                    "Eliminación",
+                    "Reacciones de oxidación y reducción"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Reacciones orgánicas II",
+                "contenido": [
+                    "Reacciones de halogenación",
+                    "Reacciones de esterificación",
+                    "Hidrólisis",
+                    "Reacciones de polimerización"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Macromoléculas orgánicas",
+                "contenido": [
+                    "Polímeros naturales",
+                    "Polímeros sintéticos",
+                    "Plásticos y fibras",
+                    "Biopolímeros"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Bioquímica orgánica básica",
+                "contenido": [
+                    "Carbohidratos",
+                    "Lípidos",
+                    "Proteínas",
+                    "Ácidos nucleicos"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Aplicaciones de la química orgánica",
+                "contenido": [
+                    "Farmacéutica",
+                    "Alimentos",
+                    "Combustibles",
+                    "Materiales modernos"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E05",
+        "nombre": "Estequiometría para colegio",
+        "clases": 10,
+        "etiqueta": "Quimica_estequiometria",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso introductorio de estequiometría orientado a nivel escolar. Explica las relaciones cuantitativas en las reacciones químicas, cálculos con moles, masas, volúmenes y reactivo limitante.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Conceptos básicos de estequiometría",
+                "contenido": [
+                    "¿Qué es la estequiometría?",
+                    "Relación con las ecuaciones químicas",
+                    "Unidades básicas: mol, masa y número de partículas",
+                    "Importancia en química"
+                ]
+            },
+            {
+                "titulo": "Clase 2: El mol y el número de Avogadro",
+                "contenido": [
+                    "Definición de mol",
+                    "Número de Avogadro",
+                    "Cálculos básicos",
+                    "Conversión entre masa, moles y partículas"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Masa molar y cálculos con sustancias puras",
+                "contenido": [
+                    "Cómo determinar la masa molar",
+                    "Cálculo de moles a partir de masa",
+                    "Cálculo de masa a partir de moles",
+                    "Ejercicios guiados"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Ecuaciones químicas",
+                "contenido": [
+                    "Partes de una ecuación química",
+                    "Ley de conservación de la masa",
+                    "Balanceo de ecuaciones",
+                    "Ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Relación mol–mol en reacciones químicas",
+                "contenido": [
+                    "Razones molares",
+                    "Interpretación de coeficientes",
+                    "Problemas de conversión mol–mol",
+                    "Ejercicios con reacciones simples"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Cálculos masa–masa",
+                "contenido": [
+                    "Concepto de relación estequiométrica",
+                    "Pasos para resolver problemas masa–masa",
+                    "Ejemplos de aplicación",
+                    "Práctica guiada"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Volumen de gases y ecuación ideal",
+                "contenido": [
+                    "Volumen molar en CN",
+                    "Relaciones mol–volumen",
+                    "Ley de los gases ideales (concepto básico)",
+                    "Problemas con gases comunes"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Reactivo limitante",
+                "contenido": [
+                    "Definición y concepto",
+                    "Cómo identificar el reactivo limitante",
+                    "Reactivo en exceso",
+                    "Ejercicios paso a paso"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Rendimiento teórico y rendimiento porcentual",
+                "contenido": [
+                    "Rendimiento teórico",
+                    "Rendimiento real",
+                    "Cálculo del rendimiento porcentual",
+                    "Aplicación en problemas reales"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Repaso general y ejercicios integrales",
+                "contenido": [
+                    "Resumen de todos los conceptos",
+                    "Problemas mixtos (masa, mol, volumen, reactivo limitante)",
+                    "Consejos de resolución",
+                    "Evaluación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_E06",
+        "nombre": "Laboratorio de Química (teórico)",
+        "clases": 10,
+        "etiqueta": "Quimica_laboratorio",
+        "categoria": "escolares",
+        "subcategoria": "Química",
+        "descripcion": "Curso teórico enfocado en los principios, normas y fundamentos del trabajo en laboratorio químico. Incluye seguridad, uso de material, mediciones, técnicas básicas y preparación para prácticas reales.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción al laboratorio químico",
+                "contenido": [
+                    "¿Qué es un laboratorio de química?",
+                    "Importancia del trabajo experimental",
+                    "Áreas de un laboratorio",
+                    "Roles y responsabilidades del estudiante"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Normas de seguridad en el laboratorio",
+                "contenido": [
+                    "Reglas de seguridad obligatorias",
+                    "Equipo de protección personal",
+                    "Manejo de sustancias peligrosas",
+                    "Procedimientos en caso de accidentes"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Material de laboratorio",
+                "contenido": [
+                    "Material de vidrio",
+                    "Material metálico y plástico",
+                    "Material volumétrico",
+                    "Uso y cuidado del material"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Instrumentos y equipos básicos",
+                "contenido": [
+                    "Balanza analítica",
+                    "Mecheros y sistemas de calentamiento",
+                    "Agitadores y placas",
+                    "Campanas extractoras"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Mediciones y registro de datos",
+                "contenido": [
+                    "Lectura de instrumentos",
+                    "Precisión y exactitud",
+                    "Errores experimentales",
+                    "Registro en cuaderno de laboratorio"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Técnicas básicas de laboratorio",
+                "contenido": [
+                    "Filtración",
+                    "Decantación",
+                    "Evaporación",
+                    "Cristalización"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Preparación de soluciones",
+                "contenido": [
+                    "Unidades de concentración",
+                    "Molaridad y normalidad",
+                    "Procedimiento para preparar soluciones",
+                    "Medidas de seguridad"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Manejo de reactivos",
+                "contenido": [
+                    "Clasificación de reactivos",
+                    "Rotulado y fichas de seguridad (MSDS)",
+                    "Almacenamiento adecuado",
+                    "Disposición de residuos"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Buenas prácticas de laboratorio",
+                "contenido": [
+                    "Orden, limpieza y disciplina",
+                    "Trazabilidad",
+                    "Calibración de material e instrumentos",
+                    "Buenas prácticas de documentación"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Interpretación de resultados y reporte de laboratorio",
+                "contenido": [
+                    "Cómo analizar resultados experimentales",
+                    "Organización de un informe",
+                    "Discusión de errores",
+                    "Conclusiones y recomendaciones"
+                ]
+            }
+        ]
+    }
+]

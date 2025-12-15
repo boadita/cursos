@@ -1,36 +1,61 @@
 import { BrowserRouter as Router, Routes, Route, useParams, useNavigate } from "react-router-dom";
 import Header from "./estructura/Header";
 import Footer from "./estructura/Footer";
+import Portada from "./pages/Portada";
 import Home from "./pages/Home";
 import CourseDetail from "./components/CourseDetail";
-import coursesData from "./data/courses.json";
+
+import escolares from "./data/escolares.json";
+import preuniversitarios from "./data/preuniversitarios.json";
+import universitarios from "./data/universitarios.json";
+import ingles from "./data/ingles.json";
+import informatica from "./data/informatica.json";
+import programacion from "./data/programacion.json";
+
 import type { Course } from "./types";
+
+// 🔹 Unimos todos los cursos
+const allCourses: Course[] = [
+  ...(escolares as Course[]),
+  ...(preuniversitarios as Course[]),
+  ...(universitarios as Course[]),
+  ...(ingles as Course[]),
+  ...(informatica as Course[]),
+  ...(programacion as Course[]),
+];
 
 function CourseDetailPage() {
   const { id } = useParams();
   const navigate = useNavigate();
-  const courses = coursesData as Course[];
 
-  const course = courses.find(c => c.id === Number(id));
+  const course = allCourses.find(c => c.id === id);
 
-  if (!course) return <h2>Curso no encontrado</h2>;
+  if (!course) {
+    return <h2 className="text-center text-xl font-bold">Curso no encontrado</h2>;
+  }
 
-  return <CourseDetail course={course} onBack={() => navigate(-1)} />;
+  return (
+    <CourseDetail
+      course={course}
+      onBack={() => navigate(-1)}
+    />
+  );
 }
 
 function App() {
   return (
-    <div className="min-h-screen w-full overflow-x-hidden bg-yellow-500 mx-auto">
-      <div className="max-w-7xl mx-auto">
-        <Router>
-          < Header />
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/curso/:id" element={<CourseDetailPage />} />
-          </Routes>
-          <Footer />
-        </Router>
-      </div>
+    <div className="min-h-screen w-full overflow-x-hidden bg-yellow-500">
+      <Router>
+        <Header />
+
+        <Routes>
+          <Route path="/" element={<Portada />} />
+          <Route path="/categoria/:categoriaId" element={<Home />} />
+          <Route path="/curso/:id" element={<CourseDetailPage />} />
+        </Routes>
+
+        <Footer />
+      </Router>
     </div>
   );
 }

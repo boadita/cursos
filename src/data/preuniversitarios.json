@@ -1,0 +1,1503 @@
+[
+    {
+        "id": "MAT_PF01",
+        "nombre": "Matemáticas Prefacultativo Completo",
+        "clases": 25,
+        "etiqueta": "Matematicas_prefacultativo",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso completo de matemáticas orientado a estudiantes que se preparan para exámenes prefacultativos. Incluye aritmética avanzada, álgebra, funciones, geometría, trigonometría, análisis básico y resolución de problemas aplicados." ,
+        "temario": [
+            {
+                "titulo": "Aritmética avanzada",
+                "contenido":  [
+                    "Propiedades de los números reales",
+                    "Jerarquía de operaciones",
+                    "Factorización",
+                    "Máximo común divisor y mínimo común múltiplo"
+                ]
+            },
+            {
+                "titulo": "Álgebra y ecuaciones",
+                "contenido":  [
+                    "Ecuaciones lineales",
+                    "Ecuaciones cuadráticas",
+                    "Sistemas de ecuaciones",
+                    "Inecuaciones"
+                ]
+            },
+            {
+                "titulo": "Funciones",
+                "contenido":  [
+                    "Concepto de función",
+                    "Funciones polinómicas",
+                    "Funciones racionales",
+                    "Funciones exponenciales y logarítmicas"
+                ]
+            },
+            {
+                "titulo": "Geometría plana",
+                "contenido":  [
+                    "Triángulos y cuadriláteros",
+                    "Razones trigonométricas en el triángulo rectángulo",
+                    "Lugares geométricos",
+                    "Teorema de Pitágoras y extensiones"
+                ]
+            },
+            {
+                "titulo": "Trigonometría avanzada",
+                "contenido":  [
+                    "Identidades trigonométricas",
+                    "Ecuaciones trigonométricas",
+                    "Leyes de senos y cosenos",
+                    "Aplicaciones en problemas reales"
+                ]
+            },
+            {
+                "titulo": "Análisis básico",
+                "contenido":  [
+                    "Límites fundamentales",
+                    "Continuidad",
+                    "Derivadas básicas",
+                    "Aplicaciones de la derivada"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF02",
+        "nombre": "Aritmética Avanzada",
+        "clases": 15,
+        "etiqueta": "Aritmetica_avanzada",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso orientado al dominio de herramientas aritméticas de nivel avanzado, ideal para estudiantes de colegio, prefacultativo o universitario que deseen reforzar bases sólidas en operaciones, teoría de números y resolución de problemas." ,
+        "temario": [
+            {
+                "titulo": "Conjuntos numéricos",
+                "contenido":  [
+                    "Definición y clasificación",
+                    "Números reales y propiedades",
+                    "Intervalos y notación"
+                ]
+            },
+            {
+                "titulo": "Operaciones y factorización",
+                "contenido":  [
+                    "Jerarquía de operaciones",
+                    "Propiedades fundamentales",
+                    "Factorización de polinomios numéricos",
+                    "Descomposición en factores primos"
+                ]
+            },
+            {
+                "titulo": "Divisibilidad",
+                "contenido":  [
+                    "Criterios de divisibilidad",
+                    "Múltiplos y divisores",
+                    "Primos y compuestos",
+                    "Teorema fundamental de la aritmética"
+                ]
+            },
+            {
+                "titulo": "Máximo común divisor y mínimo común múltiplo",
+                "contenido":  [
+                    "Definiciones",
+                    "Método de Euclides",
+                    "Aplicaciones en problemas"
+                ]
+            },
+            {
+                "titulo": "Fracciones y números racionales",
+                "contenido":  [
+                    "Operaciones con fracciones",
+                    "Simplificación",
+                    "Conversión a decimales",
+                    "Fracciones periódicas"
+                ]
+            },
+            {
+                "titulo": "Proporciones y razones",
+                "contenido":  [
+                    "Razones y proporcionalidad",
+                    "Regla de tres simple y compuesta",
+                    "Porcentajes y variaciones"
+                ]
+            },
+            {
+                "titulo": "Potencias y radicales",
+                "contenido":  [
+                    "Propiedades de las potencias",
+                    "Radicación y simplificación",
+                    "Racionalización",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Notación científica y órdenes de magnitud",
+                "contenido":  [
+                    "Conversión y operaciones",
+                    "Errores de redondeo",
+                    "Aproximaciones"
+                ]
+            },
+            {
+                "titulo": "Números enteros",
+                "contenido":  [
+                    "Operaciones con enteros",
+                    "Valor absoluto",
+                    "Aplicaciones en problemas"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones aritméticas básicas",
+                "contenido":  [
+                    "Planteo de ecuaciones",
+                    "Problemas con cantidades y edades",
+                    "Aplicaciones en la vida real"
+                ]
+            },
+            {
+                "titulo": "Progresiones aritméticas",
+                "contenido":  [
+                    "Término general",
+                    "Suma de términos",
+                    "Aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Teoría básica de números",
+                "contenido":  [
+                    "Residuo y congruencias simples",
+                    "Aritmética modular básica",
+                    "Aplicaciones en problemas"
+                ]
+            },
+            {
+                "titulo": "Conteo básico",
+                "contenido":  [
+                    "Regla de suma",
+                    "Regla de producto",
+                    "Principio fundamental del conteo",
+                    "Problemas combinados"
+                ]
+            },
+            {
+                "titulo": "Inecuaciones aritméticas",
+                "contenido":  [
+                    "Propiedades",
+                    "Resolución",
+                    "Aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Resolución de problemas avanzados",
+                "contenido":  [
+                    "Problemas combinados y mixtos",
+                    "Optimización aritmética",
+                    "Razonamiento lógico-numérico"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF03",
+        "nombre": "Álgebra Avanzada",
+        "clases": 15,
+        "etiqueta": "Algebra_avanzada",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso avanzado de álgebra orientado a estudiantes de nivel prefacultativo, universitario inicial o quienes deseen dominar ecuaciones, funciones, polinomios y estructuras algebraicas esenciales." ,
+        "temario": [
+            {
+                "titulo": "Fundamentos de Álgebra",
+                "contenido":  [
+                    "Propiedades algebraicas",
+                    "Notación y lenguaje algebraico",
+                    "Modelación con expresiones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones lineales y sistemas",
+                "contenido":  [
+                    "Ecuaciones de primer grado",
+                    "Sistemas 2x2 y 3x3",
+                    "Métodos de sustitución, igualación y reducción"
+                ]
+            },
+            {
+                "titulo": "Inecuaciones",
+                "contenido":  [
+                    "Inecuaciones lineales",
+                    "Inecuaciones compuestas",
+                    "Representación en recta numérica"
+                ]
+            },
+            {
+                "titulo": "Polinomios",
+                "contenido":  [
+                    "Clasificación y grados",
+                    "Operaciones con polinomios",
+                    "Factorización avanzada"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones cuadráticas",
+                "contenido":  [
+                    "Métodos de resolución",
+                    "Fórmula general",
+                    "Completación de cuadrados",
+                    "Interpretación gráfica"
+                ]
+            },
+            {
+                "titulo": "Funciones algebraicas",
+                "contenido":  [
+                    "Concepto y dominio",
+                    "Funciones polinómicas",
+                    "Funciones racionales",
+                    "Composición de funciones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones y funciones racionales",
+                "contenido":  [
+                    "Simplificación de expresiones",
+                    "Resolución de ecuaciones racionales",
+                    "Análisis de asíntotas"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones exponenciales",
+                "contenido":  [
+                    "Bases y exponentes",
+                    "Resolución de ecuaciones exponenciales",
+                    "Aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones logarítmicas",
+                "contenido":  [
+                    "Propiedades de logaritmos",
+                    "Cambio de base",
+                    "Resolución de ecuaciones logarítmicas"
+                ]
+            },
+            {
+                "titulo": "Sistemas no lineales",
+                "contenido":  [
+                    "Sistemas combinados",
+                    "Métodos de resolución",
+                    "Aplicaciones en problemas"
+                ]
+            },
+            {
+                "titulo": "Desigualdades cuadráticas y racionales",
+                "contenido":  [
+                    "Intervalos solución",
+                    "Análisis de signos",
+                    "Representación gráfica"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones polinómicas de mayor grado",
+                "contenido":  [
+                    "Raíces y multiplicidad",
+                    "División sintética",
+                    "Teorema del resto y factor"
+                ]
+            },
+            {
+                "titulo": "Matrices y determinantes",
+                "contenido":  [
+                    "Operaciones con matrices",
+                    "Determinantes",
+                    "Aplicaciones en sistemas de ecuaciones"
+                ]
+            },
+            {
+                "titulo": "Vectores en el plano",
+                "contenido":  [
+                    "Suma y resta",
+                    "Producto escalar",
+                    "Aplicaciones en problemas algebraicos"
+                ]
+            },
+            {
+                "titulo": "Resolución de problemas avanzados",
+                "contenido":  [
+                    "Problemas combinados",
+                    "Modelación algebraica",
+                    "Razonamiento avanzado"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF04",
+        "nombre": "Geometría y Trigonometría Prefacultativa",
+        "clases": 15,
+        "etiqueta": "Geometria_trigonometria_prefa",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso completo de geometría y trigonometría orientado a estudiantes que se preparan para exámenes prefacultativos. Desarrolla razonamiento espacial, soluciones geométricas y dominio de identidades y aplicaciones trigonométricas." ,
+        "temario": [
+            {
+                "titulo": "Fundamentos de geometría",
+                "contenido":  [
+                    "Puntos, rectas y planos",
+                    "Segmentos y ángulos",
+                    "Postulados y teoremas básicos"
+                ]
+            },
+            {
+                "titulo": "Triángulos",
+                "contenido":  [
+                    "Clasificación",
+                    "Propiedades",
+                    "Congruencia y semejanza"
+                ]
+            },
+            {
+                "titulo": "Cuadriláteros y polígonos",
+                "contenido":  [
+                    "Tipos de cuadriláteros",
+                    "Propiedades de polígonos",
+                    "Ángulos interiores y exteriores"
+                ]
+            },
+            {
+                "titulo": "Circunferencia y círculo",
+                "contenido":  [
+                    "Elementos",
+                    "Ángulos inscritos y centrales",
+                    "Potencia de un punto"
+                ]
+            },
+            {
+                "titulo": "Geometría analítica básica",
+                "contenido":  [
+                    "Distancia entre dos puntos",
+                    "Punto medio",
+                    "Pendiente",
+                    "Recta en el plano cartesiano"
+                ]
+            },
+            {
+                "titulo": "Lugares geométricos",
+                "contenido":  [
+                    "Definición",
+                    "Aplicaciones típicas",
+                    "Construcciones básicas"
+                ]
+            },
+            {
+                "titulo": "Área y perímetro",
+                "contenido":  [
+                    "Triángulos",
+                    "Cuadriláteros",
+                    "Polígonos regulares",
+                    "Círculos"
+                ]
+            },
+            {
+                "titulo": "Trigonometría en el triángulo rectángulo",
+                "contenido":  [
+                    "Razones trigonométricas",
+                    "Aplicaciones directas",
+                    "Resolución de triángulos"
+                ]
+            },
+            {
+                "titulo": "Funciones trigonométricas",
+                "contenido":  [
+                    "Definición desde el círculo unitario",
+                    "Gráficas básicas",
+                    "Dominio y rango"
+                ]
+            },
+            {
+                "titulo": "Identidades trigonométricas",
+                "contenido":  [
+                    "Identidades fundamentales",
+                    "Identidades de suma y diferencia",
+                    "Productos y transformaciones"
+                ]
+            },
+            {
+                "titulo": "Ecuaciones trigonométricas",
+                "contenido":  [
+                    "Ecuaciones básicas",
+                    "Métodos de resolución",
+                    "Ecuaciones múltiples"
+                ]
+            },
+            {
+                "titulo": "Leyes de senos y cosenos",
+                "contenido":  [
+                    "Aplicación en triángulos oblicuángulos",
+                    "Problemas directos e inversos",
+                    "Ambigüedad en la ley de senos"
+                ]
+            },
+            {
+                "titulo": "Vectores en el plano",
+                "contenido":  [
+                    "Módulo, dirección y sentido",
+                    "Operaciones",
+                    "Aplicaciones en geometría"
+                ]
+            },
+            {
+                "titulo": "Geometría espacial",
+                "contenido":  [
+                    "Cuerpos geométricos",
+                    "Volúmenes",
+                    "Áreas laterales y totales"
+                ]
+            },
+            {
+                "titulo": "Problemas avanzados integrados",
+                "contenido":  [
+                    "Geometría combinada con trigonometría",
+                    "Modelación y razonamiento espacial",
+                    "Resolución de problemas de nivel prefacultativo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF05",
+        "nombre": "Funciones y Gráficas",
+        "clases": 12,
+        "etiqueta": "Funciones_graficas",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso dedicado al estudio de funciones, sus propiedades fundamentales y la interpretación y construcción de sus gráficas. Ideal para nivel colegio avanzado, prefacultativo y primeros semestres universitarios." ,
+        "temario": [
+            {
+                "titulo": "Concepto de función",
+                "contenido":  [
+                    "Definiciones y representaciones",
+                    "Dominio y rango",
+                    "Funciones como relaciones especiales"
+                ]
+            },
+            {
+                "titulo": "Tipos de funciones",
+                "contenido":  [
+                    "Funciones algebraicas",
+                    "Funciones trascendentales",
+                    "Funciones definidas por tramos"
+                ]
+            },
+            {
+                "titulo": "Funciones lineales",
+                "contenido":  [
+                    "Forma general y pendiente",
+                    "Intersecciones",
+                    "Interpretación geométrica"
+                ]
+            },
+            {
+                "titulo": "Funciones cuadráticas",
+                "contenido":  [
+                    "Forma general y canónica",
+                    "Gráfica de la parábola",
+                    "Transformaciones"
+                ]
+            },
+            {
+                "titulo": "Funciones polinómicas",
+                "contenido":  [
+                    "Comportamiento general",
+                    "Raíces y multiplicidad",
+                    "Gráficas típicas"
+                ]
+            },
+            {
+                "titulo": "Funciones racionales",
+                "contenido":  [
+                    "Asíntotas",
+                    "Comportamiento cerca de discontinuidades",
+                    "Gráficas representativas"
+                ]
+            },
+            {
+                "titulo": "Funciones exponenciales",
+                "contenido":  [
+                    "Crecimiento y decrecimiento",
+                    "Aplicaciones",
+                    "Transformaciones"
+                ]
+            },
+            {
+                "titulo": "Funciones logarítmicas",
+                "contenido":  [
+                    "Propiedades",
+                    "Relación con funciones exponenciales",
+                    "Gráficas"
+                ]
+            },
+            {
+                "titulo": "Transformaciones de funciones",
+                "contenido":  [
+                    "Traslaciones",
+                    "Reflexiones",
+                    "Estiramientos y compresiones"
+                ]
+            },
+            {
+                "titulo": "Composición de funciones",
+                "contenido":  [
+                    "Concepto",
+                    "Evaluación",
+                    "Interpretación gráfica"
+                ]
+            },
+            {
+                "titulo": "Inversas de funciones",
+                "contenido":  [
+                    "Criterio de invertibilidad",
+                    "Cálculo de la función inversa",
+                    "Gráfica y simetría"
+                ]
+            },
+            {
+                "titulo": "Resolución de problemas aplicados",
+                "contenido":  [
+                    "Modelación con funciones",
+                    "Análisis gráfico",
+                    "Interpretación de comportamientos reales"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF06",
+        "nombre": "Matemática de Exámenes de Ingreso",
+        "clases": 12,
+        "etiqueta": "Matematicas_examenes_ingreso",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso intensivo orientado a la preparación para exámenes de ingreso a universidad y cursos prefacultativos. Incluye resolución de problemas tipo, estrategias rápidas y revisión de los temas más frecuentes." ,
+        "temario": [
+            {
+                "titulo": "Diagnóstico y repaso general",
+                "contenido":  [
+                    "Evaluación inicial",
+                    "Repaso de conceptos esenciales",
+                    "Estrategias de estudio"
+                ]
+            },
+            {
+                "titulo": "Aritmética esencial",
+                "contenido":  [
+                    "Operaciones combinadas",
+                    "Fracciones y porcentajes",
+                    "Problemas típicos de ingreso"
+                ]
+            },
+            {
+                "titulo": "Álgebra básica y ecuaciones",
+                "contenido":  [
+                    "Ecuaciones lineales",
+                    "Inecuaciones",
+                    "Problemas de modelación"
+                ]
+            },
+            {
+                "titulo": "Polinomios y ecuaciones cuadráticas",
+                "contenido":  [
+                    "Factorización clave",
+                    "Resolución con fórmula general",
+                    "Aplicaciones frecuentes"
+                ]
+            },
+            {
+                "titulo": "Sistemas de ecuaciones",
+                "contenido":  [
+                    "Métodos clásicos",
+                    "Problemas típicos",
+                    "Resolución eficiente"
+                ]
+            },
+            {
+                "titulo": "Funciones y gráficas",
+                "contenido":  [
+                    "Lineales, cuadráticas y racionales",
+                    "Identificación rápida de comportamientos",
+                    "Interpretación de gráficas"
+                ]
+            },
+            {
+                "titulo": "Geometría plana",
+                "contenido":  [
+                    "Ángulos, triángulos y polígonos",
+                    "Círculos y áreas",
+                    "Problemas clásicos"
+                ]
+            },
+            {
+                "titulo": "Trigonometría aplicada",
+                "contenido":  [
+                    "Razones trigonométricas",
+                    "Resolución de triángulos",
+                    "Leyes de senos y cosenos"
+                ]
+            },
+            {
+                "titulo": "Probabilidad básica",
+                "contenido":  [
+                    "Regla de la suma y el producto",
+                    "Eventos independientes",
+                    "Problemas tipo examen"
+                ]
+            },
+            {
+                "titulo": "Conteo y combinatoria",
+                "contenido":  [
+                    "Permutaciones y combinaciones",
+                    "Principio fundamental del conteo",
+                    "Aplicaciones prácticas"
+                ]
+            },
+            {
+                "titulo": "Estrategias rápidas de resolución",
+                "contenido":  [
+                    "Atajos algebraicos",
+                    "Reconocimiento de patrones",
+                    "Técnicas de eliminación"
+                ]
+            },
+            {
+                "titulo": "Simulacro final",
+                "contenido":  [
+                    "Examen completo",
+                    "Revisión de errores",
+                    "Recomendaciones finales"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MAT_PF07",
+        "nombre": "Razonamiento Matemático",
+        "clases": 10,
+        "etiqueta": "Razonamiento_matematico",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Matemáticas",
+        "descripcion": "Curso enfocado en el desarrollo del pensamiento lógico-matemático y la resolución de problemas tipo prefacultativo y exámenes de ingreso, fortaleciendo estrategias de análisis y razonamiento crítico." ,
+        "temario": [
+            {
+                "titulo": "Introducción al razonamiento matemático",
+                "contenido":  [
+                    "Conceptos básicos de lógica",
+                    "Tipos de razonamiento",
+                    "Errores comunes y cómo evitarlos"
+                ]
+            },
+            {
+                "titulo": "Patrones numéricos y secuencias",
+                "contenido":  [
+                    "Identificación de patrones",
+                    "Series aritméticas y geométricas",
+                    "Problemas de predicción"
+                ]
+            },
+            {
+                "titulo": "Problemas de lógica",
+                "contenido":  [
+                    "Razonamiento deductivo",
+                    "Razonamiento inductivo",
+                    "Tablas de verdad y proposiciones simples"
+                ]
+            },
+            {
+                "titulo": "Problemas de comparación y orden",
+                "contenido":  [
+                    "Mayor, menor, igual",
+                    "Ordenamiento de elementos",
+                    "Ejercicios de aplicación"
+                ]
+            },
+            {
+                "titulo": "Problemas combinados",
+                "contenido":  [
+                    "Interpretación de enunciados",
+                    "Aplicación de varias estrategias",
+                    "Resolución paso a paso"
+                ]
+            },
+            {
+                "titulo": "Aritmética aplicada al razonamiento",
+                "contenido":  [
+                    "Problemas con fracciones y porcentajes",
+                    "Problemas con proporciones",
+                    "Uso de números enteros y decimales"
+                ]
+            },
+            {
+                "titulo": "Razonamiento espacial",
+                "contenido":  [
+                    "Figuras planas y volumétricas",
+                    "Rotaciones y simetrías",
+                    "Problemas geométricos visuales"
+                ]
+            },
+            {
+                "titulo": "Problemas algebraicos",
+                "contenido":  [
+                    "Ecuaciones simples",
+                    "Resolución de sistemas básicos",
+                    "Aplicación en problemas de razonamiento"
+                ]
+            },
+            {
+                "titulo": "Estadística básica para el razonamiento",
+                "contenido":  [
+                    "Interpretación de gráficos y tablas",
+                    "Promedios y mediana",
+                    "Problemas aplicados"
+                ]
+            },
+            {
+                "titulo": "Simulacro de examen y estrategias finales",
+                "contenido":  [
+                    "Examen de práctica",
+                    "Identificación de errores frecuentes",
+                    "Recomendaciones y técnicas de optimización"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_PF01",
+        "nombre": "Física Prefacultativo Completo",
+        "clases": 22,
+        "etiqueta": "Fisica_prefacultativa",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Física Prefacultativa",
+        "descripcion": "Curso completo de física a nivel prefacultativo, diseñado para reforzar conceptos fundamentales y preparar al estudiante para el ingreso universitario. Incluye temas de cinemática, dinámica, fluidos, termodinámica, ondas, óptica, electricidad y magnetismo." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Magnitudes Físicas y Sistemas de Unidades",
+                "contenido":  ["Concepto de magnitud física, fundamentales y derivadas. Sistema Internacional. Notación científica. Análisis dimensional." ]
+            },
+            {
+                "titulo": "Clase 2: Vectores",
+                "contenido":  ["Representación gráfica, suma y resta de vectores, componentes, producto escalar y vectorial." ]
+            },
+            {
+                "titulo": "Clase 3: Cinemática en una Dimensión",
+                "contenido":  ["Movimiento rectilíneo uniforme (MRU) y uniformemente variado (MRUV). Gráficas posición–tiempo y velocidad–tiempo." ]
+            },
+            {
+                "titulo": "Clase 4: Cinemática en Dos Dimensiones",
+                "contenido":  ["Movimiento parabólico y circular. Componentes del movimiento." ]
+            },
+            {
+                "titulo": "Clase 5: Dinámica – Leyes de Newton",
+                "contenido":  ["Primera, segunda y tercera ley. Fuerzas de contacto y a distancia. Diagramas de cuerpo libre." ]
+            },
+            {
+                "titulo": "Clase 6: Trabajo, Energía y Potencia",
+                "contenido":  ["Trabajo mecánico, energía cinética y potencial. Conservación de la energía. Potencia." ]
+            },
+            {
+                "titulo": "Clase 7: Cantidad de Movimiento e Impulso",
+                "contenido":  ["Cantidad de movimiento, impulso, choques elásticos e inelásticos. Conservación." ]
+            },
+            {
+                "titulo": "Clase 8: Estática",
+                "contenido":  ["Equilibrio traslacional y rotacional. Torque. Centro de masa." ]
+            },
+            {
+                "titulo": "Clase 9: Gravitación",
+                "contenido":  ["Ley de gravitación universal. Campo gravitatorio. Órbitas y satélites." ]
+            },
+            {
+                "titulo": "Clase 10: Fluidos",
+                "contenido":  ["Densidad, presión, principio de Pascal, Arquímedes. Ecuación de continuidad y Bernoulli." ]
+            },
+            {
+                "titulo": "Clase 11: Termodinámica – Temperatura y Calor",
+                "contenido":  ["Escalas de temperatura, dilatación, calor específico, cambios de fase." ]
+            },
+            {
+                "titulo": "Clase 12: Termodinámica – Leyes Fundamentales",
+                "contenido":  ["Primera ley, procesos termodinámicos, máquinas térmicas, segunda ley." ]
+            },
+            {
+                "titulo": "Clase 13: Movimiento Ondulatorio",
+                "contenido":  ["Ondas mecánicas, longitud, frecuencia, velocidad. Ondas estacionarias." ]
+            },
+            {
+                "titulo": "Clase 14: Sonido",
+                "contenido":  ["Naturaleza del sonido, intensidad, tono, efecto Doppler." ]
+            },
+            {
+                "titulo": "Clase 15: Óptica Geométrica",
+                "contenido":  ["Reflexión, refracción, espejos, lentes delgadas y formación de imágenes." ]
+            },
+            {
+                "titulo": "Clase 16: Electricidad – Carga y Campo Eléctrico",
+                "contenido":  ["Carga eléctrica, ley de Coulomb, campo eléctrico, líneas de campo." ]
+            },
+            {
+                "titulo": "Clase 17: Potencial y Energía Eléctrica",
+                "contenido":  ["Diferencia de potencial, energía potencial eléctrica, superficies equipotenciales." ]
+            },
+            {
+                "titulo": "Clase 18: Corriente Eléctrica y Circuitos",
+                "contenido":  ["Corriente, resistencia, ley de Ohm, circuitos en serie y paralelo, potencia eléctrica." ]
+            },
+            {
+                "titulo": "Clase 19: Magnetismo",
+                "contenido":  ["Campo magnético, fuerza magnética, cargas en movimiento, regla de la mano derecha." ]
+            },
+            {
+                "titulo": "Clase 20: Electromagnetismo",
+                "contenido":  ["Ley de Faraday, inducción electromagnética, transformadores." ]
+            },
+            {
+                "titulo": "Clase 21: Física Moderna – Relatividad Especial",
+                "contenido":  ["Postulados de Einstein, dilatación del tiempo, contracción de la longitud." ]
+            },
+            {
+                "titulo": "Clase 22: Física Moderna – Estructura Atómica",
+                "contenido":  ["Modelos atómicos, efecto fotoeléctrico, espectros, número cuántico básico." ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_PF02",
+        "nombre": "Mecánica (Cinemática y Dinámica)",
+        "clases": 15,
+        "etiqueta": "Mecanica",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Física Prefacultativa",
+        "descripcion": "Curso enfocado exclusivamente en la mecánica clásica a nivel prefacultativo, abarcando cinemática y dinámica de partículas, leyes de Newton, trabajo, energía, cantidad de movimiento y aplicaciones fundamentales para exámenes de ingreso." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la Mecánica",
+                "contenido":  ["Concepto de mecánica, ramas (cinemática y dinámica), magnitudes fundamentales, unidades y análisis dimensional." ]
+            },
+            {
+                "titulo": "Clase 2: Vectores y Sistemas de Referencia",
+                "contenido":  ["Fundamentos vectoriales, componentes, suma, resta y aplicaciones en el movimiento. Sistemas inerciales." ]
+            },
+            {
+                "titulo": "Clase 3: Movimiento Rectilíneo",
+                "contenido":  ["MRU y MRUV, ecuaciones del movimiento, gráficas posición–tiempo y velocidad–tiempo, aplicación en problemas típicos." ]
+            },
+            {
+                "titulo": "Clase 4: Movimiento en Dos Dimensiones",
+                "contenido":  ["Descomposición vectorial, movimientos simultáneos, movimiento parabólico y aplicaciones." ]
+            },
+            {
+                "titulo": "Clase 5: Movimiento Circular",
+                "contenido":  ["Velocidad angular y tangencial, aceleración centrípeta, frecuencia, periodo y movimiento circular uniforme." ]
+            },
+            {
+                "titulo": "Clase 6: Leyes de Newton",
+                "contenido":  ["Primera, segunda y tercera ley. Concepto de fuerza, masa e inercia. Aplicaciones directas." ]
+            },
+            {
+                "titulo": "Clase 7: Fuerzas de Contacto y de Campo",
+                "contenido":  ["Fricción estática y cinética, tensión, fuerza normal, peso y fuerzas gravitacionales." ]
+            },
+            {
+                "titulo": "Clase 8: Diagramas de Cuerpo Libre",
+                "contenido":  ["Cómo construir diagramas efectivos. Resolución de fuerzas. Problemas típicos de planos inclinados." ]
+            },
+            {
+                "titulo": "Clase 9: Dinámica del Movimiento Circular",
+                "contenido":  ["Fuerza centrípeta, dinámica en curvas, vehículos en giro, aplicaciones en gravitación." ]
+            },
+            {
+                "titulo": "Clase 10: Trabajo y Energía",
+                "contenido":  ["Trabajo de una fuerza, energía cinética y potencial, teorema trabajo–energía." ]
+            },
+            {
+                "titulo": "Clase 11: Conservación de la Energía",
+                "contenido":  ["Sistemas conservativos y no conservativos, fuerzas disipativas, aplicación en caída libre y péndulos." ]
+            },
+            {
+                "titulo": "Clase 12: Impulso y Cantidad de Movimiento",
+                "contenido":  ["Impulso, cantidad de movimiento, choques elásticos e inelásticos. Conservación del momento lineal." ]
+            },
+            {
+                "titulo": "Clase 13: Sistemas de Partículas y Centro de Masa",
+                "contenido":  ["Cálculo del centro de masa, movimiento del centro de masa, sistemas de dos o más partículas." ]
+            },
+            {
+                "titulo": "Clase 14: Estática",
+                "contenido":  ["Condiciones de equilibrio, torque o momento de fuerza, aplicaciones en sistemas rígidos." ]
+            },
+            {
+                "titulo": "Clase 15: Repaso General y Ejercicios Tipo Ingreso",
+                "contenido":  ["Resumen global de cinemática y dinámica. Problemas característicos de exámenes de ingreso universitario." ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_PF03",
+        "nombre": "Electricidad y Magnetismo",
+        "clases": 15,
+        "etiqueta": "Electricidad_y_magnetismo",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Física Prefacultativa",
+        "descripcion": "Curso completo y esencial para nivel prefacultativo, cubriendo desde la carga eléctrica y campos hasta circuitos, magnetismo y electromagnetismo. Ideal para exámenes de ingreso universitario." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la Electricidad",
+                "contenido":  ["Concepto de carga eléctrica, tipos de carga, cuantización y conservación. Materiales conductores y aislantes." ]
+            },
+            {
+                "titulo": "Clase 2: Ley de Coulomb",
+                "contenido":  ["Fuerza eléctrica entre cargas, proporcionalidad inversa al cuadrado, cargas puntuales, superposición de fuerzas." ]
+            },
+            {
+                "titulo": "Clase 3: Campo Eléctrico",
+                "contenido":  ["Definición, representación mediante líneas de campo, cálculo del campo para configuraciones simples." ]
+            },
+            {
+                "titulo": "Clase 4: Potencial y Energía Eléctrica",
+                "contenido":  ["Trabajo eléctrico, diferencia de potencial, relación entre campo y potencial, energía potencial eléctrica." ]
+            },
+            {
+                "titulo": "Clase 5: Capacitancia y Capacitores",
+                "contenido":  ["Capacitores planos, energía almacenada, constante dieléctrica, asociación en serie y paralelo." ]
+            },
+            {
+                "titulo": "Clase 6: Corriente Eléctrica",
+                "contenido":  ["Definición de corriente, densidad de corriente, resistencia eléctrica, resistividad, ley de Ohm." ]
+            },
+            {
+                "titulo": "Clase 7: Circuitos Eléctricos",
+                "contenido":  ["Circuitos en serie y paralelo, potencia eléctrica, análisis básico de circuitos con fuentes." ]
+            },
+            {
+                "titulo": "Clase 8: Leyes de Kirchhoff",
+                "contenido":  ["Ley de corrientes (nodos) y ley de voltajes (mallas). Aplicaciones a circuitos mixtos." ]
+            },
+            {
+                "titulo": "Clase 9: Campo Magnético",
+                "contenido":  ["Concepto de campo magnético, líneas de campo, campos producidos por imanes y corrientes." ]
+            },
+            {
+                "titulo": "Clase 10: Fuerza Magnética",
+                "contenido":  ["Fuerza sobre una carga en movimiento, regla de la mano derecha, fuerza sobre un conductor." ]
+            },
+            {
+                "titulo": "Clase 11: Ley de Ampère",
+                "contenido":  ["Campo magnético debido a corrientes, espiras, solenoides y aplicaciones típicas en prefacultativos." ]
+            },
+            {
+                "titulo": "Clase 12: Inducción Electromagnética",
+                "contenido":  ["Ley de Faraday, flujo magnético, corriente inducida y ley de Lenz. Aplicaciones concretas." ]
+            },
+            {
+                "titulo": "Clase 13: Autoinducción y Transformadores",
+                "contenido":  ["Inductancia, reactancia inductiva, funcionamiento básico de transformadores." ]
+            },
+            {
+                "titulo": "Clase 14: Ondas Electromagnéticas",
+                "contenido":  ["Naturaleza de las ondas EM, espectro electromagnético, velocidad de propagación." ]
+            },
+            {
+                "titulo": "Clase 15: Repaso General y Ejercicios Tipo Ingreso",
+                "contenido":  ["Resumen completo del curso. Problemas característicos de electricidad y magnetismo para ingreso universitario." ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_PF04",
+        "nombre": "Ondas y Termodinámica",
+        "clases": 12,
+        "etiqueta": "Ondas_y_termodinamica",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Física Prefacultativa",
+        "descripcion": "Curso esencial de nivel prefacultativo que aborda los principios fundamentales del movimiento ondulatorio, sonido, calor, temperatura y las leyes de la termodinámica. Ideal para reforzar conceptos para exámenes de ingreso universitario." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción al Movimiento Ondulatorio",
+                "contenido":  ["Concepto de onda, tipos de ondas, onda mecánica y electromagnética, parámetros fundamentales: amplitud, frecuencia, periodo, longitud de onda." ]
+            },
+            {
+                "titulo": "Clase 2: Ecuación de la Onda",
+                "contenido":  ["Relación entre velocidad, frecuencia y longitud de onda. Propagación de ondas en distintos medios." ]
+            },
+            {
+                "titulo": "Clase 3: Ondas Estacionarias",
+                "contenido":  ["Reflexión, interferencia, formación de ondas estacionarias, modos normales, cuerdas y tubos sonoros." ]
+            },
+            {
+                "titulo": "Clase 4: Sonido",
+                "contenido":  ["Naturaleza del sonido, intensidad, nivel sonoro, velocidad del sonido, fenómenos acústicos básicos." ]
+            },
+            {
+                "titulo": "Clase 5: Efecto Doppler",
+                "contenido":  ["Cambio aparente en la frecuencia debido al movimiento relativo entre fuente y observador. Aplicaciones típicas." ]
+            },
+            {
+                "titulo": "Clase 6: Introducción a la Termodinámica",
+                "contenido":  ["Concepto de temperatura, calor, equilibrio térmico. Ley cero de la termodinámica." ]
+            },
+            {
+                "titulo": "Clase 7: Calor y Cambios de Estado",
+                "contenido":  ["Calor sensible, calor latente, curvas de calentamiento, calor específico, cambios de fase." ]
+            },
+            {
+                "titulo": "Clase 8: Dilatación Térmica",
+                "contenido":  ["Dilatación lineal, superficial y volumétrica. Coeficientes de dilatación y aplicaciones." ]
+            },
+            {
+                "titulo": "Clase 9: Primera Ley de la Termodinámica",
+                "contenido":  ["Trabajo, calor, energía interna, procesos termodinámicos: isométrico, isotérmico, isobárico, adiabático." ]
+            },
+            {
+                "titulo": "Clase 10: Segunda Ley de la Termodinámica",
+                "contenido":  ["Entropía, procesos espontáneos, máquinas térmicas, eficiencia y ciclo de Carnot." ]
+            },
+            {
+                "titulo": "Clase 11: Conducción, Convección y Radiación",
+                "contenido":  ["Mecanismos de transferencia de calor, ley de Fourier, fenómenos de transporte térmico." ]
+            },
+            {
+                "titulo": "Clase 12: Repaso General y Ejercicios de Ingreso",
+                "contenido":  ["Resumen de ondas y termodinámica. Resolución de problemas típicos de exámenes prefacultativos." ]
+            }
+        ]
+    },
+    {
+        "id": "FIS_PF05",
+        "nombre": "Problemas tipo examen de Física",
+        "clases": 10,
+        "etiqueta": "Fisica_Examenes",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Física Prefacultativa",
+        "descripcion": "Curso enfocado exclusivamente en la resolución de ejercicios tipo examen de ingreso universitario. Incluye problemas de cinemática, dinámica, energía, impulso, fluidos, ondas, electricidad y magnetismo." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Problemas de Cinemática en Línea Recta",
+                "contenido":  ["Ejercicios de MRU y MRUV, gráficas posición–tiempo y velocidad–tiempo. Determinación de aceleraciones y desplazamientos." ]
+            },
+            {
+                "titulo": "Clase 2: Problemas de Tiro Parabólico",
+                "contenido":  ["Altura máxima, alcance, tiempo de vuelo, descomposición de componentes y resolución de trayectorias." ]
+            },
+            {
+                "titulo": "Clase 3: Problemas de Leyes de Newton",
+                "contenido":  ["Planos inclinados, fuerzas de fricción, sistemas con cuerdas, cuerpos acoplados y tensiones." ]
+            },
+            {
+                "titulo": "Clase 4: Problemas de Trabajo, Energía y Potencia",
+                "contenido":  ["Conservación de energía, energía cinética y potencial, trabajo de fuerzas variables, potencia mecánica." ]
+            },
+            {
+                "titulo": "Clase 5: Impulso, Cantidad de Movimiento y Choques",
+                "contenido":  ["Choques elásticos e inelásticos, conservación del momento, sistemas de dos cuerpos." ]
+            },
+            {
+                "titulo": "Clase 6: Problemas de Estática",
+                "contenido":  ["Condiciones de equilibrio, torque, palancas, centros de masa y sistemas rígidos." ]
+            },
+            {
+                "titulo": "Clase 7: Problemas de Fluidos",
+                "contenido":  ["Densidad, presión, principio de Pascal, Arquímedes, continuidad y Bernoulli aplicados a ejercicios típicos." ]
+            },
+            {
+                "titulo": "Clase 8: Problemas de Ondas y Sonido",
+                "contenido":  ["Ondas estacionarias, resonancia, velocidad de la onda, efecto Doppler y vibraciones en cuerdas y tubos." ]
+            },
+            {
+                "titulo": "Clase 9: Problemas de Electricidad",
+                "contenido":  ["Ley de Coulomb, campo eléctrico, potencial, capacitores, ley de Ohm y circuitos en serie y paralelo." ]
+            },
+            {
+                "titulo": "Clase 10: Problemas de Magnetismo e Inducción",
+                "contenido":  ["Fuerza magnética, cargas en movimiento, solenoides, ley de Faraday y transformadores." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF01",
+        "nombre": "Química Prefacultativo Completo",
+        "clases": 20,
+        "etiqueta": "Quimica_prefacultativa",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Curso completo de Química prefacultativa, abarcando desde los conceptos básicos hasta temas más avanzados para preparación preuniversitaria." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la Química",
+                "contenido":  ["Conceptos básicos, importancia de la química, medidas y unidades." ]
+            },
+            {
+                "titulo": "Clase 2: Estructura atómica",
+                "contenido":  ["Partículas subatómicas, número atómico y masa atómica, isotopos." ]
+            },
+            {
+                "titulo": "Clase 3: Tabla periódica",
+                "contenido":  ["Organización de los elementos, grupos y periodos, propiedades periódicas." ]
+            },
+            {
+                "titulo": "Clase 4: Enlaces químicos",
+                "contenido":  ["Enlace iónico, covalente, metálico y polaridad." ]
+            },
+            {
+                "titulo": "Clase 5: Reacciones químicas",
+                "contenido":  ["Tipos de reacciones, balanceo de ecuaciones, leyes de conservación." ]
+            },
+            {
+                "titulo": "Clase 6: Estequiometría",
+                "contenido":  ["Cálculos con moles, masas y volúmenes, reactivo limitante." ]
+            },
+            {
+                "titulo": "Clase 7: Gases",
+                "contenido":  ["Ley de los gases ideales, combinaciones de gases, presión y temperatura." ]
+            },
+            {
+                "titulo": "Clase 8: Soluciones",
+                "contenido":  ["Concentración, solubilidad, dilución y propiedades coligativas." ]
+            },
+            {
+                "titulo": "Clase 9: Ácidos y bases",
+                "contenido":  ["Conceptos de Brønsted-Lowry y Lewis, pH y pOH, fuerza de ácidos y bases." ]
+            },
+            {
+                "titulo": "Clase 10: Termoquímica",
+                "contenido":  ["Calor, energía, entalpía de reacción, leyes de la termodinámica." ]
+            },
+            {
+                "titulo": "Clase 11: Cinética química",
+                "contenido":  ["Velocidad de reacción, factores que la afectan, teoría de colisiones." ]
+            },
+            {
+                "titulo": "Clase 12: Equilibrio químico",
+                "contenido":  ["Constante de equilibrio, principio de Le Chatelier, equilibrio ácido-base." ]
+            },
+            {
+                "titulo": "Clase 13: Química inorgánica",
+                "contenido":  ["Propiedades y reactividad de los principales elementos y compuestos." ]
+            },
+            {
+                "titulo": "Clase 14: Química orgánica básica",
+                "contenido":  ["Hidrocarburos, grupos funcionales, nomenclatura y reacciones." ]
+            },
+            {
+                "titulo": "Clase 15: Termodinámica química",
+                "contenido":  ["Energía libre, entropía, spontaneidad de reacciones." ]
+            },
+            {
+                "titulo": "Clase 16: Electroquímica",
+                "contenido":  ["Celdas electroquímicas, potencial de electrodo, reacciones de oxidación-reducción." ]
+            },
+            {
+                "titulo": "Clase 17: Química del carbono",
+                "contenido":  ["Compuestos orgánicos avanzados, polímeros y biomoléculas." ]
+            },
+            {
+                "titulo": "Clase 18: Química ambiental",
+                "contenido":  ["Contaminación, química del agua y aire, sostenibilidad." ]
+            },
+            {
+                "titulo": "Clase 19: Laboratorio de Química",
+                "contenido":  ["Seguridad, técnicas básicas, experimentos demostrativos." ]
+            },
+            {
+                "titulo": "Clase 20: Preparación para exámenes",
+                "contenido":  ["Repaso general, resolución de problemas tipo prefacultativo." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF02",
+        "nombre": "Estequiometría Avanzada",
+        "clases": 12,
+        "etiqueta": "Estequiometria_avanzada",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Curso avanzado de estequiometría orientado a estudiantes prefacultativos y universitarios iniciales, con enfoque en cálculos complejos, reactivo limitante, rendimientos y aplicaciones en reacciones reales." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Fundamentos avanzados de la estequiometría",
+                "contenido":  ["Repaso de conceptos esenciales: mol, masa molar, número de Avogadro y ecuaciones químicas." ]
+            },
+            {
+                "titulo": "Clase 2: Balanceo avanzado de ecuaciones",
+                "contenido":  ["Métodos algebraicos, ion-electrón y reacciones de óxido–reducción complejas." ]
+            },
+            {
+                "titulo": "Clase 3: Relaciones molares y proporciones químicas",
+                "contenido":  ["Análisis profundo de coeficientes estequiométricos y su aplicación en cálculos." ]
+            },
+            {
+                "titulo": "Clase 4: Reactivo limitante y reactivo en exceso",
+                "contenido":  ["Identificación en reacciones múltiples y resolución de problemas complejos." ]
+            },
+            {
+                "titulo": "Clase 5: Rendimientos de reacción",
+                "contenido":  ["Rendimiento teórico, real y porcentual; factores que influyen en el rendimiento." ]
+            },
+            {
+                "titulo": "Clase 6: Cálculos con gases en reacciones químicas",
+                "contenido":  ["Gases ideales, mezclas de gases, leyes combinadas aplicadas a la estequiometría." ]
+            },
+            {
+                "titulo": "Clase 7: Soluciones en procesos estequiométricos",
+                "contenido":  ["Concentraciones, diluciones, y reacciones en solución acuosa." ]
+            },
+            {
+                "titulo": "Clase 8: Estequiometría en reacciones ácido-base",
+                "contenido":  ["Neutralización, equivalentes, titulaciones y cálculos relacionados." ]
+            },
+            {
+                "titulo": "Clase 9: Estequiometría en reacciones redox",
+                "contenido":  ["Transferencia de electrones, agentes oxidantes y reductores, ecuaciones iónicas." ]
+            },
+            {
+                "titulo": "Clase 10: Procesos industriales y estequiometría",
+                "contenido":  ["Aplicaciones reales en síntesis industrial, optimización de procesos." ]
+            },
+            {
+                "titulo": "Clase 11: Problemas mixtos de alto nivel",
+                "contenido":  ["Ejercicios integrados que combinan gases, soluciones y redox." ]
+            },
+            {
+                "titulo": "Clase 12: Simulacro estequiométrico final",
+                "contenido":  ["Evaluación integral estilo examen prefacultativo con resolución guiada." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF03",
+        "nombre": "Estructura Atómica",
+        "clases": 12,
+        "etiqueta": "Estructura_atomica",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Curso completo sobre la estructura interna del átomo, modelos atómicos, configuraciones electrónicas y propiedades que derivan de la organización subatómica. Ideal para nivel prefacultativo y universitario inicial.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la estructura atómica",
+                "contenido":  ["Historia del concepto de átomo, primeras ideas filosóficas y evolución inicial." ]
+            },
+            {
+                "titulo": "Clase 2: Descubrimiento del electrón",
+                "contenido":  ["Experimento de Thomson, relación carga/masa y modelo pudín de pasas." ]
+            },
+            {
+                "titulo": "Clase 3: El núcleo atómico",
+                "contenido":  ["Experimento de Rutherford, protones, neutrones y modelo nuclear." ]
+            },
+            {
+                "titulo": "Clase 4: Modelos atómicos de Bohr y Sommerfeld",
+                "contenido":  ["Niveles de energía, cuantización y explicación del espectro del hidrógeno." ]
+            },
+            {
+                "titulo": "Clase 5: Dualidad onda-partícula",
+                "contenido":  ["Principio de De Broglie, experimento de la doble rendija e implicaciones cuánticas." ]
+            },
+            {
+                "titulo": "Clase 6: Mecánica cuántica aplicada al átomo",
+                "contenido":  ["Ecuación de Schrödinger, orbitales y función de onda." ]
+            },
+            {
+                "titulo": "Clase 7: Números cuánticos",
+                "contenido":  ["n, l, m y s; significado físico y restricciones." ]
+            },
+            {
+                "titulo": "Clase 8: Configuración electrónica",
+                "contenido":  ["Reglas de Aufbau, Hund y principio de exclusión de Pauli." ]
+            },
+            {
+                "titulo": "Clase 9: Orbitales atómicos",
+                "contenido":  ["Formas, energías relativas y organización de subniveles." ]
+            },
+            {
+                "titulo": "Clase 10: Espectros atómicos",
+                "contenido":  ["Emisión, absorción, líneas espectrales y sus aplicaciones." ]
+            },
+            {
+                "titulo": "Clase 11: Isótopos y masa atómica",
+                "contenido":  ["Cálculo de masas atómicas promedio, estabilidad nuclear, radiactividad básica." ]
+            },
+            {
+                "titulo": "Clase 12: Aplicaciones y problemas integradores",
+                "contenido":  ["Ejercicios avanzados de configuración, números cuánticos y análisis espectral." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF04",
+        "nombre": "Química Orgánica Básica",
+        "clases": 12,
+        "etiqueta": "Quimica_organica_avanzada",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Introducción completa a los fundamentos de la química orgánica: estructura del carbono, hidrocarburos, grupos funcionales y reacciones básicas. Ideal para nivel prefacultativo.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la química orgánica",
+                "contenido":  ["Definición, importancia, aplicaciones y el papel del carbono." ]
+            },
+            {
+                "titulo": "Clase 2: Estructura del átomo de carbono",
+                "contenido":  ["Hibridación sp, sp2, sp3; enlaces sigma y pi; geometrías moleculares." ]
+            },
+            {
+                "titulo": "Clase 3: Representación de compuestos orgánicos",
+                "contenido":  ["Fórmulas desarrolladas, condensadas, esqueleto y tridimensionales." ]
+            },
+            {
+                "titulo": "Clase 4: Hidrocarburos saturados: alcanos",
+                "contenido":  ["Nomenclatura, isomería, propiedades físicas y reactividad." ]
+            },
+            {
+                "titulo": "Clase 5: Hidrocarburos insaturados: alquenos",
+                "contenido":  ["Estructura, reacciones de adición y reglas de nomenclatura." ]
+            },
+            {
+                "titulo": "Clase 6: Hidrocarburos aromáticos",
+                "contenido":  ["Benceno y derivados, aromaticidad y reacciones típicas." ]
+            },
+            {
+                "titulo": "Clase 7: Grupos funcionales I",
+                "contenido":  ["Alcoholes, éteres y halogenuros de alquilo: propiedades y reacciones." ]
+            },
+            {
+                "titulo": "Clase 8: Grupos funcionales II",
+                "contenido":  ["Aldehídos, cetonas y ácidos carboxílicos: estructura y reactividad." ]
+            },
+            {
+                "titulo": "Clase 9: Grupos funcionales III",
+                "contenido":  ["Ésteres, amidas y aminas: características, nomenclatura y reacciones." ]
+            },
+            {
+                "titulo": "Clase 10: Reacciones orgánicas básicas",
+                "contenido":  ["Sustitución, adición, eliminación y reacciones ácido-base en orgánica." ]
+            },
+            {
+                "titulo": "Clase 11: Isomería orgánica",
+                "contenido":  ["Isomería estructural, geométrica y óptica con ejemplos." ]
+            },
+            {
+                "titulo": "Clase 12: Problemas integradores y aplicaciones",
+                "contenido":  ["Ejercicios de nomenclatura, identificación de grupos funcionales y reacciones." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF05",
+        "nombre": "Química Inorgánica Avanzada",
+        "clases": 12,
+        "etiqueta": "Quimica_inorganica_avanzada",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Curso avanzado de química inorgánica orientado a estudiantes prefacultativos y universitarios iniciales. Abarca estructura, reactividad, compuestos de coordinación y química de los elementos." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a la química inorgánica avanzada",
+                "contenido":  ["Notas históricas, campos de estudio y relación con otras áreas de la química." ]
+            },
+            {
+                "titulo": "Clase 2: Tabla periódica avanzada",
+                "contenido":  ["Tendencias profundas, radio iónico, energía de ionización y afinidad electrónica." ]
+            },
+            {
+                "titulo": "Clase 3: Enlace químico avanzado",
+                "contenido":  ["Teoría del enlace de valencia, orbitales híbridos y teoría del enlace metálico." ]
+            },
+            {
+                "titulo": "Clase 4: Teoría del campo cristalino",
+                "contenido":  ["Complejos octaédricos, tetraédricos y cuadrado-planos; desdoblamiento de orbitales." ]
+            },
+            {
+                "titulo": "Clase 5: Teoría del campo ligando",
+                "contenido":  ["Interacción metal-ligando, series espectroquímicas y aplicaciones." ]
+            },
+            {
+                "titulo": "Clase 6: Química de coordinación",
+                "contenido":  ["Nomenclatura, isomería y estabilidad de los complejos metálicos." ]
+            },
+            {
+                "titulo": "Clase 7: Elementos representativos",
+                "contenido":  ["Grupos s y p, propiedades, reactividad y compuestos característicos." ]
+            },
+            {
+                "titulo": "Clase 8: Metales de transición",
+                "contenido":  ["Propiedades electrónicas, estados de oxidación y reactividad característica." ]
+            },
+            {
+                "titulo": "Clase 9: Química de compuestos organometálicos",
+                "contenido":  ["Enlace metal-carbono, tipos de ligandos y reacciones fundamentales." ]
+            },
+            {
+                "titulo": "Clase 10: Ácidos y bases duros y blandos (HSAB)",
+                "contenido":  ["Concepto, aplicaciones, predicción de estabilidad y reactividad." ]
+            },
+            {
+                "titulo": "Clase 11: Reacciones inorgánicas avanzadas",
+                "contenido":  ["Redox, desplazamiento, formación de complejos y reacciones ácido-base." ]
+            },
+            {
+                "titulo": "Clase 12: Problemas avanzados y aplicaciones",
+                "contenido":  ["Ejercicios integradores, análisis de compuestos reales y aplicaciones tecnológicas." ]
+            }
+        ]
+    },
+    {
+        "id": "QMC_PF06",
+        "nombre": "Problemas tipo examen de Química",
+        "clases": 10,
+        "etiqueta": "Quimica_Examenes",
+        "categoria": "preuniversitarios",
+        "subcategoria": "Química",
+        "descripcion": "Colección de clases enfocadas exclusivamente en resolver problemas tipo examen de química, abarcando reactivos limitantes, gases, soluciones, termoquímica, equilibrio, redox y más. Ideal para preparación prefacultativa." ,
+        "temario": [
+            {
+                "titulo": "Clase 1: Problemas de estructura atómica y tabla periódica",
+                "contenido":  ["Configuraciones electrónicas, números cuánticos, tendencias periódicas y cálculos básicos." ]
+            },
+            {
+                "titulo": "Clase 2: Problemas de enlace químico",
+                "contenido":  ["Polaridad, geometría molecular, fuerzas intermoleculares y energía de enlace." ]
+            },
+            {
+                "titulo": "Clase 3: Reacciones químicas y balanceo",
+                "contenido":  ["Balanceo complejo, ajuste por ion-electrón y tipos de reacción." ]
+            },
+            {
+                "titulo": "Clase 4: Estequiometría aplicada",
+                "contenido":  ["Moles, masas, reactivo limitante, rendimiento teórico y problemas mixtos." ]
+            },
+            {
+                "titulo": "Clase 5: Problemas con gases",
+                "contenido":  ["Ley de los gases ideales, mezclas, presiones parciales y variaciones de estado." ]
+            },
+            {
+                "titulo": "Clase 6: Problemas de soluciones",
+                "contenido":  ["Concentraciones, diluciones, solubilidad y reacciones en solución acuosa." ]
+            },
+            {
+                "titulo": "Clase 7: Problemas de ácido–base",
+                "contenido":  ["Cálculo de pH, pOH, hidrólisis, neutralización y problemas de titulaciones." ]
+            },
+            {
+                "titulo": "Clase 8: Problemas de termoquímica",
+                "contenido":  ["Calor de reacción, calorimetría, Hess, entalpías de formación y combustión." ]
+            },
+            {
+                "titulo": "Clase 9: Problemas de equilibrio y cinética",
+                "contenido":  ["Constante de equilibrio, desplazamientos, velocidad de reacción y factores que la afectan." ]
+            },
+            {
+                "titulo": "Clase 10: Problemas de electroquímica",
+                "contenido":  ["Reacciones redox, celdas galvánicas, potencial estándar y aplicaciones." ]
+            }
+        ]
+    }
+]

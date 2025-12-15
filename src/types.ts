@@ -1,11 +1,12 @@
 // types.ts
 
 export interface Course {
-  id: number;
+  id: string;
   nombre: string;
   clases: number;
   etiqueta: string;
   categoria: string;
+  subcategoria: string;
   descripcion: string;
   temario: {
     titulo: string;
@@ -15,8 +16,7 @@ export interface Course {
 
 export interface Filters {
   search: string;
-  category: string;
-  level: string;
+  subcategory: string;
 }
 
 export interface CourseCardProps {
@@ -36,5 +36,6 @@ export interface CourseDetailProps {
 
 export interface FilterBarProps {
   filters: Filters;
+  subcategories: string[];
   onChange: (newFilters: Filters) => void;
 }

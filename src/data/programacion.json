@@ -1,10 +1,11 @@
 [
     {
-        "id": 1,
+        "id": "OFF_03",
         "nombre": "Excel Práctico de 0 a Avanzado",
         "clases": 12,
         "etiqueta": "Excel",
-        "categoria": "Ofimatica",
+        "categoria": "programacion",
+        "subcategoria": "Ofimatica",
         "descripcion": "Curso completo para aprender Excel desde lo básico hasta nivel intermedio-avanzado, con énfasis en práctica y aplicaciones reales.",
         "temario": [
             {
@@ -113,11 +114,12 @@
         ]
     },
     {
-        "id": 2,
+        "id": "PR_01",
         "nombre": "Curso Completo de C++",
         "clases": 15,
         "etiqueta": "Cpp",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso completo de C++ desde conceptos básicos hasta programación orientada a objetos, manejo de memoria y proyecto final.",
         "temario": [
             {
@@ -269,11 +271,12 @@
         ]
     },
     {
-        "id": 3,
+        "id": "PR_02",
         "nombre": "Curso completo de Python",
         "clases": 15,
         "etiqueta": "Python",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Aprende Python desde cero hasta análisis de datos y visualización con Numpy, Pandas y Matplotlib.",
         "temario": [
             {
@@ -405,11 +408,12 @@
         ]
     },
     {
-        "id": 4,
+        "id": "PR_03",
         "nombre": "Curso de PHP",
         "clases": 12,
         "etiqueta": "PHP",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso completo de PHP desde fundamentos hasta un mini proyecto con base de datos y POO.",
         "temario": [
             {
@@ -521,11 +525,12 @@
         ]
     },
     {
-        "id": 5,
+        "id": "PR_04",
         "nombre": "Curso Completo de Go (Golang)",
         "clases": 15,
         "etiqueta": "Go",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso completo de Golang diseñado para aprender desde los fundamentos hasta el desarrollo de aplicaciones concurrentes y proyectos completos con Go.",
         "temario": [
             {
@@ -661,11 +666,12 @@
         ]
     },
     {
-        "id": 6,
+        "id": "PR_05",
         "nombre": "Curso de Kotlin - 15 clases",
         "clases": 15,
         "etiqueta": "Kotlin",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso completo de Kotlin desde lo básico hasta desarrollo de aplicaciones Android, incluyendo programación funcional y corutinas.",
         "temario": [
             {
@@ -807,11 +813,12 @@
         ]
     },
     {
-        "id": 7,
+        "id": "PR_06",
         "nombre": "Curso Completo de JavaScript",
         "clases": 15,
         "etiqueta": "Javascript",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso de JavaScript desde cero hasta conceptos de POO, LocalStorage, Módulos y Node.js. Incluye fundamentos, DOM, eventos y proyecto final.",
         "temario": [
             {
@@ -976,11 +983,12 @@
         ]
     },
     {
-        "id": 8,
+        "id": "PR_07",
         "nombre": "Curso de TypeScript",
         "clases": 15,
         "etiqueta": "Typescript",
-        "categoria": "Lenguaje de programacion",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
         "descripcion": "Curso completo de TypeScript desde los conceptos básicos hasta tipos avanzados y POO, incluyendo proyectos prácticos.",
         "temario": [
             {
@@ -1124,11 +1132,12 @@
         ]
     },
     {
-        "id": 9,
+        "id": "BD_01",
         "nombre": "Curso de SQL",
         "clases": 15,
         "etiqueta": "SQL",
-        "categoria": "Bases de Datos",
+        "categoria": "programacion",
+        "subcategoria": "Bases de Datos",
         "descripcion": "Curso completo de SQL desde conceptos básicos hasta consultas avanzadas, incluyendo manipulación de datos, relaciones, funciones, vistas, procedimientos almacenados, triggers y seguridad.",
         "temario": [
             {
@@ -1260,11 +1269,12 @@
         ]
     },
     {
-        "id": 10,
+        "id": "BD_02",
         "nombre": "Curso de MongoDB",
         "clases": 15,
         "etiqueta": "MongoDB",
-        "categoria": "Bases de Datos",
+        "categoria": "programacion",
+        "subcategoria": "Bases de Datos",
         "descripcion": "Curso completo de MongoDB, desde conceptos básicos hasta integración con aplicaciones y proyecto final.",
         "temario": [
             {
@@ -1412,11 +1422,12 @@
         ]
     },
     {
-        "id": 11,
+        "id": "WEB_01",
         "nombre": "Curso de Diseño Web",
         "clases": 15,
         "etiqueta": "Web",
-        "categoria": "Desarrollo Web",
+        "categoria": "programacion",
+        "subcategoria": "Desarrollo Web",
         "descripcion": "Curso completo de diseño web desde fundamentos hasta la creación de un proyecto final, incluyendo HTML, CSS, diseño responsivo y JavaScript básico.",
         "temario": [
             {
@@ -1551,11 +1562,71 @@
         ]
     },
     {
-        "id": 12,
+  "id": "WEB_02",
+  "nombre": "Bootstrap – Diseño Web Responsive",
+  "clases": 12,
+  "etiqueta": "Bootstrap",
+        "categoria": "programacion",
+        "subcategoria": "Desarrollo Web",
+  "descripcion": "Curso práctico de Bootstrap enfocado en el diseño de interfaces web modernas, responsivas y móviles utilizando el framework CSS más popular. Se aprende desde la estructura básica hasta la construcción de layouts completos.",
+  "temario": [
+    {
+      "titulo": "Introducción a Bootstrap",
+      "contenido": ["Qué es Bootstrap, ventajas, casos de uso, CDN vs instalación local"]
+    },
+    {
+      "titulo": "Estructura básica de un proyecto",
+      "contenido": ["HTML base, inclusión de CSS y JS, uso correcto del contenedor"]
+    },
+    {
+      "titulo": "Sistema de grillas (Grid System)",
+      "contenido": ["Filas, columnas, breakpoints, diseño responsive"]
+    },
+    {
+      "titulo": "Tipografía y utilidades",
+      "contenido": ["Clases de texto, colores, espaciados, alineación"]
+    },
+    {
+      "titulo": "Botones y enlaces",
+      "contenido": ["Tipos de botones, tamaños, estados, grupos de botones"]
+    },
+    {
+      "titulo": "Formularios",
+      "contenido": ["Inputs, selects, validaciones, layouts de formularios"]
+    },
+    {
+      "titulo": "Tablas y listas",
+      "contenido": ["Tablas responsivas, estilos, listas y badges"]
+    },
+    {
+      "titulo": "Componentes básicos",
+      "contenido": ["Cards, alerts, progress bars, spinners"]
+    },
+    {
+      "titulo": "Navbar y menús",
+      "contenido": ["Navbars responsivas, menús desplegables"]
+    },
+    {
+      "titulo": "Modales y tooltips",
+      "contenido": "Ventanas modales, tooltips, popovers"
+    },
+    {
+      "titulo": "Utilidades avanzadas",
+      "contenido": ["Display, flexbox, visibilidad, helpers"]
+    },
+    {
+      "titulo": "Proyecto final",
+      "contenido": ["Diseño completo de una página web responsive con Bootstrap"]
+    }
+  ]
+},
+    {
+        "id": "WEB_03",
         "nombre": "Curso de Angular",
         "clases": 12,
         "etiqueta": "Angular",
-        "categoria": "Framework de Frontend",
+        "categoria": "programacion",
+        "subcategoria": "Framework de Frontend",
         "descripcion": "Curso completo de Angular para aprender a crear aplicaciones SPA, manejo de componentes, servicios, formularios, ruteo y consumo de APIs.",
         "temario": [
             {
@@ -1671,11 +1742,12 @@
         ]
     },
     {
-        "id": 13,
+        "id": "WEB_04",
         "nombre": "Curso de React",
         "clases": 12,
         "etiqueta": "React",
-        "categoria": "Framework de Frontend",
+        "categoria": "programacion",
+        "subcategoria": "Framework de Frontend",
         "descripcion": "Curso completo de React.js, desde conceptos básicos hasta el desarrollo de una aplicación final, incluyendo manejo de estado, hooks, ruteo y consumo de APIs.",
         "temario": [
             {
@@ -1779,11 +1851,12 @@
         ]
     },
     {
-        "id": 14,
+        "id": "WEB_05",
         "nombre": "Curso de Django",
         "clases": 12,
         "etiqueta": "Django",
-        "categoria": "Framework de Backend",
+        "categoria": "programacion",
+        "subcategoria": "Framework de Backend",
         "descripcion": "Curso completo de Django desde los fundamentos hasta la creación de un proyecto final funcional.",
         "temario": [
             {
@@ -1899,11 +1972,12 @@
         ]
     },
     {
-        "id": 15,
+        "id": "WEB_06",
         "nombre": "Curso de Laravel",
         "clases": 12,
         "etiqueta": "Laravel",
-        "categoria": "Framework de Backend",
+        "categoria": "programacion",
+        "subcategoria": "Framework de Backend",
         "descripcion": "Curso de introducción a Laravel para desarrollar aplicaciones web con PHP, bases de datos y buenas prácticas.",
         "temario": [
             {
@@ -2020,11 +2094,12 @@
         ]
     },
     {
-        "id": 16,
+        "id": "WEB_07",
         "nombre": "Curso de CodeIgniter",
         "clases": 12,
         "etiqueta": "CodeIgniter",
-        "categoria": "Framework de Backend",
+        "categoria": "programacion",
+        "subcategoria": "Framework de Backend",
         "descripcion": "Curso completo de CodeIgniter para aprender a crear aplicaciones web utilizando el patrón MVC, bases de datos, seguridad y buenas prácticas.",
         "temario": [
             {
@@ -2130,11 +2205,12 @@
         ]
     },
     {
-        "id": 17,
+        "id": "REP_01",
         "nombre": "Curso de Git & GitHub",
         "clases": 12,
         "etiqueta": "Git-GitHub",
-        "categoria": "Desarrollo y Control de Versiones",
+        "categoria": "programacion",
+        "subcategoria": "Desarrollo y Control de Versiones",
         "descripcion": "Curso completo de Git y GitHub para aprender control de versiones, colaboración y flujos de trabajo profesionales.",
         "temario": [
             {

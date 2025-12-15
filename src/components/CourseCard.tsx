@@ -15,7 +15,7 @@ export default function CourseCard({ course }: CourseCardProps) {
 
       <h2 className="text-xl font-bold text-gray-800">{course.nombre}</h2>
       <p className="text-gray-600 text-sm mt-1">
-        Categoría: <span className="font-medium">{course.categoria}</span>
+        Categoría: <span className="font-medium">{course.subcategoria}</span>
       </p>
       <p className="text-gray-500 text-sm">Clases: {course.clases}</p>
 

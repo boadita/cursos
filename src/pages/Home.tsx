@@ -1,48 +1,91 @@
-import { useState } from "react";
+import { useState, useMemo } from "react";
+import { useParams, useNavigate } from "react-router-dom";
 import CourseList from "../components/CourseList";
 import FilterBar from "../components/FilterBar";
 import type { Filters, Course } from "../types";
-import coursesData from "../data/courses.json";
+import escolares from "../data/escolares.json";
+import preuniversitarios from "../data/preuniversitarios.json";
+import universitarios from "../data/universitarios.json";
+import ingles from "../data/ingles.json";
+import informatica from "../data/informatica.json";
+import programacion from "../data/programacion.json";
 
 export default function Home() {
-  // Estado tipado correctamente
+  const { categoriaId } = useParams();
+  const navigate = useNavigate();
+
   const [filters, setFilters] = useState<Filters>({
     search: "",
-    category: "",
-    level: "",
+    subcategory: "",
   });
 
-  // Convertimos el JSON a tipo Course (si corresponde)
-  const courses = coursesData as Course[];
+  // Elegimos el JSON según la categoría
+  const courses: Course[] = useMemo(() => {
+    switch (categoriaId) {
+      case "escolares":
+        return escolares as Course[];
+      case "preuniversitarios":
+        return preuniversitarios as Course[];
+      case "universitarios":
+        return universitarios as Course[];
+      case "ingles":
+        return ingles as Course[];
+      case "informatica":
+        return informatica as Course[];
+      case "programacion":
+        return programacion as Course[];
+      default:
+        return [];
+    }
+  }, [categoriaId]);
 
-  // 🔥 APLICAR FILTROS AQUÍ
   const filteredCourses = courses.filter(course => {
-    // Filtro de búsqueda por nombre
     const matchesSearch = course.nombre
       .toLowerCase()
       .includes(filters.search.toLowerCase());
 
-    // Filtro por categoría
-    const matchesCategory =
-      filters.category === "" || course.categoria === filters.category;
+    const matchesSubcategory =
+      filters.subcategory === "" ||
+      course.subcategoria === filters.subcategory;
 
-    return matchesSearch && matchesCategory;
+    return matchesSearch && matchesSubcategory;
   });
-  
+
+  const subcategories = useMemo(() => {
+    return Array.from(
+      new Set(courses.map(course => course.subcategoria))
+    );
+  }, [courses]);
+
   return (
-    <div className="bg-yellow-500 text-black text-center font-bold p-6 w-full max-w-screen-xl mx-auto overflow-x-hidden">
+    <div className="bg-yellow-500 text-black font-bold p-6 w-full max-w-screen-xl mx-auto">
 
-      {/* Componente de filtros */}
-      <FilterBar
-        filters={filters}
-        onChange={(newFilters) => setFilters(newFilters)}
-      />
+      {/* Botón Volver */}
+      <div className="flex flex-col md:flex-row items-stretch md:items-end gap-4">
+        <button
+          onClick={() => navigate(-1)}
+          className="text-blue-700 hover:text-blue-900 font-semibold self-start"
+        >
+          ← Volver
+        </button>
 
-      {/* Lista de cursos */}
+        <div className="flex-1">
+          <FilterBar
+            filters={filters}
+            onChange={setFilters}
+            subcategories={subcategories}
+          />
+        </div>
+
+      </div>
+
       <CourseList
         courses={filteredCourses}
-        onSelectCourse={(course) => console.log("Curso seleccionado:", course)}
+        onSelectCourse={(course) =>
+          console.log("Curso seleccionado:", course)
+        }
       />
+
     </div>
   );
 }

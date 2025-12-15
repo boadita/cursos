@@ -1,0 +1,291 @@
+[
+    {
+        "id": "TEC_01",
+        "nombre": "Ensamblado de Computadores",
+        "clases": 10,
+        "etiqueta": "Ensamblado",
+        "categoria": "informatica",
+        "subcategoria": "Tecnología y Hardware",
+        "descripcion": "Curso práctico orientado al conocimiento, identificación y ensamblado de componentes de un computador personal. El estudiante aprenderá a seleccionar piezas compatibles, realizar el ensamblaje correcto, aplicar buenas prácticas de seguridad y verificar el correcto funcionamiento del equipo.",
+        "temario": [
+            {
+                "titulo": "Introducción al hardware de computadoras",
+                "contenido": ["Conceptos básicos de hardware, tipos de computadoras, arquitectura general de un PC."]
+            },
+            {
+                "titulo": "Componentes internos del computador",
+                "contenido": ["Placa madre, procesador, memoria RAM, disco duro y fuentes de poder."]
+            },
+            {
+                "titulo": "Dispositivos de almacenamiento",
+                "contenido": ["HDD, SSD, NVMe, diferencias, instalación y compatibilidad."]
+            },
+            {
+                "titulo": "Procesador y sistema de refrigeración",
+                "contenido": ["Tipos de CPU, sockets, instalación correcta y disipación térmica."]
+            },
+            {
+                "titulo": "Memoria RAM",
+                "contenido": ["Tipos de RAM, frecuencias, instalación y configuración."]
+            },
+            {
+                "titulo": "Fuente de poder",
+                "contenido": ["Potencia, certificaciones, conexiones y seguridad eléctrica."]
+            },
+            {
+                "titulo": "Gabinete y organización interna",
+                "contenido": ["Tipos de gabinetes, flujo de aire, ordenado de cables."]
+            },
+            {
+                "titulo": "Ensamblado paso a paso",
+                "contenido": ["Proceso completo de ensamblaje del computador."]
+            },
+            {
+                "titulo": "Primera puesta en marcha y BIOS",
+                "contenido": ["Encendido inicial, configuración básica de BIOS/UEFI."]
+            },
+            {
+                "titulo": "Mantenimiento y recomendaciones finales",
+                "contenido": ["Limpieza, mantenimiento preventivo, errores comunes y buenas prácticas."]
+            }
+        ]
+    },
+    {
+        "id": "TEC_02",
+        "nombre": "Mantenimiento de Hardware",
+        "clases": 8,
+        "etiqueta": "Mantenimiento",
+        "categoria": "informatica",
+        "subcategoria": "Tecnología y Hardware",
+        "descripcion": "Curso orientado al mantenimiento preventivo y correctivo de equipos de computación. El estudiante aprenderá a identificar fallas comunes de hardware, aplicar procedimientos de limpieza, diagnóstico y reemplazo de componentes, siguiendo normas de seguridad.",
+        "temario": [
+            {
+                "titulo": "Introducción al mantenimiento de hardware",
+                "contenido": ["Conceptos de mantenimiento preventivo y correctivo, importancia y alcance."]
+            },
+            {
+                "titulo": "Normas de seguridad y herramientas",
+                "contenido": ["Medidas de seguridad, herramientas básicas y equipos de protección."]
+            },
+            {
+                "titulo": "Limpieza interna y externa del computador",
+                "contenido": ["Procedimientos de limpieza de gabinete, ventiladores, placa madre y periféricos."]
+            },
+            {
+                "titulo": "Diagnóstico de fallas de hardware",
+                "contenido": ["Identificación de problemas comunes en CPU, RAM, disco y fuente de poder."]
+            },
+            {
+                "titulo": "Mantenimiento de dispositivos de almacenamiento",
+                "contenido": ["Revisión, pruebas y reemplazo de HDD, SSD y NVMe."]
+            },
+            {
+                "titulo": "Mantenimiento de la fuente y sistema de refrigeración",
+                "contenido": ["Revisión de fuente de poder, ventiladores y disipadores."]
+            },
+            {
+                "titulo": "Reemplazo y actualización de componentes",
+                "contenido": ["Cambio de piezas, compatibilidad y mejora del rendimiento."]
+            },
+            {
+                "titulo": "Buenas prácticas y recomendaciones finales",
+                "contenido": ["Errores comunes, checklist de mantenimiento y cuidado del equipo."]
+            }
+        ]
+    },
+    {
+        "id": "TEC_03",
+        "nombre": "Instalación de Linux",
+        "clases": 8,
+        "etiqueta": "Linux",
+        "categoria": "informatica",
+        "subcategoria": "Sistemas Operativos",
+        "descripcion": "Curso práctico orientado a la instalación y configuración básica del sistema operativo Linux. El estudiante aprenderá a preparar medios de instalación, realizar particionado de discos, instalar distribuciones populares y aplicar configuraciones iniciales para su uso cotidiano.",
+        "temario": [
+            {
+                "titulo": "Introducción a Linux",
+                "contenido": ["Historia, filosofía del software libre y principales distribuciones."]
+            },
+            {
+                "titulo": "Distribuciones de Linux",
+                "contenido": ["Ubuntu, Debian, Fedora, Linux Mint y criterios de selección."]
+            },
+            {
+                "titulo": "Preparación del medio de instalación",
+                "contenido": ["Descarga de ISO, creación de USB booteable y requisitos del sistema."]
+            },
+            {
+                "titulo": "Instalación de Linux paso a paso",
+                "contenido": ["Proceso de instalación guiada y personalizada."]
+            },
+            {
+                "titulo": "Particionado de discos",
+                "contenido": ["Tipos de particiones, sistemas de archivos y dual boot."]
+            },
+            {
+                "titulo": "Configuración inicial del sistema",
+                "contenido": ["Usuarios, permisos, idioma, red y actualizaciones."]
+            },
+            {
+                "titulo": "Entornos de escritorio",
+                "contenido": ["GNOME, KDE, XFCE y personalización básica."]
+            },
+            {
+                "titulo": "Primeros pasos y buenas prácticas",
+                "contenido": ["Instalación de software, comandos básicos y recomendaciones finales."]
+            }
+        ]
+    },
+    {
+        "id": "TEC_04",
+        "nombre": "Instalación de Windows",
+        "clases": 6,
+        "etiqueta": "Windows",
+        "categoria": "informatica",
+        "subcategoria": "Sistemas Operativos",
+        "descripcion": "Curso práctico orientado a la instalación y configuración del sistema operativo Windows. El estudiante aprenderá a preparar medios de instalación, realizar el proceso de instalación, configurar el sistema y dejar el equipo listo para su uso.",
+        "temario": [
+            {
+                "titulo": "Introducción a Windows",
+                "contenido": ["Versiones de Windows, requisitos del sistema y licenciamiento."]
+            },
+            {
+                "titulo": "Preparación del medio de instalación",
+                "contenido": ["Descarga de imagen ISO, creación de USB booteable y configuración de BIOS/UEFI."]
+            },
+            {
+                "titulo": "Instalación de Windows paso a paso",
+                "contenido": ["Proceso de instalación limpia y opciones básicas."]
+            },
+            {
+                "titulo": "Particionado y configuración del disco",
+                "contenido": ["Tipos de particiones, formato y selección de unidad."]
+            },
+            {
+                "titulo": "Configuración inicial del sistema",
+                "contenido": ["Usuarios, actualizaciones, privacidad y red."]
+            },
+            {
+                "titulo": "Drivers y puesta a punto final",
+                "contenido": ["Instalación de controladores, software básico y verificación del sistema."]
+            }
+        ]
+    },
+    {
+        "id": "OFF_01",
+        "nombre": "Microsoft Word",
+        "clases": 8,
+        "etiqueta": "Word",
+        "categoria": "informatica",
+        "subcategoria": "Ofimatica",
+        "descripcion": "Curso práctico orientado al uso de Microsoft Word para la creación, edición y formato de documentos profesionales. El estudiante aprenderá a manejar herramientas básicas e intermedias para elaborar trabajos académicos, informes y documentos administrativos.",
+        "temario": [
+            {
+                "titulo": "Introducción a Microsoft Word",
+                "contenido": ["Interfaz, cinta de opciones, creación y guardado de documentos."]
+            },
+            {
+                "titulo": "Formato de texto y párrafos",
+                "contenido": ["Fuentes, estilos, alineación, espaciado y sangrías."]
+            },
+            {
+                "titulo": "Listas, tablas y columnas",
+                "contenido": ["Creación y formato de listas, tablas y diseño en columnas."]
+            },
+            {
+                "titulo": "Inserción de objetos",
+                "contenido": ["Imágenes, formas, cuadros de texto y gráficos."]
+            },
+            {
+                "titulo": "Encabezados, pies de página y numeración",
+                "contenido": ["Diseño de encabezados, pies de página y números de página."]
+            },
+            {
+                "titulo": "Referencias y revisión",
+                "contenido": ["Tabla de contenido, notas al pie, control de cambios y comentarios."]
+            },
+            {
+                "titulo": "Plantillas y documentos largos",
+                "contenido": ["Uso de plantillas, estilos y estructura de documentos extensos."]
+            },
+            {
+                "titulo": "Impresión y exportación",
+                "contenido": ["Configuración de impresión y exportación a PDF."]
+            }
+        ]
+    },
+    {
+        "id": "OFF_02",
+        "nombre": "Microsoft PowerPoint",
+        "clases": 8,
+        "etiqueta": "Power_Point",
+        "categoria": "informatica",
+        "subcategoria": "Ofimatica",
+        "descripcion": "Curso práctico orientado al uso de Microsoft PowerPoint para la creación de presentaciones efectivas y profesionales. El estudiante aprenderá a diseñar diapositivas, aplicar animaciones, transiciones y técnicas de presentación visual para comunicar ideas de manera clara.",
+        "temario": [
+            {
+                "titulo": "Introducción a PowerPoint",
+                "contenido": ["Interfaz, cinta de opciones, creación y guardado de presentaciones."]
+            },
+            {
+                "titulo": "Diseño de diapositivas",
+                "contenido": ["Tipos de diapositivas, plantillas, temas y diseño visual."]
+            },
+            {
+                "titulo": "Formato de texto y objetos",
+                "contenido": ["Edición de texto, imágenes, formas, gráficos y SmartArt."]
+            },
+            {
+                "titulo": "Animaciones y transiciones",
+                "contenido": ["Aplicación y configuración de animaciones en objetos y diapositivas."]
+            },
+            {
+                "titulo": "Multimedia en presentaciones",
+                "contenido": ["Inserción de videos, audio y otros elementos multimedia."]
+            },
+            {
+                "titulo": "Diagramas y gráficos avanzados",
+                "contenido": ["Creación y personalización de gráficos y diagramas para presentaciones."]
+            },
+            {
+                "titulo": "Preparación para la presentación",
+                "contenido": ["Vista previa, presentación automática, notas y herramientas de presentador."]
+            },
+            {
+                "titulo": "Exportación e impresión",
+                "contenido": ["Guardar en distintos formatos, imprimir y compartir presentaciones."]
+            }
+        ]
+    },
+    {
+        "id": "TEC_05",
+        "nombre": "Copias de Seguridad",
+        "clases": 5,
+        "etiqueta": "copia_seguridad",
+        "categoria": "informatica",
+        "subcategoria": "Tecnología y Hardware",
+        "descripcion": "Curso orientado a la protección de información mediante la creación y gestión de copias de seguridad. El estudiante aprenderá a identificar riesgos de pérdida de datos, implementar estrategias de respaldo y restauración, utilizando distintas herramientas y métodos.",
+        "temario": [
+            {
+                "titulo": "Introducción a las copias de seguridad",
+                "contenido": ["Concepto de backup, importancia y tipos de copias de seguridad."]
+            },
+            {
+                "titulo": "Herramientas y métodos de respaldo",
+                "contenido": ["Software de backup, almacenamiento local y en la nube, y buenas prácticas."]
+            },
+            {
+                "titulo": "Programación y automatización de backups",
+                "contenido": ["Configuración de tareas automáticas y planificación de copias de seguridad."]
+            },
+            {
+                "titulo": "Restauración de datos",
+                "contenido": ["Recuperación de archivos y sistemas, verificación de integridad de los backups."]
+            },
+            {
+                "titulo": "Estrategias avanzadas y recomendaciones",
+                "contenido": ["Tipos de backups (incremental, diferencial, completo) y políticas de seguridad de datos."]
+            }
+        ]
+    }
+]

@@ -46,7 +46,7 @@ export default function CourseDetail({ course, onBack }: CourseDetailProps) {
     // --- 3. Datos iniciales ---
     pdf.setFont("Helvetica", "normal");
     pdf.setFontSize(12);
-    pdf.text(`Categoría: ${course.categoria}`, marginLeft, y);
+    pdf.text(`Categoría: ${course.subcategoria}`, marginLeft, y);
     y += 20;
     pdf.text(`Clases: ${course.clases}`, marginLeft, y);
     y += 30;
@@ -131,7 +131,7 @@ export default function CourseDetail({ course, onBack }: CourseDetailProps) {
         {/* Categoría */}
         <p className="text-lg text-gray-700 mt-2">
           <span className="font-semibold text-gray-900">Categoría:</span>{" "}
-          {course.categoria}
+          {course.subcategoria}
         </p>
 
         {/* Descripción */}

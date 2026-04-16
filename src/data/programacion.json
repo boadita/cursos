@@ -273,7 +273,7 @@
     {
         "id": "PR_02",
         "nombre": "Curso completo de Python",
-        "clases": 15,
+        "clases": 16,
         "etiqueta": "Python",
         "categoria": "programacion",
         "subcategoria": "Lenguaje de programacion",
@@ -398,7 +398,18 @@
                 ]
             },
             {
-                "titulo": "Clase 15: Proyecto final de análisis de datos",
+                "titulo": "Clase 15: Visualización avanzada con Seaborn",
+                "contenido": [
+                    "Introducción a Seaborn y diferencias con Matplotlib.",
+                    "Integración con Pandas (uso directo de DataFrames).",
+                    "Gráficos estadísticos: sns.barplot(), sns.countplot(), sns.histplot(), sns.boxplot(), sns.violinplot().",
+                    "Visualización de relaciones: sns.scatterplot(), sns.lineplot().",
+                    "Mapas de calor: sns.heatmap() (correlaciones).",
+                    "Estilos y temas: sns.set_style(), sns.set_palette()."
+                ]
+            },
+            {
+                "titulo": "Clase 16: Proyecto final de análisis de datos",
                 "contenido": [
                     "Integrar Numpy, Pandas y Matplotlib.",
                     "Ejemplo: Análisis de dataset real (ventas, población, deportes, etc.).",

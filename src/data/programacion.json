@@ -1619,7 +1619,7 @@
     },
     {
       "titulo": "Modales y tooltips",
-      "contenido": "Ventanas modales, tooltips, popovers"
+      "contenido": [" Ventanas modales, tooltips, popovers"]
     },
     {
       "titulo": "Utilidades avanzadas",

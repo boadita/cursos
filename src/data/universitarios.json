@@ -1019,159 +1019,159 @@
         "temario": [
             {
                 "titulo": "Introducción a la Física y la Mecánica",
-                "contenido": "Concepto de física, ramas de la física, importancia de la mecánica y aplicaciones en la ingeniería."
+                "contenido": [" Concepto de física, ramas de la física, importancia de la mecánica y aplicaciones en la ingeniería."]
             },
             {
                 "titulo": "Magnitudes físicas y unidades",
-                "contenido": "Magnitudes fundamentales y derivadas, sistema internacional de unidades, conversiones."
+                "contenido": [" Magnitudes fundamentales y derivadas, sistema internacional de unidades, conversiones."]
             },
             {
                 "titulo": "Análisis dimensional",
-                "contenido": "Homogeneidad de ecuaciones físicas y verificación dimensional."
+                "contenido": [" Homogeneidad de ecuaciones físicas y verificación dimensional."]
             },
             {
                 "titulo": "Vectores en física",
-                "contenido": "Definición, componentes, suma y resta de vectores."
+                "contenido": [" Definición, componentes, suma y resta de vectores."]
             },
             {
                 "titulo": "Vectores en el plano y el espacio",
-                "contenido": "Operaciones vectoriales en 2D y 3D, producto escalar."
+                "contenido": [" Operaciones vectoriales en 2D y 3D, producto escalar."]
             },
             {
                 "titulo": "Movimiento rectilíneo",
-                "contenido": "Concepto de movimiento, trayectoria, posición y desplazamiento."
+                "contenido": [" Concepto de movimiento, trayectoria, posición y desplazamiento."]
             },
             {
                 "titulo": "Velocidad media e instantánea",
-                "contenido": "Definición de velocidad, interpretación gráfica."
+                "contenido": [" Definición de velocidad, interpretación gráfica."]
             },
             {
                 "titulo": "Aceleración",
-                "contenido": "Concepto de aceleración, aceleración media e instantánea."
+                "contenido": [" Concepto de aceleración, aceleración media e instantánea."]
             },
             {
                 "titulo": "Movimiento rectilíneo uniforme (MRU)",
-                "contenido": "Ecuaciones del MRU y resolución de problemas."
+                "contenido": [" Ecuaciones del MRU y resolución de problemas."]
             },
             {
                 "titulo": "Movimiento rectilíneo uniformemente acelerado (MRUA)",
-                "contenido": "Ecuaciones del MRUA y aplicaciones prácticas."
+                "contenido": [" Ecuaciones del MRUA y aplicaciones prácticas."]
             },
             {
                 "titulo": "Caída libre",
-                "contenido": "Movimiento bajo la acción de la gravedad."
+                "contenido": [" Movimiento bajo la acción de la gravedad."]
             },
             {
                 "titulo": "Movimiento vertical",
-                "contenido": "Lanzamientos verticales hacia arriba y hacia abajo."
+                "contenido": [" Lanzamientos verticales hacia arriba y hacia abajo."]
             },
             {
                 "titulo": "Movimiento en dos dimensiones",
-                "contenido": "Introducción al movimiento en el plano."
+                "contenido": [" Introducción al movimiento en el plano."]
             },
             {
                 "titulo": "Movimiento parabólico",
-                "contenido": "Lanzamiento de proyectiles y análisis de trayectorias."
+                "contenido": [" Lanzamiento de proyectiles y análisis de trayectorias."]
             },
             {
                 "titulo": "Movimiento circular",
-                "contenido": "Velocidad angular y aceleración centrípeta."
+                "contenido": [" Velocidad angular y aceleración centrípeta."]
             },
             {
                 "titulo": "Cinemática circular",
-                "contenido": "Movimiento circular uniforme y uniformemente acelerado."
+                "contenido": [" Movimiento circular uniforme y uniformemente acelerado."]
             },
             {
                 "titulo": "Introducción a la dinámica",
-                "contenido": "Concepto de fuerza y principios básicos."
+                "contenido": [" Concepto de fuerza y principios básicos."]
             },
             {
                 "titulo": "Primera ley de Newton",
-                "contenido": "Principio de inercia y sistemas de referencia."
+                "contenido": [" Principio de inercia y sistemas de referencia."]
             },
             {
                 "titulo": "Segunda ley de Newton",
-                "contenido": "Relación entre fuerza, masa y aceleración."
+                "contenido": [" Relación entre fuerza, masa y aceleración."]
             },
             {
                 "titulo": "Tercera ley de Newton",
-                "contenido": "Acción y reacción."
+                "contenido": [" Acción y reacción."]
             },
             {
                 "titulo": "Fuerzas fundamentales",
-                "contenido": "Fuerza gravitatoria, normal, tensión y fricción."
+                "contenido": [" Fuerza gravitatoria, normal, tensión y fricción."]
             },
             {
                 "titulo": "Fricción estática y cinética",
-                "contenido": "Coeficientes de fricción y aplicaciones."
+                "contenido": [" Coeficientes de fricción y aplicaciones."]
             },
             {
                 "titulo": "Diagramas de cuerpo libre",
-                "contenido": "Representación gráfica de fuerzas."
+                "contenido": [" Representación gráfica de fuerzas."]
             },
             {
                 "titulo": "Dinámica del movimiento rectilíneo",
-                "contenido": "Aplicación de las leyes de Newton."
+                "contenido": [" Aplicación de las leyes de Newton."]
             },
             {
                 "titulo": "Dinámica del movimiento circular",
-                "contenido": "Fuerzas centrípetas y ejemplos."
+                "contenido": [" Fuerzas centrípetas y ejemplos."]
             },
             {
                 "titulo": "Trabajo de una fuerza",
-                "contenido": "Definición física de trabajo."
+                "contenido": [" Definición física de trabajo."]
             },
             {
                 "titulo": "Energía cinética",
-                "contenido": "Concepto y aplicaciones."
+                "contenido": [" Concepto y aplicaciones."]
             },
             {
                 "titulo": "Energía potencial",
-                "contenido": "Energía potencial gravitatoria y elástica."
+                "contenido": [" Energía potencial gravitatoria y elástica."]
             },
             {
                 "titulo": "Conservación de la energía",
-                "contenido": "Principio de conservación de la energía mecánica."
+                "contenido": [" Principio de conservación de la energía mecánica."]
             },
             {
                 "titulo": "Potencia",
-                "contenido": "Definición y cálculo de potencia."
+                "contenido": [" Definición y cálculo de potencia."]
             },
             {
                 "titulo": "Cantidad de movimiento",
-                "contenido": "Momento lineal y su conservación."
+                "contenido": [" Momento lineal y su conservación."]
             },
             {
                 "titulo": "Impulso",
-                "contenido": "Relación entre impulso y cantidad de movimiento."
+                "contenido": [" Relación entre impulso y cantidad de movimiento."]
             },
             {
                 "titulo": "Choques elásticos",
-                "contenido": "Análisis de colisiones elásticas."
+                "contenido": [" Análisis de colisiones elásticas."]
             },
             {
                 "titulo": "Choques inelásticos",
-                "contenido": "Colisiones parcialmente elásticas e inelásticas."
+                "contenido": [" Colisiones parcialmente elásticas e inelásticas."]
             },
             {
                 "titulo": "Movimiento rotacional",
-                "contenido": "Introducción a la rotación de cuerpos rígidos."
+                "contenido": [" Introducción a la rotación de cuerpos rígidos."]
             },
             {
                 "titulo": "Momento de inercia",
-                "contenido": "Cálculo y significado físico."
+                "contenido": [" Cálculo y significado físico."]
             },
             {
                 "titulo": "Dinámica rotacional",
-                "contenido": "Torque y leyes del movimiento rotacional."
+                "contenido": [" Torque y leyes del movimiento rotacional."]
             },
             {
                 "titulo": "Equilibrio de cuerpos rígidos",
-                "contenido": "Condiciones de equilibrio traslacional y rotacional."
+                "contenido": [" Condiciones de equilibrio traslacional y rotacional."]
             },
             {
                 "titulo": "Introducción a la mecánica de fluidos",
-                "contenido": "Conceptos básicos de presión y densidad."
+                "contenido": [" Conceptos básicos de presión y densidad."]
             }
         ]
     },
@@ -1186,163 +1186,163 @@
         "temario": [
             {
                 "titulo": "Introducción al electromagnetismo",
-                "contenido": "Conceptos básicos, importancia y aplicaciones del electromagnetismo."
+                "contenido": [" Conceptos básicos, importancia y aplicaciones del electromagnetismo."]
             },
             {
                 "titulo": "Carga eléctrica",
-                "contenido": "Tipos de carga, cuantización y conservación de la carga."
+                "contenido": [" Tipos de carga, cuantización y conservación de la carga."]
             },
             {
                 "titulo": "Materiales conductores y aislantes",
-                "contenido": "Conductores, aislantes y semiconductores."
+                "contenido": [" Conductores, aislantes y semiconductores."]
             },
             {
                 "titulo": "Ley de Coulomb",
-                "contenido": "Fuerza eléctrica entre cargas puntuales."
+                "contenido": [" Fuerza eléctrica entre cargas puntuales."]
             },
             {
                 "titulo": "Principio de superposición",
-                "contenido": "Interacción de múltiples cargas eléctricas."
+                "contenido": [" Interacción de múltiples cargas eléctricas."]
             },
             {
                 "titulo": "Campo eléctrico",
-                "contenido": "Definición de campo eléctrico y líneas de campo."
+                "contenido": [" Definición de campo eléctrico y líneas de campo."]
             },
             {
                 "titulo": "Campo eléctrico de cargas puntuales",
-                "contenido": "Cálculo del campo eléctrico en diferentes configuraciones."
+                "contenido": [" Cálculo del campo eléctrico en diferentes configuraciones."]
             },
             {
                 "titulo": "Movimiento de cargas en un campo eléctrico",
-                "contenido": "Dinámica de partículas cargadas."
+                "contenido": [" Dinámica de partículas cargadas."]
             },
             {
                 "titulo": "Flujo eléctrico",
-                "contenido": "Concepto de flujo eléctrico."
+                "contenido": [" Concepto de flujo eléctrico."]
             },
             {
                 "titulo": "Ley de Gauss",
-                "contenido": "Aplicaciones de la ley de Gauss."
+                "contenido": [" Aplicaciones de la ley de Gauss."]
             },
             {
                 "titulo": "Potencial eléctrico",
-                "contenido": "Definición y relación con el campo eléctrico."
+                "contenido": [" Definición y relación con el campo eléctrico."]
             },
             {
                 "titulo": "Diferencia de potencial",
-                "contenido": "Voltaje y energía potencial eléctrica."
+                "contenido": [" Voltaje y energía potencial eléctrica."]
             },
             {
                 "titulo": "Potencial eléctrico de distribuciones de carga",
-                "contenido": "Cálculo del potencial eléctrico."
+                "contenido": [" Cálculo del potencial eléctrico."]
             },
             {
                 "titulo": "Capacitancia",
-                "contenido": "Concepto de capacitancia y capacitores."
+                "contenido": [" Concepto de capacitancia y capacitores."]
             },
             {
                 "titulo": "Capacitores en serie y paralelo",
-                "contenido": "Análisis de circuitos con capacitores."
+                "contenido": [" Análisis de circuitos con capacitores."]
             },
             {
                 "titulo": "Energía almacenada en un capacitor",
-                "contenido": "Energía eléctrica y densidad de energía."
+                "contenido": [" Energía eléctrica y densidad de energía."]
             },
             {
                 "titulo": "Corriente eléctrica",
-                "contenido": "Definición de corriente y densidad de corriente."
+                "contenido": [" Definición de corriente y densidad de corriente."]
             },
             {
                 "titulo": "Resistencia eléctrica",
-                "contenido": "Resistividad y resistencia."
+                "contenido": [" Resistividad y resistencia."]
             },
             {
                 "titulo": "Ley de Ohm",
-                "contenido": "Relación entre voltaje, corriente y resistencia."
+                "contenido": [" Relación entre voltaje, corriente y resistencia."]
             },
             {
                 "titulo": "Potencia eléctrica",
-                "contenido": "Consumo de energía en circuitos eléctricos."
+                "contenido": [" Consumo de energía en circuitos eléctricos."]
             },
             {
                 "titulo": "Circuitos eléctricos básicos",
-                "contenido": "Circuitos en serie y paralelo."
+                "contenido": [" Circuitos en serie y paralelo."]
             },
             {
                 "titulo": "Leyes de Kirchhoff",
-                "contenido": "Análisis avanzado de circuitos."
+                "contenido": [" Análisis avanzado de circuitos."]
             },
             {
                 "titulo": "Instrumentos de medición eléctrica",
-                "contenido": "Amperímetro, voltímetro y multímetro."
+                "contenido": [" Amperímetro, voltímetro y multímetro."]
             },
             {
                 "titulo": "Introducción al magnetismo",
-                "contenido": "Campos magnéticos y fuerzas magnéticas."
+                "contenido": [" Campos magnéticos y fuerzas magnéticas."]
             },
             {
                 "titulo": "Fuerza magnética sobre cargas en movimiento",
-                "contenido": "Ley de Lorentz."
+                "contenido": [" Ley de Lorentz."]
             },
             {
                 "titulo": "Fuerza magnética sobre conductores",
-                "contenido": "Corrientes en campos magnéticos."
+                "contenido": [" Corrientes en campos magnéticos."]
             },
             {
                 "titulo": "Movimiento de partículas cargadas en campos magnéticos",
-                "contenido": "Trayectorias circulares y helicoidales."
+                "contenido": [" Trayectorias circulares y helicoidales."]
             },
             {
                 "titulo": "Fuentes de campo magnético",
-                "contenido": "Imanes y corrientes eléctricas."
+                "contenido": [" Imanes y corrientes eléctricas."]
             },
             {
                 "titulo": "Ley de Biot-Savart",
-                "contenido": "Cálculo de campos magnéticos."
+                "contenido": [" Cálculo de campos magnéticos."]
             },
             {
                 "titulo": "Ley de Ampère",
-                "contenido": "Aplicaciones en simetría cilíndrica."
+                "contenido": [" Aplicaciones en simetría cilíndrica."]
             },
             {
                 "titulo": "Flujo magnético",
-                "contenido": "Concepto de flujo magnético."
+                "contenido": [" Concepto de flujo magnético."]
             },
             {
                 "titulo": "Inducción electromagnética",
-                "contenido": "Ley de Faraday."
+                "contenido": [" Ley de Faraday."]
             },
             {
                 "titulo": "Ley de Lenz",
-                "contenido": "Sentido de la corriente inducida."
+                "contenido": [" Sentido de la corriente inducida."]
             },
             {
                 "titulo": "Inductancia",
-                "contenido": "Inductores y autoinducción."
+                "contenido": [" Inductores y autoinducción."]
             },
             {
                 "titulo": "Energía en el campo magnético",
-                "contenido": "Almacenamiento de energía magnética."
+                "contenido": [" Almacenamiento de energía magnética."]
             },
             {
                 "titulo": "Circuitos RL y RC",
-                "contenido": "Análisis temporal de circuitos."
+                "contenido": [" Análisis temporal de circuitos."]
             },
             {
                 "titulo": "Corriente alterna",
-                "contenido": "Conceptos básicos de corriente alterna."
+                "contenido": [" Conceptos básicos de corriente alterna."]
             },
             {
                 "titulo": "Circuitos RLC",
-                "contenido": "Resonancia eléctrica."
+                "contenido": [" Resonancia eléctrica."]
             },
             {
                 "titulo": "Ecuaciones de Maxwell (introducción)",
-                "contenido": "Fundamentos del electromagnetismo clásico."
+                "contenido": [" Fundamentos del electromagnetismo clásico."]
             },
             {
                 "titulo": "Ondas electromagnéticas",
-                "contenido": "Propagación y aplicaciones de las ondas electromagnéticas."
+                "contenido": [" Propagación y aplicaciones de las ondas electromagnéticas."]
             }
         ]
     },
@@ -1357,139 +1357,139 @@
         "temario": [
             {
                 "titulo": "Introducción a la termodinámica",
-                "contenido": "Definición, alcance y aplicaciones de la termodinámica."
+                "contenido": [" Definición, alcance y aplicaciones de la termodinámica."]
             },
             {
                 "titulo": "Sistemas termodinámicos",
-                "contenido": "Tipos de sistemas: abiertos, cerrados y aislados."
+                "contenido": [" Tipos de sistemas: abiertos, cerrados y aislados."]
             },
             {
                 "titulo": "Variables de estado",
-                "contenido": "Presión, volumen, temperatura y estado del sistema."
+                "contenido": [" Presión, volumen, temperatura y estado del sistema."]
             },
             {
                 "titulo": "Equilibrio termodinámico",
-                "contenido": "Condiciones de equilibrio térmico, mecánico y químico."
+                "contenido": [" Condiciones de equilibrio térmico, mecánico y químico."]
             },
             {
                 "titulo": "Temperatura y escalas térmicas",
-                "contenido": "Escalas Celsius, Fahrenheit y Kelvin."
+                "contenido": [" Escalas Celsius, Fahrenheit y Kelvin."]
             },
             {
                 "titulo": "Calor y energía interna",
-                "contenido": "Concepto de calor y energía interna."
+                "contenido": [" Concepto de calor y energía interna."]
             },
             {
                 "titulo": "Capacidad calorífica",
-                "contenido": "Calor específico y capacidad calorífica molar."
+                "contenido": [" Calor específico y capacidad calorífica molar."]
             },
             {
                 "titulo": "Cambios de fase",
-                "contenido": "Fusión, vaporización y diagramas de fase."
+                "contenido": [" Fusión, vaporización y diagramas de fase."]
             },
             {
                 "titulo": "Transferencia de calor",
-                "contenido": "Conducción, convección y radiación."
+                "contenido": [" Conducción, convección y radiación."]
             },
             {
                 "titulo": "Ley cero de la termodinámica",
-                "contenido": "Equilibrio térmico y medición de la temperatura."
+                "contenido": [" Equilibrio térmico y medición de la temperatura."]
             },
             {
                 "titulo": "Primera ley de la termodinámica",
-                "contenido": "Conservación de la energía."
+                "contenido": [" Conservación de la energía."]
             },
             {
                 "titulo": "Trabajo termodinámico",
-                "contenido": "Trabajo en procesos de expansión y compresión."
+                "contenido": [" Trabajo en procesos de expansión y compresión."]
             },
             {
                 "titulo": "Procesos termodinámicos",
-                "contenido": "Procesos isotérmicos, isobáricos, isocóricos y adiabáticos."
+                "contenido": [" Procesos isotérmicos, isobáricos, isocóricos y adiabáticos."]
             },
             {
                 "titulo": "Gases ideales",
-                "contenido": "Ecuación de estado del gas ideal."
+                "contenido": [" Ecuación de estado del gas ideal."]
             },
             {
                 "titulo": "Procesos en gases ideales",
-                "contenido": "Análisis energético de procesos."
+                "contenido": [" Análisis energético de procesos."]
             },
             {
                 "titulo": "Máquinas térmicas",
-                "contenido": "Concepto y funcionamiento de motores térmicos."
+                "contenido": [" Concepto y funcionamiento de motores térmicos."]
             },
             {
                 "titulo": "Ciclo de Carnot",
-                "contenido": "Máxima eficiencia térmica."
+                "contenido": [" Máxima eficiencia térmica."]
             },
             {
                 "titulo": "Eficiencia de máquinas térmicas",
-                "contenido": "Rendimiento y eficiencia."
+                "contenido": [" Rendimiento y eficiencia."]
             },
             {
                 "titulo": "Refrigeradores y bombas de calor",
-                "contenido": "Principios de funcionamiento."
+                "contenido": [" Principios de funcionamiento."]
             },
             {
                 "titulo": "Segunda ley de la termodinámica",
-                "contenido": "Enunciados de Kelvin-Planck y Clausius."
+                "contenido": [" Enunciados de Kelvin-Planck y Clausius."]
             },
             {
                 "titulo": "Procesos irreversibles",
-                "contenido": "Irreversibilidad y producción de entropía."
+                "contenido": [" Irreversibilidad y producción de entropía."]
             },
             {
                 "titulo": "Entropía",
-                "contenido": "Definición y significado físico."
+                "contenido": [" Definición y significado físico."]
             },
             {
                 "titulo": "Cambio de entropía",
-                "contenido": "Cálculo del cambio de entropía."
+                "contenido": [" Cálculo del cambio de entropía."]
             },
             {
                 "titulo": "Entropía en sistemas cerrados",
-                "contenido": "Aplicaciones prácticas."
+                "contenido": [" Aplicaciones prácticas."]
             },
             {
                 "titulo": "Tercera ley de la termodinámica",
-                "contenido": "Comportamiento a temperaturas cercanas al cero absoluto."
+                "contenido": [" Comportamiento a temperaturas cercanas al cero absoluto."]
             },
             {
                 "titulo": "Gases reales",
-                "contenido": "Diferencias entre gases ideales y reales."
+                "contenido": [" Diferencias entre gases ideales y reales."]
             },
             {
                 "titulo": "Ecuación de Van der Waals",
-                "contenido": "Correcciones al modelo ideal."
+                "contenido": [" Correcciones al modelo ideal."]
             },
             {
                 "titulo": "Diagramas termodinámicos",
-                "contenido": "Diagramas P-V, T-S y P-T."
+                "contenido": [" Diagramas P-V, T-S y P-T."]
             },
             {
                 "titulo": "Procesos politrópicos",
-                "contenido": "Análisis generalizado de procesos."
+                "contenido": [" Análisis generalizado de procesos."]
             },
             {
                 "titulo": "Introducción a la termodinámica estadística",
-                "contenido": "Relación entre micro y macro estados."
+                "contenido": [" Relación entre micro y macro estados."]
             },
             {
                 "titulo": "Aplicaciones de la termodinámica",
-                "contenido": "Aplicaciones en ingeniería y ciencias."
+                "contenido": [" Aplicaciones en ingeniería y ciencias."]
             },
             {
                 "titulo": "Resolución de problemas de termodinámica",
-                "contenido": "Ejercicios integradores."
+                "contenido": [" Ejercicios integradores."]
             },
             {
                 "titulo": "Análisis de casos prácticos",
-                "contenido": "Estudio de situaciones reales."
+                "contenido": [" Estudio de situaciones reales."]
             },
             {
                 "titulo": "Repaso general del curso",
-                "contenido": "Síntesis de conceptos fundamentales."
+                "contenido": [" Síntesis de conceptos fundamentales."]
             }
         ]
     },
@@ -1504,123 +1504,123 @@
         "temario": [
             {
                 "titulo": "Introducción a la Física Moderna",
-                "contenido": "Crisis de la física clásica y nacimiento de la física moderna."
+                "contenido": [" Crisis de la física clásica y nacimiento de la física moderna."]
             },
             {
                 "titulo": "Radiación del cuerpo negro",
-                "contenido": "Limitaciones de la física clásica y ley de Planck."
+                "contenido": [" Limitaciones de la física clásica y ley de Planck."]
             },
             {
                 "titulo": "Hipótesis cuántica de Planck",
-                "contenido": "Cuantización de la energía."
+                "contenido": [" Cuantización de la energía."]
             },
             {
                 "titulo": "Efecto fotoeléctrico",
-                "contenido": "Interpretación de Einstein y aplicaciones."
+                "contenido": [" Interpretación de Einstein y aplicaciones."]
             },
             {
                 "titulo": "Dualidad onda-partícula",
-                "contenido": "Naturaleza dual de la materia y la radiación."
+                "contenido": [" Naturaleza dual de la materia y la radiación."]
             },
             {
                 "titulo": "Experimento de Compton",
-                "contenido": "Dispersión de fotones."
+                "contenido": [" Dispersión de fotones."]
             },
             {
                 "titulo": "Relatividad especial",
-                "contenido": "Postulados de Einstein."
+                "contenido": [" Postulados de Einstein."]
             },
             {
                 "titulo": "Transformaciones de Lorentz",
-                "contenido": "Espacio y tiempo relativistas."
+                "contenido": [" Espacio y tiempo relativistas."]
             },
             {
                 "titulo": "Dilatación del tiempo",
-                "contenido": "Efectos relativistas en el tiempo."
+                "contenido": [" Efectos relativistas en el tiempo."]
             },
             {
                 "titulo": "Contracción de la longitud",
-                "contenido": "Efectos relativistas en el espacio."
+                "contenido": [" Efectos relativistas en el espacio."]
             },
             {
                 "titulo": "Equivalencia masa-energía",
-                "contenido": "Ecuación E = mc²."
+                "contenido": [" Ecuación E = mc²."]
             },
             {
                 "titulo": "Introducción a la mecánica cuántica",
-                "contenido": "Conceptos fundamentales."
+                "contenido": [" Conceptos fundamentales."]
             },
             {
                 "titulo": "Función de onda y probabilidad",
-                "contenido": "Interpretación de Born."
+                "contenido": [" Interpretación de Born."]
             },
             {
                 "titulo": "Ecuación de Schrödinger",
-                "contenido": "Ecuación dependiente del tiempo."
+                "contenido": [" Ecuación dependiente del tiempo."]
             },
             {
                 "titulo": "Pozo de potencial",
-                "contenido": "Modelo cuántico básico."
+                "contenido": [" Modelo cuántico básico."]
             },
             {
                 "titulo": "Efecto túnel",
-                "contenido": "Fenómeno cuántico."
+                "contenido": [" Fenómeno cuántico."]
             },
             {
                 "titulo": "Principio de incertidumbre",
-                "contenido": "Principio de Heisenberg."
+                "contenido": [" Principio de Heisenberg."]
             },
             {
                 "titulo": "Modelo atómico de Bohr",
-                "contenido": "Explicación cuántica del átomo de hidrógeno."
+                "contenido": [" Explicación cuántica del átomo de hidrógeno."]
             },
             {
                 "titulo": "Estructura atómica",
-                "contenido": "Niveles de energía y espectros."
+                "contenido": [" Niveles de energía y espectros."]
             },
             {
                 "titulo": "Espín y momento angular",
-                "contenido": "Propiedades cuánticas."
+                "contenido": [" Propiedades cuánticas."]
             },
             {
                 "titulo": "Estadística cuántica",
-                "contenido": "Bosones y fermiones."
+                "contenido": [" Bosones y fermiones."]
             },
             {
                 "titulo": "Física del estado sólido",
-                "contenido": "Bandas de energía y semiconductores."
+                "contenido": [" Bandas de energía y semiconductores."]
             },
             {
                 "titulo": "Introducción a la física nuclear",
-                "contenido": "Núcleo atómico."
+                "contenido": [" Núcleo atómico."]
             },
             {
                 "titulo": "Radiactividad",
-                "contenido": "Tipos de radiación."
+                "contenido": [" Tipos de radiación."]
             },
             {
                 "titulo": "Reacciones nucleares",
-                "contenido": "Fisión y fusión."
+                "contenido": [" Fisión y fusión."]
             },
             {
                 "titulo": "Física de partículas",
-                "contenido": "Partículas elementales."
+                "contenido": [" Partículas elementales."]
             },
             {
                 "titulo": "Modelo estándar",
-                "contenido": "Interacciones fundamentales."
+                "contenido": [" Interacciones fundamentales."]
             },
             {
                 "titulo": "Aplicaciones de la física moderna",
-                "contenido": "Tecnología y ciencia aplicada."
+                "contenido": [" Tecnología y ciencia aplicada."]
             },
             {
                 "titulo": "Resolución de problemas",
-                "contenido": "Ejercicios representativos."
+                "contenido": [" Ejercicios representativos."]
             },
             {
                 "titulo": "Repaso general del curso",
-                "contenido": "Síntesis de conceptos clave."
+                "contenido": [" Síntesis de conceptos clave."]
             }
         ]
     },
@@ -1635,103 +1635,103 @@
         "temario": [
             {
                 "titulo": "Introducción a la física experimental",
-                "contenido": "Importancia del método experimental en la física."
+                "contenido": [" Importancia del método experimental en la física."]
             },
             {
                 "titulo": "El método científico",
-                "contenido": "Observación, hipótesis, experimentación y análisis."
+                "contenido": [" Observación, hipótesis, experimentación y análisis."]
             },
             {
                 "titulo": "Magnitudes físicas y medición",
-                "contenido": "Magnitudes fundamentales y derivadas."
+                "contenido": [" Magnitudes fundamentales y derivadas."]
             },
             {
                 "titulo": "Sistema Internacional de Unidades",
-                "contenido": "Unidades base y derivadas."
+                "contenido": [" Unidades base y derivadas."]
             },
             {
                 "titulo": "Instrumentos de medición",
-                "contenido": "Uso teórico de reglas, calibres, micrómetros y balanzas."
+                "contenido": [" Uso teórico de reglas, calibres, micrómetros y balanzas."]
             },
             {
                 "titulo": "Precisión y exactitud",
-                "contenido": "Diferencias entre precisión y exactitud."
+                "contenido": [" Diferencias entre precisión y exactitud."]
             },
             {
                 "titulo": "Errores en las mediciones",
-                "contenido": "Errores sistemáticos y aleatorios."
+                "contenido": [" Errores sistemáticos y aleatorios."]
             },
             {
                 "titulo": "Cifras significativas",
-                "contenido": "Reglas para el manejo de cifras significativas."
+                "contenido": [" Reglas para el manejo de cifras significativas."]
             },
             {
                 "titulo": "Propagación de errores",
-                "contenido": "Cálculo del error en magnitudes indirectas."
+                "contenido": [" Cálculo del error en magnitudes indirectas."]
             },
             {
                 "titulo": "Análisis gráfico de datos",
-                "contenido": "Representación gráfica e interpretación."
+                "contenido": [" Representación gráfica e interpretación."]
             },
             {
                 "titulo": "Ajuste de curvas",
-                "contenido": "Métodos de ajuste lineal y no lineal."
+                "contenido": [" Métodos de ajuste lineal y no lineal."]
             },
             {
                 "titulo": "Regresión lineal",
-                "contenido": "Análisis estadístico básico."
+                "contenido": [" Análisis estadístico básico."]
             },
             {
                 "titulo": "Introducción a la estadística experimental",
-                "contenido": "Media, varianza y desviación estándar."
+                "contenido": [" Media, varianza y desviación estándar."]
             },
             {
                 "titulo": "Distribuciones estadísticas",
-                "contenido": "Distribución normal y su interpretación."
+                "contenido": [" Distribución normal y su interpretación."]
             },
             {
                 "titulo": "Tratamiento de datos experimentales",
-                "contenido": "Organización y análisis de resultados."
+                "contenido": [" Organización y análisis de resultados."]
             },
             {
                 "titulo": "Incertidumbre experimental",
-                "contenido": "Expresión correcta de resultados."
+                "contenido": [" Expresión correcta de resultados."]
             },
             {
                 "titulo": "Calibración de instrumentos",
-                "contenido": "Concepto y procedimientos teóricos."
+                "contenido": [" Concepto y procedimientos teóricos."]
             },
             {
                 "titulo": "Experimentos de mecánica (teórico)",
-                "contenido": "Análisis teórico de experimentos mecánicos."
+                "contenido": [" Análisis teórico de experimentos mecánicos."]
             },
             {
                 "titulo": "Experimentos de electricidad (teórico)",
-                "contenido": "Análisis teórico de experimentos eléctricos."
+                "contenido": [" Análisis teórico de experimentos eléctricos."]
             },
             {
                 "titulo": "Experimentos de magnetismo (teórico)",
-                "contenido": "Análisis teórico de experimentos magnéticos."
+                "contenido": [" Análisis teórico de experimentos magnéticos."]
             },
             {
                 "titulo": "Experimentos de óptica (teórico)",
-                "contenido": "Análisis teórico de experimentos ópticos."
+                "contenido": [" Análisis teórico de experimentos ópticos."]
             },
             {
                 "titulo": "Seguridad en el laboratorio",
-                "contenido": "Normas básicas de seguridad."
+                "contenido": [" Normas básicas de seguridad."]
             },
             {
                 "titulo": "Elaboración de informes científicos",
-                "contenido": "Estructura y redacción de informes."
+                "contenido": [" Estructura y redacción de informes."]
             },
             {
                 "titulo": "Presentación de resultados",
-                "contenido": "Tablas, gráficos y conclusiones."
+                "contenido": [" Tablas, gráficos y conclusiones."]
             },
             {
                 "titulo": "Repaso general del curso",
-                "contenido": "Síntesis de conceptos fundamentales."
+                "contenido": [" Síntesis de conceptos fundamentales."]
             }
         ]
     },
@@ -1746,103 +1746,103 @@
         "temario": [
             {
                 "titulo": "Introducción a las oscilaciones y ondas",
-                "contenido": "Fenómenos periódicos en la naturaleza."
+                "contenido": [" Fenómenos periódicos en la naturaleza."]
             },
             {
                 "titulo": "Movimiento periódico",
-                "contenido": "Concepto de periodo, frecuencia y amplitud."
+                "contenido": [" Concepto de periodo, frecuencia y amplitud."]
             },
             {
                 "titulo": "Movimiento armónico simple",
-                "contenido": "Definición y ecuaciones del MAS."
+                "contenido": [" Definición y ecuaciones del MAS."]
             },
             {
                 "titulo": "Energía en el MAS",
-                "contenido": "Energía cinética y potencial."
+                "contenido": [" Energía cinética y potencial."]
             },
             {
                 "titulo": "Oscilador masa-resorte",
-                "contenido": "Análisis del sistema masa-resorte."
+                "contenido": [" Análisis del sistema masa-resorte."]
             },
             {
                 "titulo": "Péndulo simple",
-                "contenido": "Movimiento oscilatorio del péndulo."
+                "contenido": [" Movimiento oscilatorio del péndulo."]
             },
             {
                 "titulo": "Péndulo físico",
-                "contenido": "Análisis del péndulo físico."
+                "contenido": [" Análisis del péndulo físico."]
             },
             {
                 "titulo": "Oscilaciones amortiguadas",
-                "contenido": "Amortiguamiento y pérdida de energía."
+                "contenido": [" Amortiguamiento y pérdida de energía."]
             },
             {
                 "titulo": "Oscilaciones forzadas",
-                "contenido": "Fuerza externa y respuesta del sistema."
+                "contenido": [" Fuerza externa y respuesta del sistema."]
             },
             {
                 "titulo": "Resonancia",
-                "contenido": "Fenómeno de resonancia."
+                "contenido": [" Fenómeno de resonancia."]
             },
             {
                 "titulo": "Introducción a las ondas",
-                "contenido": "Definición y tipos de ondas."
+                "contenido": [" Definición y tipos de ondas."]
             },
             {
                 "titulo": "Ondas mecánicas",
-                "contenido": "Ondas transversales y longitudinales."
+                "contenido": [" Ondas transversales y longitudinales."]
             },
             {
                 "titulo": "Ecuación de onda",
-                "contenido": "Descripción matemática de la propagación."
+                "contenido": [" Descripción matemática de la propagación."]
             },
             {
                 "titulo": "Velocidad de propagación de ondas",
-                "contenido": "Factores que influyen en la velocidad."
+                "contenido": [" Factores que influyen en la velocidad."]
             },
             {
                 "titulo": "Ondas en una dimensión",
-                "contenido": "Ondas en cuerdas y resortes."
+                "contenido": [" Ondas en cuerdas y resortes."]
             },
             {
                 "titulo": "Ondas estacionarias",
-                "contenido": "Formación y características."
+                "contenido": [" Formación y características."]
             },
             {
                 "titulo": "Armónicos",
-                "contenido": "Frecuencias fundamentales y armónicas."
+                "contenido": [" Frecuencias fundamentales y armónicas."]
             },
             {
                 "titulo": "Interferencia de ondas",
-                "contenido": "Superposición de ondas."
+                "contenido": [" Superposición de ondas."]
             },
             {
                 "titulo": "Batidos",
-                "contenido": "Fenómeno de batidos."
+                "contenido": [" Fenómeno de batidos."]
             },
             {
                 "titulo": "Reflexión de ondas",
-                "contenido": "Reflexión en extremos fijos y libres."
+                "contenido": [" Reflexión en extremos fijos y libres."]
             },
             {
                 "titulo": "Refracción y difracción",
-                "contenido": "Comportamiento de ondas en distintos medios."
+                "contenido": [" Comportamiento de ondas en distintos medios."]
             },
             {
                 "titulo": "Ondas sonoras",
-                "contenido": "Naturaleza del sonido."
+                "contenido": [" Naturaleza del sonido."]
             },
             {
                 "titulo": "Intensidad sonora",
-                "contenido": "Nivel de intensidad y decibeles."
+                "contenido": [" Nivel de intensidad y decibeles."]
             },
             {
                 "titulo": "Efecto Doppler",
-                "contenido": "Cambio aparente de frecuencia."
+                "contenido": [" Cambio aparente de frecuencia."]
             },
             {
                 "titulo": "Introducción a las ondas electromagnéticas",
-                "contenido": "Concepto general y aplicaciones."
+                "contenido": [" Concepto general y aplicaciones."]
             }
         ]
     },
@@ -1857,103 +1857,103 @@
         "temario": [
             {
                 "titulo": "Introducción a la óptica",
-                "contenido": "Naturaleza de la luz y su importancia."
+                "contenido": [" Naturaleza de la luz y su importancia."]
             },
             {
                 "titulo": "Velocidad de la luz",
-                "contenido": "Propagación de la luz en diferentes medios."
+                "contenido": [" Propagación de la luz en diferentes medios."]
             },
             {
                 "titulo": "Índice de refracción",
-                "contenido": "Definición y significado físico."
+                "contenido": [" Definición y significado físico."]
             },
             {
                 "titulo": "Óptica geométrica",
-                "contenido": "Aproximación de rayos."
+                "contenido": [" Aproximación de rayos."]
             },
             {
                 "titulo": "Reflexión de la luz",
-                "contenido": "Leyes de la reflexión."
+                "contenido": [" Leyes de la reflexión."]
             },
             {
                 "titulo": "Espejos planos",
-                "contenido": "Formación de imágenes."
+                "contenido": [" Formación de imágenes."]
             },
             {
                 "titulo": "Espejos esféricos",
-                "contenido": "Espejos cóncavos y convexos."
+                "contenido": [" Espejos cóncavos y convexos."]
             },
             {
                 "titulo": "Refracción de la luz",
-                "contenido": "Ley de Snell."
+                "contenido": [" Ley de Snell."]
             },
             {
                 "titulo": "Leyes de la refracción",
-                "contenido": "Aplicaciones de la ley de Snell."
+                "contenido": [" Aplicaciones de la ley de Snell."]
             },
             {
                 "titulo": "Lentes delgadas",
-                "contenido": "Tipos de lentes y formación de imágenes."
+                "contenido": [" Tipos de lentes y formación de imágenes."]
             },
             {
                 "titulo": "Ecuación de lentes",
-                "contenido": "Relación entre distancia focal, objeto e imagen."
+                "contenido": [" Relación entre distancia focal, objeto e imagen."]
             },
             {
                 "titulo": "Aumento lateral",
-                "contenido": "Magnificación de imágenes."
+                "contenido": [" Magnificación de imágenes."]
             },
             {
                 "titulo": "Instrumentos ópticos",
-                "contenido": "Lupa, microscopio y telescopio."
+                "contenido": [" Lupa, microscopio y telescopio."]
             },
             {
                 "titulo": "El ojo humano",
-                "contenido": "Funcionamiento del ojo."
+                "contenido": [" Funcionamiento del ojo."]
             },
             {
                 "titulo": "Defectos de la visión",
-                "contenido": "Miopía, hipermetropía y astigmatismo."
+                "contenido": [" Miopía, hipermetropía y astigmatismo."]
             },
             {
                 "titulo": "Óptica física",
-                "contenido": "Naturaleza ondulatoria de la luz."
+                "contenido": [" Naturaleza ondulatoria de la luz."]
             },
             {
                 "titulo": "Interferencia de la luz",
-                "contenido": "Experimento de Young."
+                "contenido": [" Experimento de Young."]
             },
             {
                 "titulo": "Difracción",
-                "contenido": "Fenómeno de difracción de la luz."
+                "contenido": [" Fenómeno de difracción de la luz."]
             },
             {
                 "titulo": "Redes de difracción",
-                "contenido": "Aplicaciones y análisis."
+                "contenido": [" Aplicaciones y análisis."]
             },
             {
                 "titulo": "Polarización",
-                "contenido": "Polarización de la luz."
+                "contenido": [" Polarización de la luz."]
             },
             {
                 "titulo": "Espectros de la luz",
-                "contenido": "Espectros de emisión y absorción."
+                "contenido": [" Espectros de emisión y absorción."]
             },
             {
                 "titulo": "Láser",
-                "contenido": "Principio de funcionamiento del láser."
+                "contenido": [" Principio de funcionamiento del láser."]
             },
             {
                 "titulo": "Fibra óptica",
-                "contenido": "Propagación de la luz en fibras ópticas."
+                "contenido": [" Propagación de la luz en fibras ópticas."]
             },
             {
                 "titulo": "Aplicaciones de la óptica",
-                "contenido": "Uso de la óptica en la tecnología."
+                "contenido": [" Uso de la óptica en la tecnología."]
             },
             {
                 "titulo": "Repaso general del curso",
-                "contenido": "Síntesis de los conceptos principales."
+                "contenido": [" Síntesis de los conceptos principales."]
             }
         ]
     },
@@ -1968,123 +1968,123 @@
         "temario": [
             {
                 "titulo": "Introducción a la física cuántica",
-                "contenido": "Origen y necesidad de la teoría cuántica."
+                "contenido": [" Origen y necesidad de la teoría cuántica."]
             },
             {
                 "titulo": "Crisis de la física clásica",
-                "contenido": "Limitaciones de la física clásica."
+                "contenido": [" Limitaciones de la física clásica."]
             },
             {
                 "titulo": "Radiación del cuerpo negro",
-                "contenido": "Resultados experimentales y ley de Planck."
+                "contenido": [" Resultados experimentales y ley de Planck."]
             },
             {
                 "titulo": "Hipótesis cuántica de Planck",
-                "contenido": "Cuantización de la energía."
+                "contenido": [" Cuantización de la energía."]
             },
             {
                 "titulo": "Efecto fotoeléctrico",
-                "contenido": "Interpretación cuántica de Einstein."
+                "contenido": [" Interpretación cuántica de Einstein."]
             },
             {
                 "titulo": "Efecto Compton",
-                "contenido": "Dispersión de fotones."
+                "contenido": [" Dispersión de fotones."]
             },
             {
                 "titulo": "Dualidad onda-partícula",
-                "contenido": "Naturaleza dual de la materia."
+                "contenido": [" Naturaleza dual de la materia."]
             },
             {
                 "titulo": "Ondas de De Broglie",
-                "contenido": "Longitud de onda asociada a la materia."
+                "contenido": [" Longitud de onda asociada a la materia."]
             },
             {
                 "titulo": "Experimento de la doble rendija",
-                "contenido": "Interferencia y probabilidad."
+                "contenido": [" Interferencia y probabilidad."]
             },
             {
                 "titulo": "Introducción a la mecánica cuántica",
-                "contenido": "Conceptos y lenguaje básico."
+                "contenido": [" Conceptos y lenguaje básico."]
             },
             {
                 "titulo": "Función de onda",
-                "contenido": "Significado físico y propiedades."
+                "contenido": [" Significado físico y propiedades."]
             },
             {
                 "titulo": "Interpretación probabilística",
-                "contenido": "Interpretación de Born."
+                "contenido": [" Interpretación de Born."]
             },
             {
                 "titulo": "Ecuación de Schrödinger",
-                "contenido": "Ecuación fundamental de la mecánica cuántica."
+                "contenido": [" Ecuación fundamental de la mecánica cuántica."]
             },
             {
                 "titulo": "Ecuación de Schrödinger dependiente del tiempo",
-                "contenido": "Evolución temporal de sistemas cuánticos."
+                "contenido": [" Evolución temporal de sistemas cuánticos."]
             },
             {
                 "titulo": "Pozo de potencial infinito",
-                "contenido": "Modelo cuántico básico."
+                "contenido": [" Modelo cuántico básico."]
             },
             {
                 "titulo": "Pozo de potencial finito",
-                "contenido": "Estados ligados y túnel."
+                "contenido": [" Estados ligados y túnel."]
             },
             {
                 "titulo": "Efecto túnel cuántico",
-                "contenido": "Fenómeno de penetración de barreras."
+                "contenido": [" Fenómeno de penetración de barreras."]
             },
             {
                 "titulo": "Operadores en mecánica cuántica",
-                "contenido": "Observables y operadores."
+                "contenido": [" Observables y operadores."]
             },
             {
                 "titulo": "Valores esperados",
-                "contenido": "Promedios cuánticos."
+                "contenido": [" Promedios cuánticos."]
             },
             {
                 "titulo": "Principio de incertidumbre",
-                "contenido": "Relación de Heisenberg."
+                "contenido": [" Relación de Heisenberg."]
             },
             {
                 "titulo": "Momento angular cuántico",
-                "contenido": "Propiedades y cuantización."
+                "contenido": [" Propiedades y cuantización."]
             },
             {
                 "titulo": "Espín",
-                "contenido": "Espín y partículas elementales."
+                "contenido": [" Espín y partículas elementales."]
             },
             {
                 "titulo": "Átomos hidrogenoides",
-                "contenido": "Solución de Schrödinger para el átomo."
+                "contenido": [" Solución de Schrödinger para el átomo."]
             },
             {
                 "titulo": "Modelo atómico de Bohr",
-                "contenido": "Transición al modelo cuántico."
+                "contenido": [" Transición al modelo cuántico."]
             },
             {
                 "titulo": "Estructura atómica",
-                "contenido": "Niveles de energía y espectros."
+                "contenido": [" Niveles de energía y espectros."]
             },
             {
                 "titulo": "Introducción a la estadística cuántica",
-                "contenido": "Bosones y fermiones."
+                "contenido": [" Bosones y fermiones."]
             },
             {
                 "titulo": "Aplicaciones de la física cuántica",
-                "contenido": "Tecnología cuántica moderna."
+                "contenido": [" Tecnología cuántica moderna."]
             },
             {
                 "titulo": "Experimentos fundamentales",
-                "contenido": "Experimentos clave en la física cuántica."
+                "contenido": [" Experimentos clave en la física cuántica."]
             },
             {
                 "titulo": "Resolución de problemas básicos",
-                "contenido": "Ejercicios introductorios."
+                "contenido": [" Ejercicios introductorios."]
             },
             {
                 "titulo": "Repaso general del curso",
-                "contenido": "Síntesis de conceptos fundamentales."
+                "contenido": [" Síntesis de conceptos fundamentales."]
             }
         ]
     },
@@ -2099,83 +2099,83 @@
         "temario": [
             {
                 "titulo": "Introducción a la estadística científica",
-                "contenido": "Conceptos básicos, estadística descriptiva e inferencial, importancia de la estadística en las ciencias."
+                "contenido": [" Conceptos básicos, estadística descriptiva e inferencial, importancia de la estadística en las ciencias."]
             },
             {
                 "titulo": "Tipos de datos y escalas de medición",
-                "contenido": "Datos cualitativos y cuantitativos, escalas nominal, ordinal, de intervalo y de razón."
+                "contenido": [" Datos cualitativos y cuantitativos, escalas nominal, ordinal, de intervalo y de razón."]
             },
             {
                 "titulo": "Organización y presentación de datos",
-                "contenido": "Tablas de frecuencia, histogramas, gráficos de barras, sectores y diagramas."
+                "contenido": [" Tablas de frecuencia, histogramas, gráficos de barras, sectores y diagramas."]
             },
             {
                 "titulo": "Medidas de tendencia central",
-                "contenido": "Media, mediana y moda. Interpretación en contextos científicos."
+                "contenido": [" Media, mediana y moda. Interpretación en contextos científicos."]
             },
             {
                 "titulo": "Medidas de dispersión",
-                "contenido": "Rango, varianza, desviación estándar y coeficiente de variación."
+                "contenido": [" Rango, varianza, desviación estándar y coeficiente de variación."]
             },
             {
                 "titulo": "Análisis exploratorio de datos",
-                "contenido": "Diagramas de caja, detección de valores atípicos y análisis preliminar."
+                "contenido": [" Diagramas de caja, detección de valores atípicos y análisis preliminar."]
             },
             {
                 "titulo": "Probabilidad básica",
-                "contenido": "Conceptos fundamentales, eventos, reglas de la probabilidad."
+                "contenido": [" Conceptos fundamentales, eventos, reglas de la probabilidad."]
             },
             {
                 "titulo": "Variables aleatorias",
-                "contenido": "Variables discretas y continuas, funciones de probabilidad."
+                "contenido": [" Variables discretas y continuas, funciones de probabilidad."]
             },
             {
                 "titulo": "Distribuciones de probabilidad discretas",
-                "contenido": "Distribución binomial y de Poisson con aplicaciones científicas."
+                "contenido": [" Distribución binomial y de Poisson con aplicaciones científicas."]
             },
             {
                 "titulo": "Distribuciones de probabilidad continuas",
-                "contenido": "Distribución normal, uniforme y exponencial."
+                "contenido": [" Distribución normal, uniforme y exponencial."]
             },
             {
                 "titulo": "Muestreo y estimación",
-                "contenido": "Tipos de muestreo, estimación puntual y por intervalos."
+                "contenido": [" Tipos de muestreo, estimación puntual y por intervalos."]
             },
             {
                 "titulo": "Intervalos de confianza",
-                "contenido": "Intervalos para la media y la proporción."
+                "contenido": [" Intervalos para la media y la proporción."]
             },
             {
                 "titulo": "Pruebas de hipótesis",
-                "contenido": "Conceptos básicos, errores tipo I y II, valor p."
+                "contenido": [" Conceptos básicos, errores tipo I y II, valor p."]
             },
             {
                 "titulo": "Pruebas paramétricas",
-                "contenido": "Pruebas Z y t para una y dos muestras."
+                "contenido": [" Pruebas Z y t para una y dos muestras."]
             },
             {
                 "titulo": "Pruebas no paramétricas",
-                "contenido": "Pruebas cuando no se cumplen supuestos clásicos."
+                "contenido": [" Pruebas cuando no se cumplen supuestos clásicos."]
             },
             {
                 "titulo": "Correlación",
-                "contenido": "Coeficiente de correlación, interpretación y aplicaciones."
+                "contenido": [" Coeficiente de correlación, interpretación y aplicaciones."]
             },
             {
                 "titulo": "Regresión lineal simple",
-                "contenido": "Modelo de regresión, ajuste e interpretación de resultados."
+                "contenido": [" Modelo de regresión, ajuste e interpretación de resultados."]
             },
             {
                 "titulo": "Análisis de varianza (ANOVA)",
-                "contenido": "Comparación de medias en experimentos científicos."
+                "contenido": [" Comparación de medias en experimentos científicos."]
             },
             {
                 "titulo": "Aplicaciones estadísticas en ciencias",
-                "contenido": "Casos prácticos en física, química, biología e ingeniería."
+                "contenido": [" Casos prácticos en física, química, biología e ingeniería."]
             },
             {
                 "titulo": "Resolución de problemas tipo examen",
-                "contenido": "Ejercicios integradores y análisis de resultados."
+                "contenido": [" Ejercicios integradores y análisis de resultados."]
             }
         ]
     },
@@ -2190,103 +2190,103 @@
         "temario": [
             {
                 "titulo": "Introducción a la matemática para ingeniería",
-                "contenido": "Rol de la matemática en la ingeniería, modelado matemático y resolución de problemas."
+                "contenido": [" Rol de la matemática en la ingeniería, modelado matemático y resolución de problemas."]
             },
             {
                 "titulo": "Repaso de álgebra básica",
-                "contenido": "Operaciones algebraicas, factorización y simplificación de expresiones."
+                "contenido": [" Operaciones algebraicas, factorización y simplificación de expresiones."]
             },
             {
                 "titulo": "Ecuaciones y desigualdades",
-                "contenido": "Ecuaciones lineales, cuadráticas y sistemas de desigualdades."
+                "contenido": [" Ecuaciones lineales, cuadráticas y sistemas de desigualdades."]
             },
             {
                 "titulo": "Sistemas de ecuaciones lineales",
-                "contenido": "Métodos de sustitución, igualación, eliminación y método matricial."
+                "contenido": [" Métodos de sustitución, igualación, eliminación y método matricial."]
             },
             {
                 "titulo": "Matrices y determinantes",
-                "contenido": "Operaciones con matrices, determinantes y aplicaciones."
+                "contenido": [" Operaciones con matrices, determinantes y aplicaciones."]
             },
             {
                 "titulo": "Vectores en el plano y en el espacio",
-                "contenido": "Operaciones vectoriales y aplicaciones físicas."
+                "contenido": [" Operaciones vectoriales y aplicaciones físicas."]
             },
             {
                 "titulo": "Geometría analítica",
-                "contenido": "Rectas, planos y cónicas aplicadas a la ingeniería."
+                "contenido": [" Rectas, planos y cónicas aplicadas a la ingeniería."]
             },
             {
                 "titulo": "Funciones reales",
-                "contenido": "Concepto de función, dominio, rango y representación gráfica."
+                "contenido": [" Concepto de función, dominio, rango y representación gráfica."]
             },
             {
                 "titulo": "Funciones polinómicas y racionales",
-                "contenido": "Análisis y comportamiento de funciones."
+                "contenido": [" Análisis y comportamiento de funciones."]
             },
             {
                 "titulo": "Funciones exponenciales y logarítmicas",
-                "contenido": "Propiedades y aplicaciones en modelos de crecimiento y decaimiento."
+                "contenido": [" Propiedades y aplicaciones en modelos de crecimiento y decaimiento."]
             },
             {
                 "titulo": "Límites de funciones",
-                "contenido": "Concepto intuitivo y cálculo de límites."
+                "contenido": [" Concepto intuitivo y cálculo de límites."]
             },
             {
                 "titulo": "Continuidad",
-                "contenido": "Funciones continuas y aplicaciones prácticas."
+                "contenido": [" Funciones continuas y aplicaciones prácticas."]
             },
             {
                 "titulo": "Derivada de una función",
-                "contenido": "Definición, interpretación geométrica y física."
+                "contenido": [" Definición, interpretación geométrica y física."]
             },
             {
                 "titulo": "Reglas de derivación",
-                "contenido": "Derivadas de funciones algebraicas, exponenciales y logarítmicas."
+                "contenido": [" Derivadas de funciones algebraicas, exponenciales y logarítmicas."]
             },
             {
                 "titulo": "Aplicaciones de la derivada",
-                "contenido": "Velocidad, aceleración, optimización y tasas de cambio."
+                "contenido": [" Velocidad, aceleración, optimización y tasas de cambio."]
             },
             {
                 "titulo": "Análisis de funciones",
-                "contenido": "Crecimiento, decrecimiento, máximos y mínimos."
+                "contenido": [" Crecimiento, decrecimiento, máximos y mínimos."]
             },
             {
                 "titulo": "Integral indefinida",
-                "contenido": "Antiderivadas y técnicas básicas de integración."
+                "contenido": [" Antiderivadas y técnicas básicas de integración."]
             },
             {
                 "titulo": "Integral definida",
-                "contenido": "Interpretación geométrica y cálculo."
+                "contenido": [" Interpretación geométrica y cálculo."]
             },
             {
                 "titulo": "Aplicaciones de la integral",
-                "contenido": "Cálculo de áreas, volúmenes y trabajo."
+                "contenido": [" Cálculo de áreas, volúmenes y trabajo."]
             },
             {
                 "titulo": "Introducción a ecuaciones diferenciales",
-                "contenido": "Ecuaciones diferenciales de primer orden y aplicaciones."
+                "contenido": [" Ecuaciones diferenciales de primer orden y aplicaciones."]
             },
             {
                 "titulo": "Modelos matemáticos en ingeniería",
-                "contenido": "Planteamiento y solución de modelos básicos."
+                "contenido": [" Planteamiento y solución de modelos básicos."]
             },
             {
                 "titulo": "Series y sucesiones",
-                "contenido": "Conceptos fundamentales y aplicaciones."
+                "contenido": [" Conceptos fundamentales y aplicaciones."]
             },
             {
                 "titulo": "Introducción a métodos numéricos",
-                "contenido": "Errores numéricos y aproximaciones."
+                "contenido": [" Errores numéricos y aproximaciones."]
             },
             {
                 "titulo": "Resolución de problemas ingenieriles",
-                "contenido": "Ejercicios integradores con enfoque práctico."
+                "contenido": [" Ejercicios integradores con enfoque práctico."]
             },
             {
                 "titulo": "Problemas tipo examen",
-                "contenido": "Práctica intensiva y preparación para evaluaciones."
+                "contenido": [" Práctica intensiva y preparación para evaluaciones."]
             }
         ]
     },
@@ -2301,83 +2301,83 @@
         "temario": [
             {
                 "titulo": "Introducción a la programación científica",
-                "contenido": "Concepto de programación científica, aplicaciones en ciencias e ingeniería."
+                "contenido": [" Concepto de programación científica, aplicaciones en ciencias e ingeniería."]
             },
             {
                 "titulo": "Instalación y entorno de trabajo",
-                "contenido": "Instalación de Python, uso de Anaconda, Jupyter Notebook y editores de código."
+                "contenido": [" Instalación de Python, uso de Anaconda, Jupyter Notebook y editores de código."]
             },
             {
                 "titulo": "Sintaxis básica de Python",
-                "contenido": "Variables, tipos de datos y operaciones básicas."
+                "contenido": [" Variables, tipos de datos y operaciones básicas."]
             },
             {
                 "titulo": "Estructuras de control",
-                "contenido": "Condicionales y bucles aplicados a problemas científicos."
+                "contenido": [" Condicionales y bucles aplicados a problemas científicos."]
             },
             {
                 "titulo": "Funciones en Python",
-                "contenido": "Definición, uso y reutilización de funciones."
+                "contenido": [" Definición, uso y reutilización de funciones."]
             },
             {
                 "titulo": "Estructuras de datos",
-                "contenido": "Listas, tuplas, diccionarios y conjuntos."
+                "contenido": [" Listas, tuplas, diccionarios y conjuntos."]
             },
             {
                 "titulo": "Manejo de arreglos con NumPy",
-                "contenido": "Creación de arrays, operaciones vectorizadas y álgebra básica."
+                "contenido": [" Creación de arrays, operaciones vectorizadas y álgebra básica."]
             },
             {
                 "titulo": "Introducción a SciPy",
-                "contenido": "Funciones científicas y resolución de problemas matemáticos."
+                "contenido": [" Funciones científicas y resolución de problemas matemáticos."]
             },
             {
                 "titulo": "Visualización de datos con Matplotlib",
-                "contenido": "Gráficos básicos y representación de resultados."
+                "contenido": [" Gráficos básicos y representación de resultados."]
             },
             {
                 "titulo": "Introducción a Pandas",
-                "contenido": "Series, DataFrames y manipulación de datos."
+                "contenido": [" Series, DataFrames y manipulación de datos."]
             },
             {
                 "titulo": "Lectura y escritura de archivos",
-                "contenido": "Manejo de archivos CSV y de texto."
+                "contenido": [" Manejo de archivos CSV y de texto."]
             },
             {
                 "titulo": "Errores y excepciones",
-                "contenido": "Manejo de errores y depuración de código."
+                "contenido": [" Manejo de errores y depuración de código."]
             },
             {
                 "titulo": "Introducción al cálculo numérico",
-                "contenido": "Aproximación de raíces y derivadas."
+                "contenido": [" Aproximación de raíces y derivadas."]
             },
             {
                 "titulo": "Integración numérica",
-                "contenido": "Métodos básicos de integración aplicados con Python."
+                "contenido": [" Métodos básicos de integración aplicados con Python."]
             },
             {
                 "titulo": "Resolución de ecuaciones diferenciales",
-                "contenido": "Solución numérica de ecuaciones diferenciales simples."
+                "contenido": [" Solución numérica de ecuaciones diferenciales simples."]
             },
             {
                 "titulo": "Análisis de datos experimentales",
-                "contenido": "Procesamiento y análisis de datos reales."
+                "contenido": [" Procesamiento y análisis de datos reales."]
             },
             {
                 "titulo": "Simulación científica básica",
-                "contenido": "Modelado y simulación de fenómenos simples."
+                "contenido": [" Modelado y simulación de fenómenos simples."]
             },
             {
                 "titulo": "Buenas prácticas en programación científica",
-                "contenido": "Código legible, documentación y organización de proyectos."
+                "contenido": [" Código legible, documentación y organización de proyectos."]
             },
             {
                 "titulo": "Proyecto práctico",
-                "contenido": "Desarrollo de un proyecto científico integrador."
+                "contenido": [" Desarrollo de un proyecto científico integrador."]
             },
             {
                 "titulo": "Problemas tipo examen",
-                "contenido": "Ejercicios prácticos y evaluación final."
+                "contenido": [" Ejercicios prácticos y evaluación final."]
             }
         ]
     },
@@ -2392,83 +2392,83 @@
         "temario": [
             {
                 "titulo": "Introducción a la programación científica",
-                "contenido": "Qué es la programación científica y aplicaciones en matemática, física y química."
+                "contenido": [" Qué es la programación científica y aplicaciones en matemática, física y química."]
             },
             {
                 "titulo": "Instalación y entorno de trabajo",
-                "contenido": "Instalación de Python, Anaconda y uso de Jupyter Notebook para cálculos científicos."
+                "contenido": [" Instalación de Python, Anaconda y uso de Jupyter Notebook para cálculos científicos."]
             },
             {
                 "titulo": "Sintaxis básica de Python",
-                "contenido": "Variables, tipos de datos y operaciones matemáticas básicas."
+                "contenido": [" Variables, tipos de datos y operaciones matemáticas básicas."]
             },
             {
                 "titulo": "Estructuras de control",
-                "contenido": "Condicionales y bucles aplicados a problemas matemáticos y físicos."
+                "contenido": [" Condicionales y bucles aplicados a problemas matemáticos y físicos."]
             },
             {
                 "titulo": "Funciones y modularidad",
-                "contenido": "Definición de funciones para resolver ecuaciones y modelos científicos."
+                "contenido": [" Definición de funciones para resolver ecuaciones y modelos científicos."]
             },
             {
                 "titulo": "Estructuras de datos científicas",
-                "contenido": "Listas, diccionarios y manejo de conjuntos de datos experimentales."
+                "contenido": [" Listas, diccionarios y manejo de conjuntos de datos experimentales."]
             },
             {
                 "titulo": "Arreglos y vectores con NumPy",
-                "contenido": "Operaciones vectoriales y matriciales usadas en matemática y física."
+                "contenido": [" Operaciones vectoriales y matriciales usadas en matemática y física."]
             },
             {
                 "titulo": "Cálculo simbólico y numérico",
-                "contenido": "Resolución de expresiones matemáticas y ecuaciones."
+                "contenido": [" Resolución de expresiones matemáticas y ecuaciones."]
             },
             {
                 "titulo": "Visualización de funciones matemáticas",
-                "contenido": "Gráficas de funciones, superficies y análisis visual."
+                "contenido": [" Gráficas de funciones, superficies y análisis visual."]
             },
             {
                 "titulo": "Introducción a SciPy",
-                "contenido": "Herramientas científicas para física y química."
+                "contenido": [" Herramientas científicas para física y química."]
             },
             {
                 "titulo": "Resolución numérica de ecuaciones",
-                "contenido": "Métodos para raíces de ecuaciones con aplicaciones físicas."
+                "contenido": [" Métodos para raíces de ecuaciones con aplicaciones físicas."]
             },
             {
                 "titulo": "Derivación e integración numérica",
-                "contenido": "Aplicaciones en cinemática, dinámica y reacciones químicas."
+                "contenido": [" Aplicaciones en cinemática, dinámica y reacciones químicas."]
             },
             {
                 "titulo": "Ecuaciones diferenciales",
-                "contenido": "Modelado de sistemas físicos y procesos químicos."
+                "contenido": [" Modelado de sistemas físicos y procesos químicos."]
             },
             {
                 "titulo": "Análisis de datos experimentales",
-                "contenido": "Tratamiento de datos de laboratorio en física y química."
+                "contenido": [" Tratamiento de datos de laboratorio en física y química."]
             },
             {
                 "titulo": "Regresión y ajuste de curvas",
-                "contenido": "Ajuste de datos experimentales y modelos matemáticos."
+                "contenido": [" Ajuste de datos experimentales y modelos matemáticos."]
             },
             {
                 "titulo": "Simulación de fenómenos físicos",
-                "contenido": "Movimiento, oscilaciones y procesos básicos."
+                "contenido": [" Movimiento, oscilaciones y procesos básicos."]
             },
             {
                 "titulo": "Cálculos químicos asistidos por Python",
-                "contenido": "Estequiometría, cinética química y balances de materia."
+                "contenido": [" Estequiometría, cinética química y balances de materia."]
             },
             {
                 "titulo": "Buenas prácticas en programación científica",
-                "contenido": "Código claro, reproducibilidad y documentación científica."
+                "contenido": [" Código claro, reproducibilidad y documentación científica."]
             },
             {
                 "titulo": "Proyecto aplicado por área",
-                "contenido": "Proyecto práctico en matemática, física o química."
+                "contenido": [" Proyecto práctico en matemática, física o química."]
             },
             {
                 "titulo": "Problemas tipo examen",
-                "contenido": "Ejercicios integradores de programación científica."
+                "contenido": [" Ejercicios integradores de programación científica."]
             }
         ]
     },
@@ -2483,83 +2483,83 @@
         "temario": [
             {
                 "titulo": "Introducción a MATLAB",
-                "contenido": "Qué es MATLAB, áreas de aplicación en ingeniería y entorno de trabajo."
+                "contenido": [" Qué es MATLAB, áreas de aplicación en ingeniería y entorno de trabajo."]
             },
             {
                 "titulo": "Interfaz y entorno de desarrollo",
-                "contenido": "Command Window, Workspace, Editor y manejo de archivos."
+                "contenido": [" Command Window, Workspace, Editor y manejo de archivos."]
             },
             {
                 "titulo": "Variables y tipos de datos",
-                "contenido": "Tipos numéricos, operaciones básicas y formato de salida."
+                "contenido": [" Tipos numéricos, operaciones básicas y formato de salida."]
             },
             {
                 "titulo": "Vectores y matrices",
-                "contenido": "Creación, indexación y operaciones matriciales."
+                "contenido": [" Creación, indexación y operaciones matriciales."]
             },
             {
                 "titulo": "Operaciones matemáticas y funciones",
-                "contenido": "Funciones matemáticas básicas y avanzadas."
+                "contenido": [" Funciones matemáticas básicas y avanzadas."]
             },
             {
                 "titulo": "Scripts y funciones",
-                "contenido": "Creación de scripts, funciones y modularidad del código."
+                "contenido": [" Creación de scripts, funciones y modularidad del código."]
             },
             {
                 "titulo": "Estructuras de control",
-                "contenido": "Condicionales y bucles aplicados a problemas de ingeniería."
+                "contenido": [" Condicionales y bucles aplicados a problemas de ingeniería."]
             },
             {
                 "titulo": "Gráficas en 2D",
-                "contenido": "Representación de funciones y datos experimentales."
+                "contenido": [" Representación de funciones y datos experimentales."]
             },
             {
                 "titulo": "Gráficas en 3D",
-                "contenido": "Superficies, curvas espaciales y visualización avanzada."
+                "contenido": [" Superficies, curvas espaciales y visualización avanzada."]
             },
             {
                 "titulo": "Importación y exportación de datos",
-                "contenido": "Lectura y escritura de archivos para análisis de datos."
+                "contenido": [" Lectura y escritura de archivos para análisis de datos."]
             },
             {
                 "titulo": "Resolución de ecuaciones",
-                "contenido": "Ecuaciones algebraicas y sistemas de ecuaciones."
+                "contenido": [" Ecuaciones algebraicas y sistemas de ecuaciones."]
             },
             {
                 "titulo": "Cálculo numérico",
-                "contenido": "Derivación e integración numérica."
+                "contenido": [" Derivación e integración numérica."]
             },
             {
                 "titulo": "Métodos numéricos",
-                "contenido": "Raíces de ecuaciones y métodos iterativos."
+                "contenido": [" Raíces de ecuaciones y métodos iterativos."]
             },
             {
                 "titulo": "Ecuaciones diferenciales",
-                "contenido": "Solución de ecuaciones diferenciales ordinarias."
+                "contenido": [" Solución de ecuaciones diferenciales ordinarias."]
             },
             {
                 "titulo": "Análisis de datos experimentales",
-                "contenido": "Procesamiento y visualización de datos reales."
+                "contenido": [" Procesamiento y visualización de datos reales."]
             },
             {
                 "titulo": "Ajuste de curvas y regresión",
-                "contenido": "Interpolación y modelos de regresión."
+                "contenido": [" Interpolación y modelos de regresión."]
             },
             {
                 "titulo": "Simulación de sistemas físicos",
-                "contenido": "Modelado y simulación de sistemas dinámicos."
+                "contenido": [" Modelado y simulación de sistemas dinámicos."]
             },
             {
                 "titulo": "Introducción a Simulink",
-                "contenido": "Conceptos básicos de simulación con bloques."
+                "contenido": [" Conceptos básicos de simulación con bloques."]
             },
             {
                 "titulo": "Buenas prácticas en MATLAB",
-                "contenido": "Código eficiente, documentación y optimización."
+                "contenido": [" Código eficiente, documentación y optimización."]
             },
             {
                 "titulo": "Proyecto aplicado de ingeniería",
-                "contenido": "Desarrollo de un proyecto integrador con MATLAB."
+                "contenido": [" Desarrollo de un proyecto integrador con MATLAB."]
             }
         ]
     },
@@ -2574,63 +2574,63 @@
         "temario": [
             {
                 "titulo": "Introducción al laboratorio virtual de física",
-                "contenido": "Objetivos del laboratorio, metodología virtual y seguridad conceptual."
+                "contenido": [" Objetivos del laboratorio, metodología virtual y seguridad conceptual."]
             },
             {
                 "titulo": "Mediciones y unidades",
-                "contenido": "Sistema Internacional, instrumentos de medición y precisión."
+                "contenido": [" Sistema Internacional, instrumentos de medición y precisión."]
             },
             {
                 "titulo": "Errores experimentales",
-                "contenido": "Errores sistemáticos y aleatorios, propagación de errores."
+                "contenido": [" Errores sistemáticos y aleatorios, propagación de errores."]
             },
             {
                 "titulo": "Análisis de datos experimentales",
-                "contenido": "Tablas, gráficas y ajuste de datos."
+                "contenido": [" Tablas, gráficas y ajuste de datos."]
             },
             {
                 "titulo": "Cinemática unidimensional",
-                "contenido": "Movimiento rectilíneo uniforme y uniformemente acelerado."
+                "contenido": [" Movimiento rectilíneo uniforme y uniformemente acelerado."]
             },
             {
                 "titulo": "Movimiento en dos dimensiones",
-                "contenido": "Movimiento parabólico y análisis vectorial."
+                "contenido": [" Movimiento parabólico y análisis vectorial."]
             },
             {
                 "titulo": "Leyes de Newton",
-                "contenido": "Fuerzas, diagramas de cuerpo libre y equilibrio."
+                "contenido": [" Fuerzas, diagramas de cuerpo libre y equilibrio."]
             },
             {
                 "titulo": "Trabajo y energía",
-                "contenido": "Trabajo mecánico, energía cinética y potencial."
+                "contenido": [" Trabajo mecánico, energía cinética y potencial."]
             },
             {
                 "titulo": "Conservación de la energía",
-                "contenido": "Sistemas conservativos y no conservativos."
+                "contenido": [" Sistemas conservativos y no conservativos."]
             },
             {
                 "titulo": "Cantidad de movimiento",
-                "contenido": "Impulso, colisiones y conservación del momento."
+                "contenido": [" Impulso, colisiones y conservación del momento."]
             },
             {
                 "titulo": "Oscilaciones",
-                "contenido": "Movimiento armónico simple y sistemas oscilatorios."
+                "contenido": [" Movimiento armónico simple y sistemas oscilatorios."]
             },
             {
                 "titulo": "Ondas mecánicas",
-                "contenido": "Propagación de ondas, frecuencia y longitud de onda."
+                "contenido": [" Propagación de ondas, frecuencia y longitud de onda."]
             },
             {
                 "titulo": "Electricidad básica",
-                "contenido": "Carga eléctrica, ley de Coulomb y campo eléctrico."
+                "contenido": [" Carga eléctrica, ley de Coulomb y campo eléctrico."]
             },
             {
                 "titulo": "Circuitos eléctricos",
-                "contenido": "Ley de Ohm y análisis básico de circuitos."
+                "contenido": [" Ley de Ohm y análisis básico de circuitos."]
             },
             {
                 "titulo": "Interpretación de informes de laboratorio",
-                "contenido": "Estructura de informes, conclusiones y análisis crítico."
+                "contenido": [" Estructura de informes, conclusiones y análisis crítico."]
             }
         ]
     }

@@ -673,6 +673,22 @@
                 ]
             },
             {
+                "titulo": "Álgebra de Boole",
+                "contenido": [
+                    "Definición y axiomas",
+                    "Funciones y expresiones booleana",
+                    "Puertas lógicas (AND, OR, NOT, XOR)"
+                ]
+            },
+            {
+                "titulo": "Mapas de Karnaugh",
+                "contenido": [
+                    "Simplificación de funciones booleanas",
+                    "Minimización de términos (Suma de productos)",
+                    "Aplicación en el diseño de circuitos lógicos"
+                ]
+            },
+            {
                 "titulo": "Teoría de Conjuntos",
                 "contenido": [
                     "Conjuntos y operaciones",

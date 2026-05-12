@@ -2310,184 +2310,106 @@
         "id": "COM_03",
         "nombre": "Introducción a la Programación Científica (Python)",
         "clases": 20,
-        "etiqueta": "Programacion_cientifica_I",
+        "etiqueta": "Programacion_cientifica",
         "categoria": "universitarios",
         "subcategoria": "Programación / Ciencias / Ingeniería",
         "descripcion": "Curso introductorio orientado al uso de Python como herramienta para el cálculo científico, análisis de datos y resolución de problemas en ciencias e ingeniería. Combina fundamentos de programación con aplicaciones prácticas mediante librerías científicas.",
         "temario": [
             {
                 "titulo": "Introducción a la programación científica",
-                "contenido": [" Concepto de programación científica, aplicaciones en ciencias e ingeniería."]
+                "contenido": ["Concepto de programación científica", "Aplicaciones en matemática, física, química e ingeniería", "Importancia de Python en la ciencia y el análisis de datos"]
             },
             {
                 "titulo": "Instalación y entorno de trabajo",
-                "contenido": [" Instalación de Python, uso de Anaconda, Jupyter Notebook y editores de código."]
+                "contenido": ["Instalación de Python y Anaconda", "Uso de Jupyter Notebook, VSCode y editores de código", "Configuración del entorno científico"]
             },
             {
                 "titulo": "Sintaxis básica de Python",
-                "contenido": [" Variables, tipos de datos y operaciones básicas."]
+                "contenido": ["Variables y tipos de datos", "Operaciones matemáticas y lógicas", "Entrada y salida de datos", "Conversión de tipos de datos"]
             },
             {
                 "titulo": "Estructuras de control",
-                "contenido": [" Condicionales y bucles aplicados a problemas científicos."]
+                "contenido": ["Condicionales (if, else, elif)", "Bucles for y while", "Aplicaciones en problemas matemáticos, físicos y químicos"]
             },
             {
                 "titulo": "Funciones en Python",
-                "contenido": [" Definición, uso y reutilización de funciones."]
-            },
-            {
-                "titulo": "Estructuras de datos",
-                "contenido": [" Listas, tuplas, diccionarios y conjuntos."]
-            },
-            {
-                "titulo": "Manejo de arreglos con NumPy",
-                "contenido": [" Creación de arrays, operaciones vectorizadas y álgebra básica."]
-            },
-            {
-                "titulo": "Introducción a SciPy",
-                "contenido": [" Funciones científicas y resolución de problemas matemáticos."]
-            },
-            {
-                "titulo": "Visualización de datos con Matplotlib",
-                "contenido": [" Gráficos básicos y representación de resultados."]
-            },
-            {
-                "titulo": "Introducción a Pandas",
-                "contenido": [" Series, DataFrames y manipulación de datos."]
-            },
-            {
-                "titulo": "Lectura y escritura de archivos",
-                "contenido": [" Manejo de archivos CSV y de texto."]
-            },
-            {
-                "titulo": "Errores y excepciones",
-                "contenido": [" Manejo de errores y depuración de código."]
-            },
-            {
-                "titulo": "Introducción al cálculo numérico",
-                "contenido": [" Aproximación de raíces y derivadas."]
-            },
-            {
-                "titulo": "Integración numérica",
-                "contenido": [" Métodos básicos de integración aplicados con Python."]
-            },
-            {
-                "titulo": "Resolución de ecuaciones diferenciales",
-                "contenido": [" Solución numérica de ecuaciones diferenciales simples."]
-            },
-            {
-                "titulo": "Análisis de datos experimentales",
-                "contenido": [" Procesamiento y análisis de datos reales."]
-            },
-            {
-                "titulo": "Simulación científica básica",
-                "contenido": [" Modelado y simulación de fenómenos simples."]
-            },
-            {
-                "titulo": "Buenas prácticas en programación científica",
-                "contenido": [" Código legible, documentación y organización de proyectos."]
-            },
-            {
-                "titulo": "Proyecto práctico",
-                "contenido": [" Desarrollo de un proyecto científico integrador."]
-            },
-            {
-                "titulo": "Problemas tipo examen",
-                "contenido": [" Ejercicios prácticos y evaluación final."]
-            }
-        ]
-    },
-    {
-        "id": "COM_04",
-        "nombre": "Introducción a la Programación Científica (Python)",
-        "clases": 20,
-        "etiqueta": "Programacion_cientifica_II",
-        "categoria": "universitarios",
-        "subcategoria": "Programación Científica / Matemática / Física / Química",
-        "descripcion": "Curso introductorio al uso de Python como herramienta computacional para la resolución de problemas en matemática, física y química. Se combinan fundamentos de programación con aplicaciones prácticas como cálculo numérico, simulación de fenómenos físicos y análisis de datos químicos y experimentales.",
-        "temario": [
-            {
-                "titulo": "Introducción a la programación científica",
-                "contenido": [" Qué es la programación científica y aplicaciones en matemática, física y química."]
-            },
-            {
-                "titulo": "Instalación y entorno de trabajo",
-                "contenido": [" Instalación de Python, Anaconda y uso de Jupyter Notebook para cálculos científicos."]
-            },
-            {
-                "titulo": "Sintaxis básica de Python",
-                "contenido": [" Variables, tipos de datos y operaciones matemáticas básicas."]
-            },
-            {
-                "titulo": "Estructuras de control",
-                "contenido": [" Condicionales y bucles aplicados a problemas matemáticos y físicos."]
-            },
-            {
-                "titulo": "Funciones y modularidad",
-                "contenido": [" Definición de funciones para resolver ecuaciones y modelos científicos."]
+                "contenido": ["Definición y uso de funciones", "Parámetros y retorno de valores", "Reutilización de código", "Organización modular de programas científicos"]
             },
             {
                 "titulo": "Estructuras de datos científicas",
-                "contenido": [" Listas, diccionarios y manejo de conjuntos de datos experimentales."]
+                "contenido": ["Listas, tuplas, diccionarios y conjuntos", "Manipulación de datos experimentales", "Aplicaciones prácticas en ciencias"]
             },
             {
-                "titulo": "Arreglos y vectores con NumPy",
-                "contenido": [" Operaciones vectoriales y matriciales usadas en matemática y física."]
+                "titulo": "Manejo de arreglos y vectores con NumPy",
+                "contenido": ["Creación y manipulación de arrays", "Operaciones vectoriales y matriciales", "Álgebra lineal básica", "Aplicaciones en matemática y física"]
             },
             {
                 "titulo": "Cálculo simbólico y numérico",
-                "contenido": [" Resolución de expresiones matemáticas y ecuaciones."]
-            },
-            {
-                "titulo": "Visualización de funciones matemáticas",
-                "contenido": [" Gráficas de funciones, superficies y análisis visual."]
+                "contenido": ["Expresiones matemáticas", "Evaluación de funciones", "Resolución simbólica de ecuaciones", "Aproximaciones numéricas"]
             },
             {
                 "titulo": "Introducción a SciPy",
-                "contenido": [" Herramientas científicas para física y química."]
+                "contenido": ["Herramientas científicas de SciPy", "Funciones matemáticas y científicas", "Aplicaciones en física, química e ingeniería"]
+            },
+            {
+                "titulo": "Visualización de datos con Matplotlib",
+                "contenido": ["Introducción a Matplotlib", "Gráficas de funciones matemáticas", "Visualización de datos experimentales", "Gráficos de superficies y análisis visual"]
+            },
+            {
+                "titulo": "Introducción a Pandas",
+                "contenido": ["Series y DataFrames", "Manipulación y análisis de datos", "Organización de datos científicos"]
+            },
+            {
+                "titulo": "Lectura y escritura de archivos",
+                "contenido": ["Archivos CSV y de texto", "Importación y exportación de datos", "Procesamiento de información experimental"]
+            },
+            {
+                "titulo": "Manejo de errores y depuración",
+                "contenido": ["Excepciones en Python", "Detección y corrección de errores", "Buenas prácticas de depuración"]
             },
             {
                 "titulo": "Resolución numérica de ecuaciones",
-                "contenido": [" Métodos para raíces de ecuaciones con aplicaciones físicas."]
+                "contenido": ["Métodos para encontrar raíces", "Aplicaciones matemáticas y físicas", "Uso de bibliotecas científicas"]
             },
             {
                 "titulo": "Derivación e integración numérica",
-                "contenido": [" Aplicaciones en cinemática, dinámica y reacciones químicas."]
+                "contenido": ["Aproximación numérica de derivadas", "Métodos básicos de integración", "Aplicaciones en cinemática, dinámica y química"]
             },
             {
                 "titulo": "Ecuaciones diferenciales",
-                "contenido": [" Modelado de sistemas físicos y procesos químicos."]
+                "contenido": ["Introducción al modelado matemático", "Resolución numérica de ecuaciones diferenciales", "Aplicaciones en sistemas físicos y procesos químicos"]
             },
             {
                 "titulo": "Análisis de datos experimentales",
-                "contenido": [" Tratamiento de datos de laboratorio en física y química."]
+                "contenido": ["Procesamiento de datos reales", "Estadística básica aplicada", "Interpretación de resultados experimentales"]
             },
             {
                 "titulo": "Regresión y ajuste de curvas",
-                "contenido": [" Ajuste de datos experimentales y modelos matemáticos."]
+                "contenido": ["Ajuste lineal y no lineal", "Modelos matemáticos", "Interpretación científica de resultados"]
             },
             {
-                "titulo": "Simulación de fenómenos físicos",
-                "contenido": [" Movimiento, oscilaciones y procesos básicos."]
+                "titulo": "Simulación científica y fenómenos físicos",
+                "contenido": ["Simulación de movimiento y oscilaciones", "Modelado de fenómenos simples", "Introducción a simulaciones computacionales"]
             },
             {
                 "titulo": "Cálculos químicos asistidos por Python",
-                "contenido": [" Estequiometría, cinética química y balances de materia."]
+                "contenido": ["Estequiometría computacional", "Cinética química básica", "Balances de materia"]
             },
             {
                 "titulo": "Buenas prácticas en programación científica",
-                "contenido": [" Código claro, reproducibilidad y documentación científica."]
+                "contenido": ["Código legible y documentado", "Organización de proyectos científicos", "Reproducibilidad y mantenimiento del código"]
             },
             {
-                "titulo": "Proyecto aplicado por área",
-                "contenido": [" Proyecto práctico en matemática, física o química."]
+                "titulo": "Proyecto integrador aplicado",
+                "contenido": ["Desarrollo de un proyecto científico","Aplicaciones en matemática, física, química o ingeniería", "Presentación y documentación del proyecto"]
             },
             {
                 "titulo": "Problemas tipo examen",
-                "contenido": [" Ejercicios integradores de programación científica."]
+                "contenido": ["Ejercicios integradores", "Resolución de problemas científicos reales", "Preparación práctica para evaluaciones"]
             }
         ]
     },
+    
     {
         "id": "COM_05",
         "nombre": "MATLAB para Ingeniería",

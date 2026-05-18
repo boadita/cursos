@@ -995,6 +995,154 @@
     },
     {
         "id": "PR_07",
+        "nombre": "Curso de jQuery",
+        "clases": 12,
+        "etiqueta": "jQuery",
+        "categoria": "programacion",
+        "subcategoria": "Lenguaje de programacion",
+        "descripcion": "jQuery es una biblioteca de JavaScript que facilita la manipulación del DOM, la creación de efectos visuales, el manejo de eventos y las peticiones AJAX de manera rápida y sencilla.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a jQuery",
+                "contenido": [
+                    "¿Qué es jQuery?",
+                    "Historia y ventajas de usar jQuery",
+                    "Diferencias entre JavaScript puro y jQuery",
+                    "Inclusión de jQuery mediante CDN",
+                    "Sintaxis básica de jQuery",
+                    "Uso de $(document).ready()",
+                    "Primeros ejemplos prácticos"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Selectores y Manipulación del DOM",
+                "contenido": [
+                    "Selectores básicos y avanzados",
+                    "Selección por ID, clase y etiquetas",
+                    "Métodos .text(), .html() y .val()",
+                    "Modificación de atributos con .attr()",
+                    "Agregar y eliminar clases CSS",
+                    "Manipulación dinámica de elementos"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Eventos en jQuery",
+                "contenido": [
+                    "Eventos de mouse",
+                    "Eventos de teclado",
+                    "Eventos de formularios",
+                    "Métodos .click(), .hover(), .keydown()",
+                    "Uso de .on()",
+                    "Eventos dinámicos",
+                    "Prevención de comportamiento por defecto"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Efectos y Animaciones",
+                "contenido": [
+                    "Métodos .hide() y .show()",
+                    "Uso de .fadeIn() y .fadeOut()",
+                    "Animaciones con .slideUp() y .slideDown()",
+                    "Método .animate()",
+                    "Creación de efectos personalizados",
+                    "Temporizadores y secuencias"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Manipulación Avanzada del DOM",
+                "contenido": [
+                    "Crear elementos dinámicamente",
+                    "Métodos .append(), .prepend()",
+                    ".before() y .after()",
+                    "Eliminación de elementos",
+                    "Recorrido del DOM",
+                    "Uso de .parent(), .children() y .find()"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Formularios Dinámicos",
+                "contenido": [
+                    "Captura de datos de formularios",
+                    "Validación básica con jQuery",
+                    "Mensajes de error dinámicos",
+                    "Validación en tiempo real",
+                    "Checkbox, radio buttons y select",
+                    "Formularios interactivos"
+                ]
+            },
+            {
+                "titulo": "Clase 7: AJAX con jQuery",
+                "contenido": [
+                    "Introducción a AJAX",
+                    "Método $.ajax()",
+                    "Métodos $.get() y $.post()",
+                    "Consumo de APIs",
+                    "Carga dinámica de contenido",
+                    "Manejo de respuestas JSON",
+                    "Indicadores de carga"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Trabajo con JSON y APIs",
+                "contenido": [
+                    "¿Qué es JSON?",
+                    "Lectura y recorrido de objetos JSON",
+                    "Mostrar datos en tablas dinámicas",
+                    "Integración con APIs públicas",
+                    "Consumo de datos externos",
+                    "Mini proyecto de consulta de datos"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Plugins y Componentes",
+                "contenido": [
+                    "¿Qué son los plugins de jQuery?",
+                    "Instalación e integración",
+                    "Uso de sliders y carruseles",
+                    "Modales y ventanas emergentes",
+                    "Tablas dinámicas",
+                    "Personalización de plugins"
+                ]
+            },
+            {
+                "titulo": "Clase 10: jQuery y Bootstrap",
+                "contenido": [
+                    "Integración de jQuery con Bootstrap",
+                    "Componentes interactivos",
+                    "Modales y menús dinámicos",
+                    "Tooltips y alertas",
+                    "Validación visual de formularios",
+                    "Diseño responsive con interactividad"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Proyecto Práctico Interactivo",
+                "contenido": [
+                    "Desarrollo de un sistema dinámico",
+                    "CRUD básico con jQuery",
+                    "Formularios interactivos",
+                    "Consumo de API",
+                    "Tabla dinámica",
+                    "Efectos visuales",
+                    "Organización del código"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Proyecto Final y Buenas Prácticas",
+                "contenido": [
+                    "Optimización del código jQuery",
+                    "Buenas prácticas y organización",
+                    "Separación de archivos JS y CSS",
+                    "Uso correcto de eventos",
+                    "Rendimiento y mantenimiento",
+                    "Desarrollo del proyecto final",
+                    "Presentación y cierre del curso"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PR_08",
         "nombre": "Curso de TypeScript",
         "clases": 15,
         "etiqueta": "Typescript",
@@ -1573,64 +1721,88 @@
         ]
     },
     {
-  "id": "WEB_02",
-  "nombre": "Bootstrap – Diseño Web Responsive",
-  "clases": 12,
-  "etiqueta": "Bootstrap",
+        "id": "WEB_02",
+        "nombre": "Bootstrap – Diseño Web Responsive",
+        "clases": 12,
+        "etiqueta": "Bootstrap",
         "categoria": "programacion",
         "subcategoria": "Desarrollo Web",
-  "descripcion": "Curso práctico de Bootstrap enfocado en el diseño de interfaces web modernas, responsivas y móviles utilizando el framework CSS más popular. Se aprende desde la estructura básica hasta la construcción de layouts completos.",
-  "temario": [
-    {
-      "titulo": "Introducción a Bootstrap",
-      "contenido": ["Qué es Bootstrap, ventajas, casos de uso, CDN vs instalación local"]
+        "descripcion": "Curso práctico de Bootstrap enfocado en el diseño de interfaces web modernas, responsivas y móviles utilizando el framework CSS más popular. Se aprende desde la estructura básica hasta la construcción de layouts completos.",
+        "temario": [
+            {
+                "titulo": "Introducción a Bootstrap",
+                "contenido": [
+                    "Qué es Bootstrap, ventajas, casos de uso, CDN vs instalación local"
+                ]
+            },
+            {
+                "titulo": "Estructura básica de un proyecto",
+                "contenido": [
+                    "HTML base, inclusión de CSS y JS, uso correcto del contenedor"
+                ]
+            },
+            {
+                "titulo": "Sistema de grillas (Grid System)",
+                "contenido": [
+                    "Filas, columnas, breakpoints, diseño responsive"
+                ]
+            },
+            {
+                "titulo": "Tipografía y utilidades",
+                "contenido": [
+                    "Clases de texto, colores, espaciados, alineación"
+                ]
+            },
+            {
+                "titulo": "Botones y enlaces",
+                "contenido": [
+                    "Tipos de botones, tamaños, estados, grupos de botones"
+                ]
+            },
+            {
+                "titulo": "Formularios",
+                "contenido": [
+                    "Inputs, selects, validaciones, layouts de formularios"
+                ]
+            },
+            {
+                "titulo": "Tablas y listas",
+                "contenido": [
+                    "Tablas responsivas, estilos, listas y badges"
+                ]
+            },
+            {
+                "titulo": "Componentes básicos",
+                "contenido": [
+                    "Cards, alerts, progress bars, spinners"
+                ]
+            },
+            {
+                "titulo": "Navbar y menús",
+                "contenido": [
+                    "Navbars responsivas, menús desplegables"
+                ]
+            },
+            {
+                "titulo": "Modales y tooltips",
+                "contenido": [
+                    " Ventanas modales, tooltips, popovers"
+                ]
+            },
+            {
+                "titulo": "Utilidades avanzadas",
+                "contenido": [
+                    "Display, flexbox, visibilidad, helpers"
+                ]
+            },
+            {
+                "titulo": "Proyecto final",
+                "contenido": [
+                    "Diseño completo de una página web responsive con Bootstrap"
+                ]
+            }
+        ]
     },
-    {
-      "titulo": "Estructura básica de un proyecto",
-      "contenido": ["HTML base, inclusión de CSS y JS, uso correcto del contenedor"]
-    },
-    {
-      "titulo": "Sistema de grillas (Grid System)",
-      "contenido": ["Filas, columnas, breakpoints, diseño responsive"]
-    },
-    {
-      "titulo": "Tipografía y utilidades",
-      "contenido": ["Clases de texto, colores, espaciados, alineación"]
-    },
-    {
-      "titulo": "Botones y enlaces",
-      "contenido": ["Tipos de botones, tamaños, estados, grupos de botones"]
-    },
-    {
-      "titulo": "Formularios",
-      "contenido": ["Inputs, selects, validaciones, layouts de formularios"]
-    },
-    {
-      "titulo": "Tablas y listas",
-      "contenido": ["Tablas responsivas, estilos, listas y badges"]
-    },
-    {
-      "titulo": "Componentes básicos",
-      "contenido": ["Cards, alerts, progress bars, spinners"]
-    },
-    {
-      "titulo": "Navbar y menús",
-      "contenido": ["Navbars responsivas, menús desplegables"]
-    },
-    {
-      "titulo": "Modales y tooltips",
-      "contenido": [" Ventanas modales, tooltips, popovers"]
-    },
-    {
-      "titulo": "Utilidades avanzadas",
-      "contenido": ["Display, flexbox, visibilidad, helpers"]
-    },
-    {
-      "titulo": "Proyecto final",
-      "contenido": ["Diseño completo de una página web responsive con Bootstrap"]
-    }
-  ]
-},
     {
         "id": "WEB_03",
         "nombre": "Curso de Angular",

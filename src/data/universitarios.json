@@ -2309,7 +2309,7 @@
     {
         "id": "COM_03",
         "nombre": "Introducción a la Programación Científica (Python)",
-        "clases": 20,
+        "clases": 25,
         "etiqueta": "Programacion_cientifica",
         "categoria": "universitarios",
         "subcategoria": "Programación / Ciencias / Ingeniería",

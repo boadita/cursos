@@ -1805,6 +1805,265 @@
     },
     {
         "id": "WEB_03",
+        "nombre": "Curso Completo de Sass",
+        "clases": 12,
+        "etiqueta": "Sass",
+        "categoria": "programacion",
+        "subcategoria": "Desarrollo Web",
+        "descripcion": "Sass (Syntactically Awesome Style Sheets) es un preprocesador CSS que permite escribir estilos de manera más organizada, reutilizable y profesional.",
+        "temario": [
+            {
+                "titulo": "Introducción a Sass",
+                "contenido": [
+                    "Qué es Sass",
+                    "Diferencias entre CSS y Sass",
+                    "Ventajas de usar Sass",
+                    "Tipos de sintaxis: .sass y .scss",
+                    "Instalación de Sass",
+                    "Compilar archivos Sass a CSS"
+                ]
+            },
+            {
+                "titulo": "Variables y Organización de Estilos",
+                "contenido": [
+                    "Declaración de variables",
+                    "Colores, tamaños y fuentes reutilizables",
+                    "Buenas prácticas de nomenclatura",
+                    "Organización básica de archivos"
+                ]
+            },
+            {
+                "titulo": "Nesting (Anidación)",
+                "contenido": [
+                    "Selectores anidados",
+                    "Uso de &",
+                    "Pseudoclases y pseudoelementos",
+                    "Evitar exceso de anidación"
+                ]
+            },
+            {
+                "titulo": "Partials e Importación",
+                "contenido": [
+                    "Qué son los partials",
+                    "Uso de _variables.scss",
+                    "Separación modular de estilos",
+                    "@use y @forward",
+                    "Diferencia entre @import y @use"
+                ]
+            },
+            {
+                "titulo": "Mixins",
+                "contenido": [
+                    "Qué es un mixin",
+                    "Crear estilos reutilizables",
+                    "Parámetros en mixins",
+                    "Valores por defecto"
+                ]
+            },
+            {
+                "titulo": "Herencia y Extend",
+                "contenido": [
+                    "Uso de @extend",
+                    "Herencia de estilos",
+                    "Placeholders %",
+                    "Diferencias entre mixins y extend"
+                ]
+            },
+            {
+                "titulo": "Operadores y Funciones",
+                "contenido": [
+                    "Operaciones matemáticas",
+                    "Funciones de color",
+                    "Manipulación de tamaños",
+                    "Funciones integradas de Sass"
+                ]
+            },
+            {
+                "titulo": "Condicionales y Bucles",
+                "contenido": [
+                    "@if, @else",
+                    "@for",
+                    "@while",
+                    "@each"
+                ]
+            },
+            {
+                "titulo": "Responsive Design con Sass",
+                "contenido": [
+                    "Media queries reutilizables",
+                    "Breakpoints",
+                    "Mixins responsive",
+                    "Diseño adaptable"
+                ]
+            },
+            {
+                "titulo": "Arquitectura Profesional Sass",
+                "contenido": [
+                    " Metodología 7-1",
+                    "Organización escalable",
+                    "Sass en proyectos grandes",
+                    "Integración con metodologías BEM"
+                ]
+            },
+            {
+                "titulo": "Integración con Frameworks y Herramientas",
+                "contenido": [
+                    "Sass con Bootstrap",
+                    "Personalización de variables Bootstrap",
+                    "Sass con Vite y Webpack",
+                    "Automatización frontend"
+                ]
+            },
+            {
+                "titulo": "Proyecto final",
+                "contenido": [
+                    "Planificación del proyecto",
+                    "Desarrollo de interfaz completa",
+                    "Organización modular",
+                    "Optimización y compilación final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "WEB_04",
+        "nombre": "Curso Completo de Tailwind CSS",
+        "clases": 12,
+        "etiqueta": "Tailwind",
+        "categoria": "programacion",
+        "subcategoria": "Desarrollo Web",
+        "descripcion": "Tailwind CSS es uno de los frameworks CSS más modernos y utilizados para crear interfaces rápidas, responsivas y profesionales mediante clases utilitarias.",
+        "temario": [
+            {
+                "titulo": "Introducción a Tailwind CSS",
+                "contenido": [
+                    "¿Qué es Tailwind CSS?",
+                    "Diferencias entre Tailwind y Bootstrap",
+                    "Ventajas del enfoque Utility-First",
+                    "Instalación mediante CDN",
+                    "Estructura básica de un proyecto",
+                    "Primer diseño con Tailwind"
+                ]
+            },
+            {
+                "titulo": "Instalación Profesional y Configuración",
+                "contenido": [
+                    "Instalación con Node.js y npm",
+                    "Configuración de Tailwind CLI",
+                    "Archivos: tailwind.config.js, input.css",
+                    "Compilación automática",
+                    "Organización del proyecto"
+                ]
+            },
+            {
+                "titulo": "Tipografía y Colores",
+                "contenido": [
+                    "Clases de texto",
+                    "Tamaños tipográficos",
+                    "Peso y alineación",
+                    "Paleta de colores",
+                    "Fondos y degradados",
+                    "Personalización visual"
+                ]
+            },
+            {
+                "titulo": "Espaciados y Diseño Responsive",
+                "contenido": [
+                    "Margin y Padding",
+                    "Width y Height",
+                    "Breakpoints responsive",
+                    "Diseño Mobile First",
+                    "Responsive utilities"
+                ]
+            },
+            {
+                "titulo": "Flexbox con Tailwind",
+                "contenido": [
+                    "flex",
+                    "Dirección y alineación",
+                    "Justify y items",
+                    "Distribución de elementos",
+                    "Navbar responsive"
+                ]
+            },
+            {
+                "titulo": "Grid Layout y Estructuras Modernas",
+                "contenido": [
+                    "CSS Grid con Tailwind",
+                    "Columnas y filas",
+                    "Grid responsive",
+                    "Layouts complejos",
+                    "Cards y galerías"
+                ]
+            },
+            {
+                "titulo": "Componentes Visuales",
+                "contenido": [
+                    "Botones modernos",
+                    "Tarjetas (Cards)",
+                    "Formularios",
+                    "Alertas",
+                    "Tablas estilizadas",
+                    "Inputs personalizados"
+                ]
+            },
+            {
+                "titulo": "Efectos y Animaciones",
+                "contenido": [
+                    "Hover effects",
+                    "Transiciones",
+                    "Transformaciones",
+                    "Sombras",
+                    "Opacidad",
+                    "Animaciones básicas"
+                ]
+            },
+            {
+                "titulo": "Personalización Avanzada",
+                "contenido": [
+                    "Modificar tailwind.config.js",
+                    "Colores personalizados",
+                    "Fuentes personalizadas",
+                    "Extender utilidades",
+                    "Plugins de Tailwind"
+                ]
+            },
+            {
+                "titulo": "Tailwind con JavaScript y Frameworks",
+                "contenido": [
+                    "Uso con HTML + JS",
+                    "Integración con React",
+                    "Tailwind en Vue o Angular",
+                    "Componentización",
+                    "Buenas prácticas frontend"
+                ]
+            },
+            {
+                "titulo": "Proyecto Web Completo",
+                "contenido": [
+                    "Planificación del proyecto",
+                    "Diseño responsive completo",
+                    "Navbar",
+                    "Hero section",
+                    "Cards",
+                    "Footer",
+                    "Optimización visual"
+                ]
+            },
+            {
+                "titulo": "Proyecto final y Despliegue",
+                "contenido": [
+                    "Finalización del proyecto",
+                    "Optimización de código",
+                    "Buenas prácticas UI/UX",
+                    "Deploy en: Vercel, Netlify, GitHub Pages",
+                    "Cierre y recomendaciones profesionales"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "WEB_05",
         "nombre": "Curso de Angular",
         "clases": 12,
         "etiqueta": "Angular",
@@ -1925,7 +2184,7 @@
         ]
     },
     {
-        "id": "WEB_04",
+        "id": "WEB_06",
         "nombre": "Curso de React",
         "clases": 12,
         "etiqueta": "React",
@@ -2034,7 +2293,7 @@
         ]
     },
     {
-        "id": "WEB_05",
+        "id": "WEB_07",
         "nombre": "Curso de Django",
         "clases": 12,
         "etiqueta": "Django",
@@ -2155,7 +2414,7 @@
         ]
     },
     {
-        "id": "WEB_06",
+        "id": "WEB_08",
         "nombre": "Curso de Laravel",
         "clases": 12,
         "etiqueta": "Laravel",
@@ -2277,7 +2536,7 @@
         ]
     },
     {
-        "id": "WEB_07",
+        "id": "WEB_09",
         "nombre": "Curso de CodeIgniter",
         "clases": 12,
         "etiqueta": "CodeIgniter",

@@ -2647,6 +2647,393 @@
         ]
     },
     {
+        "id": "MOV_01",
+        "nombre": "Curso de Completo de Flutter",
+        "clases": 15,
+        "etiqueta": "Flutter",
+        "categoria": "programacion",
+        "subcategoria": "Programación Móvil",
+        "descripcion": "Flutter es el framework desarrollado por Google para crear aplicaciones móviles, web y de escritorio desde un solo código fuente utilizando el lenguaje Dart.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a Flutter y Dart",
+                "contenido": [
+                    "¿Qué es Flutter?",
+                    "Ventajas del desarrollo multiplataforma",
+                    "Instalación de Flutter SDK",
+                    "Instalación de Android Studio y VS Code",
+                    "Configuración de emuladores",
+                    "Estructura de un proyecto Flutter",
+                    "Introducción al lenguaje Dart",
+                    "Primer programa: Hola Mundo"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Fundamentos de Dart",
+                "contenido": [
+                    "Variables y tipos de datos",
+                    "Operadores",
+                    "Condicionales",
+                    "Bucles",
+                    "Funciones",
+                    "Listas y mapas",
+                    "Programación orientada a objetos en Dart",
+                    "Ejercicios prácticos"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Widgets Básicos",
+                "contenido": [
+                    "¿Qué es un Widget?",
+                    "StatelessWidget",
+                    "MaterialApp y Scaffold",
+                    "Text, Icon e Image",
+                    "Column y Row",
+                    "Container",
+                    "Padding y Margin",
+                    "Creación de interfaces simples"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Diseño de Interfaces",
+                "contenido": [
+                    "ListView y GridView",
+                    "Cards y botones",
+                    "Formularios básicos",
+                    "TextField",
+                    "Diseño responsive",
+                    "Uso de Expanded y Flexible",
+                    "Temas y estilos",
+                    "Ejercicio práctico de interfaz moderna"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Navegación entre Pantallas",
+                "contenido": [
+                    "Navigator",
+                    "Push y Pop",
+                    "Envío de parámetros",
+                    "Rutas nombradas",
+                    "Drawer Menu",
+                    "BottomNavigationBar",
+                    "Tabs",
+                    "Proyecto práctico de navegación"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Manejo de Estados",
+                "contenido": [
+                    "¿Qué es el State?",
+                    "StatefulWidget",
+                    "setState()",
+                    "Ciclo de vida de widgets",
+                    "Manejo dinámico de datos",
+                    "Contadores y listas dinámicas",
+                    "Introducción a Provider"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Formularios y Validaciones",
+                "contenido": [
+                    "Form y GlobalKey",
+                    "Validación de campos",
+                    "Inputs personalizados",
+                    "DropdownButton",
+                    "Checkbox y RadioButton",
+                    "DatePicker y TimePicker",
+                    "SnackBar y AlertDialog",
+                    "Proyecto práctico de registro"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Consumo de APIs REST",
+                "contenido": [
+                    "¿Qué es una API?",
+                    "Paquete http",
+                    "Solicitudes GET y POST",
+                    "Manejo de JSON",
+                    "Future y async/await",
+                    "Listado dinámico desde API",
+                    "Indicadores de carga",
+                    "Manejo de errores"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Manejo de Imágenes y Multimedia",
+                "contenido": [
+                    "Cargar imágenes locales",
+                    "Imágenes desde internet",
+                    "Uso de assets",
+                    "Iconos personalizados",
+                    "Reproducción de audio y video",
+                    "Selección de imágenes desde galería",
+                    "Uso de cámara básica"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Persistencia de Datos",
+                "contenido": [
+                    "SharedPreferences",
+                    "SQLite básico",
+                    "Introducción a Hive",
+                    "Guardar y recuperar datos",
+                    "CRUD local",
+                    "Modelos de datos",
+                    "Proyecto práctico de notas"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Arquitectura y Organización",
+                "contenido": [
+                    "Separación de carpetas",
+                    "Models, Views y Services",
+                    "Buenas prácticas",
+                    "Reutilización de widgets",
+                    "Manejo de constantes",
+                    "Introducción a arquitectura MVVM",
+                    "Clean Code en Flutter"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Firebase con Flutter",
+                "contenido": [
+                    "Introducción a Firebase",
+                    "Configuración del proyecto",
+                    "Firebase Authentication",
+                    "Login y Registro",
+                    "Cloud Firestore",
+                    "Guardar datos en la nube",
+                    "Firebase Storage",
+                    "Proyecto práctico conectado a Firebase"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Animaciones y UI Moderna",
+                "contenido": [
+                    "AnimatedContainer",
+                    "Hero Animation",
+                    "Fade y Slide Animation",
+                    "Animaciones personalizadas",
+                    "Paquete Lottie",
+                    "Diseño moderno UI/UX",
+                    "Transiciones entre pantallas"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Publicación y Despliegue",
+                "contenido": [
+                    "Generación APK",
+                    "Generación AppBundle",
+                    "Configuración de íconos y splash screen",
+                    "Firma digital de aplicaciones",
+                    "Optimización de rendimiento",
+                    "Publicación en Google Play",
+                    "Introducción a despliegue Web/Desktop"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Proyecto Final Integrador",
+                "contenido": [
+                    "Planificación del proyecto",
+                    "Diseño de interfaz completa",
+                    "Navegación y formularios",
+                    "Consumo de API o Firebase",
+                    "Persistencia de datos",
+                    "Arquitectura organizada",
+                    "Pruebas finales",
+                    "Presentación del proyecto final"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "MOV_02",
+        "nombre": "Curso de Completo de React Native",
+        "clases": 15,
+        "etiqueta": "React_Native",
+        "categoria": "programacion",
+        "subcategoria": "Programación Móvil",
+        "descripcion": "React Native está diseñado para desarrollar aplicaciones móviles multiplataforma para Android e iOS utilizando JavaScript y React.",
+        "temario": [
+            {
+                "titulo": "Clase 1: Introducción a React Native",
+                "contenido": [
+                    "¿Qué es React Native?",
+                    "Diferencias entre React y React Native",
+                    "Ventajas del desarrollo multiplataforma",
+                    "Instalación de Node.js",
+                    "Instalación de Expo CLI",
+                    "Configuración del entorno",
+                    "Crear la primera aplicación",
+                    "Ejecutar en Android y Web"
+                ]
+            },
+            {
+                "titulo": "Clase 2: Fundamentos de JSX y Componentes",
+                "contenido": [
+                    "Sintaxis JSX",
+                    "Componentes funcionales",
+                    "Props y reutilización",
+                    "Estructura de un proyecto React Native",
+                    "Uso de View, Text e Image",
+                    "Estilos básicos con StyleSheet",
+                    "Ejercicio práctico de componentes"
+                ]
+            },
+            {
+                "titulo": "Clase 3: Manejo de Estados y Eventos",
+                "contenido": [
+                    "Hook useState",
+                    "Eventos táctiles",
+                    "Botones y acciones",
+                    "Inputs con TextInput",
+                    "Mostrar datos dinámicos",
+                    "Validaciones simples",
+                    "Mini práctica interactiva"
+                ]
+            },
+            {
+                "titulo": "Clase 4: Diseño de Interfaces Móviles",
+                "contenido": [
+                    "Flexbox en React Native",
+                    "Diseño responsive",
+                    "Uso de ScrollView",
+                    "Uso de SafeAreaView",
+                    "Iconos y recursos gráficos",
+                    "Creación de pantallas modernas",
+                    "Ejercicio de maquetación"
+                ]
+            },
+            {
+                "titulo": "Clase 5: Navegación entre Pantallas",
+                "contenido": [
+                    "Introducción a React Navigation",
+                    "Stack Navigator",
+                    "Navegación entre vistas",
+                    "Enviar parámetros entre pantallas",
+                    "Header y personalización",
+                    "Navegación básica de aplicaciones"
+                ]
+            },
+            {
+                "titulo": "Clase 6: Navegación Avanzada",
+                "contenido": [
+                    "Bottom Tabs",
+                    "Drawer Navigation",
+                    "Navegación anidada",
+                    "Flujo de login/logout",
+                    "Organización de rutas",
+                    "Ejercicio práctico de navegación"
+                ]
+            },
+            {
+                "titulo": "Clase 7: Listas y Renderizado Dinámico",
+                "contenido": [
+                    "Uso de FlatList",
+                    "Uso de SectionList",
+                    "Renderizado eficiente",
+                    "Keys y optimización",
+                    "Diseño de tarjetas",
+                    "Búsqueda y filtrado",
+                    "Proyecto práctico de lista dinámica"
+                ]
+            },
+            {
+                "titulo": "Clase 8: Consumo de APIs",
+                "contenido": [
+                    "Introducción a APIs REST",
+                    "Uso de fetch",
+                    "Manejo de JSON",
+                    "async/await",
+                    "Mostrar datos remotos",
+                    "Indicadores de carga",
+                    "Manejo de errores"
+                ]
+            },
+            {
+                "titulo": "Clase 9: Formularios y Validaciones",
+                "contenido": [
+                    "Formularios en React Native",
+                    "Inputs avanzados",
+                    "Validaciones",
+                    "Librerías útiles",
+                    "Manejo de errores de formulario",
+                    "Registro e inicio de sesión",
+                    "Ejercicio práctico"
+                ]
+            },
+            {
+                "titulo": "Clase 10: Almacenamiento Local",
+                "contenido": [
+                    "AsyncStorage",
+                    "Guardar datos localmente",
+                    "Leer y eliminar datos",
+                    "Persistencia de sesión",
+                    "Configuración de preferencias",
+                    "Ejercicio práctico de almacenamiento"
+                ]
+            },
+            {
+                "titulo": "Clase 11: Manejo de Imágenes y Multimedia",
+                "contenido": [
+                    "Cargar imágenes locales",
+                    "Imágenes desde internet",
+                    "Uso de cámara con Expo",
+                    "Seleccionar imágenes de galería",
+                    "Audio y video básico",
+                    "Mini proyecto multimedia"
+                ]
+            },
+            {
+                "titulo": "Clase 12: Consumo de APIs Reales",
+                "contenido": [
+                    "API de noticias, clima o deportes",
+                    "Paginación",
+                    "Pull to refresh",
+                    "Optimización de peticiones",
+                    "Variables de entorno",
+                    "Proyecto práctico conectado a API real"
+                ]
+            },
+            {
+                "titulo": "Clase 13: Introducción a Firebase",
+                "contenido": [
+                    "¿Qué es Firebase?",
+                    "Configuración de Firebase",
+                    "Authentication",
+                    "Firestore básico",
+                    "Guardar datos en la nube",
+                    "Login y registro con Firebase",
+                    "CRUD básico"
+                ]
+            },
+            {
+                "titulo": "Clase 14: Proyecto Integrador",
+                "contenido": [
+                    "Planificación del proyecto",
+                    "Diseño de pantallas",
+                    "Navegación completa",
+                    "Consumo de APIs",
+                    "Almacenamiento local",
+                    "Firebase",
+                    "Desarrollo guiado del proyecto final"
+                ]
+            },
+            {
+                "titulo": "Clase 15: Optimización y Publicación",
+                "contenido": [
+                    "Buenas prácticas",
+                    "Organización de carpetas",
+                    "Componentes reutilizables",
+                    "Optimización de rendimiento",
+                    "Generar APK con Expo",
+                    "Publicación básica",
+                    "Presentación de proyectos finales"
+                ]
+            }
+        ]
+    },
+    {
         "id": "REP_01",
         "nombre": "Curso de Git & GitHub",
         "clases": 12,

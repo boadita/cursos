@@ -3034,6 +3034,89 @@
         ]
     },
     {
+  "id": "DESK_01",
+  "nombre": "Desarrollo de Interfaces Gráficas con Python Tkinter",
+  "clases": 18,
+  "etiqueta": "Tkinter",
+  "categoria": "programación",
+  "subcategoria": "Programación de escritorio",
+  "descripcion": "Curso orientado al desarrollo de aplicaciones de escritorio utilizando Python y la librería Tkinter. El estudiante aprenderá a crear interfaces gráficas, manejar eventos, validar datos y construir aplicaciones completas con persistencia de información.",
+  "temario": [
+    {
+      "titulo": "Introducción a Tkinter",
+      "contenido": ["Qué es Tkinter", "aplicaciones de escritorio con Python", "instalación del entorno", "creación de la primera ventana."] 
+    },
+    {
+      "titulo": "Estructura básica de una aplicación",
+      "contenido": ["Uso de Tk()", "mainloop()", "configuración de ventana", "título", "tamaño e icono."] 
+    },
+    {
+      "titulo": "Widgets básicos I",
+      "contenido": ["Label y Button", "eventos con command", "primeros ejemplos prácticos."] 
+    },
+    {
+      "titulo": "Widgets básicos II",
+      "contenido": ["Entry", "captura de datos del usuario", "creación de formularios simples."] 
+    },
+    {
+      "titulo": "Widgets adicionales",
+      "contenido": ["Text", "Checkbutton", "Radiobutton y uso de variables Tkinter."] 
+    },
+    {
+      "titulo": "Gestión de layouts",
+      "contenido": ["Uso de pack()", "grid() y place()", "comparación y buenas prácticas."] 
+    },
+    {
+      "titulo": "Uso de Frames",
+      "contenido": ["Frame y LabelFrame", "organización visual de la interfaz."] 
+    },
+    {
+      "titulo": "Eventos",
+      "contenido": ["Eventos de teclado y mouse", "uso de bind() en widgets."] 
+    },
+    {
+      "titulo": "Validación de datos",
+      "contenido": ["Validación de entradas", "manejo de errores y uso de messagebox."] 
+    },
+    {
+      "titulo": "Widgets avanzados I",
+      "contenido": ["Combobox", "Listbox y Scrollbar."] 
+    },
+    {
+      "titulo": "Widgets avanzados II",
+      "contenido": ["Menús", "submenús", "atajos de teclado."] 
+    },
+    {
+      "titulo": "Ventanas secundarias",
+      "contenido": ["Uso de Toplevel", "cuadros de diálogo y ventanas emergentes."] 
+    },
+    {
+      "titulo": "Estilos y diseño visual",
+      "contenido": ["Uso de ttk", "estilos visuales y temas para mejorar la interfaz."] 
+    },
+    {
+      "titulo": "Persistencia de datos I",
+      "contenido": ["Guardado y lectura de datos en archivos de texto y CSV."] 
+    },
+    {
+      "titulo": "Persistencia de datos II",
+      "contenido": ["Integración con bases de datos SQLite y operaciones CRUD."] 
+    },
+    {
+      "titulo": "Diseño del proyecto final",
+      "contenido": ["Análisis del problema", "estructura del proyecto y diseño de la interfaz."] 
+    },
+    {
+      "titulo": "Desarrollo del proyecto final",
+      "contenido": ["Implementación completa de la aplicación con Tkinter."] 
+    },
+    {
+      "titulo": "Empaquetado de la aplicación",
+      "contenido": ["Uso de PyInstaller para crear ejecutables y distribución del proyecto."] 
+    }
+  ]
+},
+    {
         "id": "REP_01",
         "nombre": "Curso de Git & GitHub",
         "clases": 12,

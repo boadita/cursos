@@ -11,6 +11,7 @@ import universitarios from "./data/universitarios.json";
 import ingles from "./data/ingles.json";
 import informatica from "./data/informatica.json";
 import programacion from "./data/programacion.json";
+import ia from "./data/ia.json";
 
 import type { Course } from "./types";
 
@@ -22,6 +23,8 @@ const allCourses: Course[] = [
   ...(ingles as Course[]),
   ...(informatica as Course[]),
   ...(programacion as Course[]),
+  ...(ia as Course[]),
+
 ];
 
 function CourseDetailPage() {

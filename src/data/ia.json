@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "IA_01",
+    "nombre": "Uso Inteligente de Herramientas IA",
+    "clases": 15,
+    "etiqueta": "uso_inteligente_ia",
+    "categoria": "Inteligencia Artificial",
+    "subcategoria": "IA",
+    "descripcion": "El curso “Uso Inteligente de Herramientas IA” está diseñado para enseñar el uso práctico y eficiente de las principales herramientas de inteligencia artificial aplicadas al estudio, trabajo y productividad.",
+    "temario": [
+      {
+        "titulo": "¿Qué es IA?",
+        "contenido": [
+          "Conceptos básicos de inteligencia artificial",
+          "Historia y evolución de la IA",
+          "Tipos de inteligencia artificial",
+          "Aplicaciones actuales de la IA",
+          "Ventajas y desafíos de la IA"
+        ]
+      },
+      {
+        "titulo": "IA Generativa",
+        "contenido": [
+          "Introducción a la IA generativa",
+          "Cómo funcionan los modelos generativos",
+          "Generación de texto, imágenes y audio",
+          "Casos de uso prácticos",
+          "Riesgos y consideraciones éticas"
+        ]
+      },
+      {
+        "titulo": "Prompt Engineering",
+        "contenido": [
+          "Qué es un prompt",
+          "Estructura de prompts efectivos",
+          "Técnicas para mejorar respuestas",
+          "Prompts para texto, imágenes y código",
+          "Errores comunes y buenas prácticas"
+        ]
+      },
+      {
+        "titulo": "Uso de ChatGPT",
+        "contenido": [
+          "Introducción a ChatGPT",
+          "Creación de consultas efectivas",
+          "Generación de contenido y asistencia",
+          "Uso para programación y aprendizaje",
+          "Consejos para obtener mejores resultados"
+        ]
+      },
+      {
+        "titulo": "Gemini",
+        "contenido": [
+          "Qué es Gemini y sus funciones",
+          "Integración con herramientas de Google",
+          "Uso para búsqueda y redacción",
+          "Comparación con otras IA",
+          "Ejemplos prácticos de uso"
+        ]
+      },
+      {
+        "titulo": "Microsoft Copilot",
+        "contenido": [
+          "Introducción a Copilot",
+          "Integración con Microsoft Office",
+          "Automatización de tareas",
+          "Uso en programación y productividad",
+          "Casos prácticos en entornos laborales"
+        ]
+      },
+      {
+        "titulo": "Perplexity",
+        "contenido": [
+          "Introducción a Perplexity",
+          "Búsquedas inteligentes con IA",
+          "Verificación de información y fuentes",
+          "Investigación académica con IA",
+          "Comparación con buscadores tradicionales"
+        ]
+      },
+      {
+        "titulo": "IA para estudiar",
+        "contenido": [
+          "Organización del estudio con IA",
+          "Creación de resúmenes automáticos",
+          "Generación de cuestionarios y ejercicios",
+          "Técnicas de aprendizaje asistido",
+          "Herramientas recomendadas para estudiantes"
+        ]
+      },
+      {
+        "titulo": "IA para resumir documentos",
+        "contenido": [
+          "Técnicas de resumen automático",
+          "Resumen de PDFs y textos extensos",
+          "Extracción de ideas principales",
+          "Herramientas IA para documentos",
+          "Validación y revisión de resultados"
+        ]
+      },
+      {
+        "titulo": "IA para crear presentaciones",
+        "contenido": [
+          "Generación automática de diapositivas",
+          "Diseño visual asistido por IA",
+          "Creación de contenido para presentaciones",
+          "Herramientas recomendadas",
+          "Optimización y exportación de presentaciones"
+        ]
+      },
+      {
+        "titulo": "IA para productividad",
+        "contenido": [
+          "Automatización de tareas diarias",
+          "Gestión del tiempo con IA",
+          "Organización de proyectos y actividades",
+          "IA para correos y reuniones",
+          "Buenas prácticas de productividad digital"
+        ]
+      },
+      {
+        "titulo": "IA para imágenes",
+        "contenido": [
+          "Generación de imágenes con IA",
+          "Edición y mejora de fotografías",
+          "Creación de arte digital",
+          "Prompts para imágenes efectivas",
+          "Aspectos éticos y derechos de autor"
+        ]
+      },
+      {
+        "titulo": "IA para investigación",
+        "contenido": [
+          "Uso de IA en investigaciones académicas",
+          "Búsqueda y análisis de información",
+          "Organización de referencias y citas",
+          "Verificación de datos y fuentes",
+          "Buenas prácticas en investigación asistida por IA"
+        ]
+      },
+      {
+        "titulo": "Seguridad y ética en IA",
+        "contenido": [
+          "Privacidad y protección de datos",
+          "Uso responsable de herramientas IA",
+          "Riesgos de desinformación",
+          "Sesgos en inteligencia artificial",
+          "Normas y recomendaciones éticas"
+        ]
+      },
+      {
+        "titulo": "Proyecto práctico con IA",
+        "contenido": [
+          "Planificación del proyecto",
+          "Selección de herramientas IA",
+          "Desarrollo de contenido práctico",
+          "Presentación del proyecto final",
+          "Evaluación y mejoras del trabajo realizado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "IA_02",
+    "nombre": "Automatización e IA Aplicada",
+    "clases": 20,
+    "etiqueta": "automatizacion_ia",
+    "categoria": "Inteligencia Artificial",
+    "subcategoria": "IA",
+    "descripcion": "El curso “Automatización e IA Aplicada” está orientado a enseñar cómo utilizar herramientas de inteligencia artificial y automatización para optimizar tareas laborales, académicas y de productividad digital.",
+    "temario": [
+      {
+        "titulo": "Automatización con IA",
+        "contenido": [
+          "Introducción a la automatización inteligente",
+          "Procesos repetitivos y optimización",
+          "Herramientas modernas de automatización",
+          "Flujos de trabajo automatizados",
+          "Casos prácticos empresariales"
+        ]
+      },
+      {
+        "titulo": "IA y Excel",
+        "contenido": [
+          "Uso de IA en hojas de cálculo",
+          "Fórmulas inteligentes y automatización",
+          "Análisis de datos con IA",
+          "Creación de reportes automáticos",
+          "Productividad avanzada en Excel"
+        ]
+      },
+      {
+        "titulo": "IA y Google Sheets",
+        "contenido": [
+          "Introducción a Google Sheets con IA",
+          "Automatización de tareas y fórmulas",
+          "Integración con herramientas Google",
+          "Análisis colaborativo de datos",
+          "Scripts y funciones inteligentes"
+        ]
+      },
+      {
+        "titulo": "IA para análisis de datos",
+        "contenido": [
+          "Fundamentos de análisis de datos",
+          "Limpieza y organización automática",
+          "Interpretación de información con IA",
+          "Visualización de datos",
+          "Generación de reportes inteligentes"
+        ]
+      },
+      {
+        "titulo": "IA para creación de contenido",
+        "contenido": [
+          "Generación de textos con IA",
+          "Creación de artículos y publicaciones",
+          "IA para redacción profesional",
+          "Optimización y corrección de contenido",
+          "Herramientas para contenido multimedia"
+        ]
+      },
+      {
+        "titulo": "Automatización de correos",
+        "contenido": [
+          "Introducción a correos automatizados",
+          "Respuestas inteligentes con IA",
+          "Organización y filtrado de mensajes",
+          "Automatización de campañas de email",
+          "Buenas prácticas de comunicación digital"
+        ]
+      },
+      {
+        "titulo": "Chatbots básicos",
+        "contenido": [
+          "Qué es un chatbot",
+          "Diseño de conversaciones automáticas",
+          "Herramientas para crear chatbots",
+          "Integración en sitios web y redes",
+          "Casos prácticos de atención al cliente"
+        ]
+      },
+      {
+        "titulo": "APIs de IA",
+        "contenido": [
+          "Introducción a APIs de inteligencia artificial",
+          "Consumo de APIs en aplicaciones",
+          "Integración con proyectos web",
+          "Automatización mediante APIs",
+          "Seguridad y manejo de datos"
+        ]
+      },
+      {
+        "titulo": "IA para redes sociales",
+        "contenido": [
+          "Creación de contenido para redes",
+          "Automatización de publicaciones",
+          "Generación de imágenes y textos",
+          "Programación y análisis de contenido",
+          "Estrategias de crecimiento digital"
+        ]
+      },
+      {
+        "titulo": "IA para marketing",
+        "contenido": [
+          "Introducción al marketing con IA",
+          "Segmentación de audiencias",
+          "Automatización de campañas",
+          "Análisis de métricas y resultados",
+          "Tendencias actuales del marketing digital"
+        ]
+      },
+      {
+        "titulo": "IA para investigación académica",
+        "contenido": [
+          "Búsqueda inteligente de información",
+          "Resumen y análisis de artículos",
+          "Organización de referencias bibliográficas",
+          "IA para redacción académica",
+          "Ética y validación de información"
+        ]
+      },
+      {
+        "titulo": "IA para productividad empresarial",
+        "contenido": [
+          "Gestión de tareas y proyectos",
+          "Automatización de reportes",
+          "IA para reuniones y agendas",
+          "Optimización de procesos internos",
+          "Herramientas colaborativas inteligentes"
+        ]
+      },
+      {
+        "titulo": "IA para generación de imágenes",
+        "contenido": [
+          "Creación de imágenes mediante prompts",
+          "Diseño gráfico asistido por IA",
+          "Edición y mejora de imágenes",
+          "IA para contenido visual publicitario",
+          "Derechos de autor y ética visual"
+        ]
+      },
+      {
+        "titulo": "IA para presentaciones y documentos",
+        "contenido": [
+          "Creación automática de presentaciones",
+          "Diseño inteligente de diapositivas",
+          "Generación de documentos profesionales",
+          "Optimización visual y textual",
+          "Exportación y colaboración"
+        ]
+      },
+      {
+        "titulo": "Automatización de tareas web",
+        "contenido": [
+          "Automatización en navegadores",
+          "Formularios y procesos automáticos",
+          "Bots y asistentes web",
+          "Integración con plataformas digitales",
+          "Buenas prácticas de automatización"
+        ]
+      },
+      {
+        "titulo": "IA para programación básica",
+        "contenido": [
+          "Introducción a programación asistida por IA",
+          "Generación de código automático",
+          "Depuración y optimización de código",
+          "IA aplicada al desarrollo web",
+          "Herramientas para programadores"
+        ]
+      },
+      {
+        "titulo": "IA para emprendimientos",
+        "contenido": [
+          "Uso de IA en negocios digitales",
+          "Automatización de ventas y atención",
+          "Creación de estrategias inteligentes",
+          "Optimización de recursos",
+          "Casos de éxito empresariales"
+        ]
+      },
+      {
+        "titulo": "Seguridad y ética en automatización",
+        "contenido": [
+          "Protección de datos y privacidad",
+          "Riesgos de automatización",
+          "Uso responsable de inteligencia artificial",
+          "Sesgos y limitaciones de IA",
+          "Buenas prácticas digitales"
+        ]
+      },
+      {
+        "titulo": "Integración de herramientas IA",
+        "contenido": [
+          "Conexión entre plataformas IA",
+          "Automatización entre aplicaciones",
+          "Flujos de trabajo integrados",
+          "Herramientas colaborativas modernas",
+          "Escenarios prácticos de integración"
+        ]
+      },
+      {
+        "titulo": "Proyecto final de automatización e IA",
+        "contenido": [
+          "Planificación del proyecto",
+          "Selección de herramientas adecuadas",
+          "Desarrollo de solución automatizada",
+          "Presentación del proyecto final",
+          "Evaluación y mejoras futuras"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "IA_03",
+    "nombre": "Programación con IA",
+    "clases": 20,
+    "etiqueta": "programacion_ia",
+    "categoria": "Inteligencia Artificial",
+    "subcategoria": "IA",
+    "descripcion": "El curso “Programación con IA” está enfocado en el desarrollo de aplicaciones inteligentes utilizando herramientas modernas de inteligencia artificial.",
+    "temario": [
+      {
+        "titulo": "Consumo de APIs IA",
+        "contenido": [
+          "Introducción a APIs de inteligencia artificial",
+          "Solicitudes y respuestas HTTP",
+          "Manejo de autenticación y tokens",
+          "Integración de APIs en proyectos",
+          "Buenas prácticas y manejo de errores"
+        ]
+      },
+      {
+        "titulo": "OpenAI API",
+        "contenido": [
+          "Introducción a la API de OpenAI",
+          "Generación de texto con IA",
+          "Uso de modelos conversacionales",
+          "Configuración de parámetros y prompts",
+          "Integración práctica en aplicaciones"
+        ]
+      },
+      {
+        "titulo": "Chatbots personalizados",
+        "contenido": [
+          "Fundamentos de chatbots inteligentes",
+          "Diseño de conversaciones dinámicas",
+          "Contexto y memoria en chatbots",
+          "Integración en sitios web y sistemas",
+          "Casos prácticos de asistentes virtuales"
+        ]
+      },
+      {
+        "titulo": "Embeddings",
+        "contenido": [
+          "Qué son los embeddings",
+          "Representación vectorial de texto",
+          "Similitud semántica y búsquedas",
+          "Aplicaciones en IA moderna",
+          "Uso práctico con APIs"
+        ]
+      },
+      {
+        "titulo": "Vector DB",
+        "contenido": [
+          "Introducción a bases de datos vectoriales",
+          "Almacenamiento y búsqueda semántica",
+          "Integración con embeddings",
+          "Consultas inteligentes de información",
+          "Casos prácticos con IA generativa"
+        ]
+      },
+      {
+        "titulo": "OCR con IA",
+        "contenido": [
+          "Introducción al reconocimiento óptico de caracteres",
+          "Extracción de texto desde imágenes",
+          "OCR aplicado a documentos y formularios",
+          "Herramientas modernas de OCR",
+          "Automatización de procesamiento documental"
+        ]
+      },
+      {
+        "titulo": "IA en aplicaciones web",
+        "contenido": [
+          "Integración de IA en aplicaciones web",
+          "Formularios y asistentes inteligentes",
+          "Procesamiento de texto e imágenes",
+          "Automatización de funcionalidades web",
+          "Despliegue y pruebas de aplicaciones IA"
+        ]
+      },
+      {
+        "titulo": "IA en apps móviles",
+        "contenido": [
+          "Introducción a IA móvil",
+          "Integración con aplicaciones Android y iOS",
+          "Asistentes inteligentes en móviles",
+          "Procesamiento de voz e imágenes",
+          "Optimización de rendimiento y experiencia"
+        ]
+      },
+      {
+        "titulo": "Generación de imágenes",
+        "contenido": [
+          "Fundamentos de generación de imágenes con IA",
+          "Prompts para imágenes efectivas",
+          "Herramientas y modelos visuales",
+          "Edición y mejora automática",
+          "Aplicaciones creativas y comerciales"
+        ]
+      },
+      {
+        "titulo": "Modelos open source",
+        "contenido": [
+          "Introducción a modelos de código abierto",
+          "Diferencias entre modelos comerciales y open source",
+          "Instalación y ejecución local",
+          "Personalización de modelos IA",
+          "Comunidades y recursos de aprendizaje"
+        ]
+      },
+      {
+        "titulo": "Agentes IA",
+        "contenido": [
+          "Qué son los agentes inteligentes",
+          "Automatización de tareas complejas",
+          "Agentes conversacionales y autónomos",
+          "Integración con APIs y herramientas",
+          "Casos prácticos de agentes IA"
+        ]
+      },
+      {
+        "titulo": "IA para automatización de procesos",
+        "contenido": [
+          "Automatización inteligente de tareas",
+          "Integración con servicios digitales",
+          "Flujos de trabajo automatizados",
+          "Bots y asistentes automáticos",
+          "Optimización de productividad"
+        ]
+      },
+      {
+        "titulo": "Procesamiento de lenguaje natural (NLP)",
+        "contenido": [
+          "Fundamentos de NLP",
+          "Análisis y comprensión de texto",
+          "Clasificación y extracción de información",
+          "Traducción y resumen automático",
+          "Aplicaciones modernas de NLP"
+        ]
+      },
+      {
+        "titulo": "IA y análisis de datos",
+        "contenido": [
+          "Introducción al análisis inteligente de datos",
+          "Limpieza y preparación de datos",
+          "Visualización y reportes automáticos",
+          "Predicción y tendencias con IA",
+          "Casos prácticos empresariales"
+        ]
+      },
+      {
+        "titulo": "Seguridad y ética en IA",
+        "contenido": [
+          "Privacidad y protección de datos",
+          "Riesgos y limitaciones de IA",
+          "Uso responsable de modelos inteligentes",
+          "Sesgos y transparencia algorítmica",
+          "Buenas prácticas de desarrollo seguro"
+        ]
+      },
+      {
+        "titulo": "Integración de IA con bases de datos",
+        "contenido": [
+          "Conexión entre IA y sistemas de datos",
+          "Consultas inteligentes",
+          "Automatización de registros y análisis",
+          "Integración con SQL y NoSQL",
+          "Optimización de rendimiento"
+        ]
+      },
+      {
+        "titulo": "IA para generación de contenido",
+        "contenido": [
+          "Generación automática de textos",
+          "Creación de contenido multimedia",
+          "Automatización de publicaciones",
+          "Herramientas IA para productividad creativa",
+          "Optimización de contenido digital"
+        ]
+      },
+      {
+        "titulo": "Despliegue de aplicaciones IA",
+        "contenido": [
+          "Publicación de aplicaciones inteligentes",
+          "Uso de servidores y servicios cloud",
+          "Configuración de entornos de producción",
+          "Escalabilidad y mantenimiento",
+          "Monitoreo y actualizaciones"
+        ]
+      },
+      {
+        "titulo": "Integración de múltiples modelos IA",
+        "contenido": [
+          "Uso combinado de modelos de IA",
+          "Automatización avanzada con varias APIs",
+          "Orquestación de herramientas inteligentes",
+          "Casos de integración empresarial",
+          "Optimización de resultados"
+        ]
+      },
+      {
+        "titulo": "Proyecto final de Programación con IA",
+        "contenido": [
+          "Planificación del proyecto práctico",
+          "Diseño de arquitectura de la solución",
+          "Implementación de funcionalidades IA",
+          "Presentación y pruebas finales",
+          "Evaluación y mejoras futuras"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "IA_04",
+    "nombre": "Machine Learning y Deep Learning",
+    "clases": 20,
+    "etiqueta": "machine_learning_y_deep_learning",
+    "categoria": "Inteligencia Artificial",
+    "subcategoria": "IA",
+    "descripcion": "El curso “Machine Learning y Deep Learning” está diseñado para introducir a los participantes en el desarrollo de modelos inteligentes capaces de aprender a partir de datos.",
+    "temario": [
+      {
+        "titulo": "Machine Learning",
+        "contenido": [
+          "Introducción al aprendizaje automático",
+          "Tipos de Machine Learning",
+          "Flujo de trabajo de un modelo ML",
+          "Datos, entrenamiento y predicción",
+          "Aplicaciones actuales de ML"
+        ]
+      },
+      {
+        "titulo": "Regresión",
+        "contenido": [
+          "Fundamentos de regresión",
+          "Regresión lineal simple y múltiple",
+          "Predicción de valores continuos",
+          "Evaluación de modelos de regresión",
+          "Casos prácticos con datos reales"
+        ]
+      },
+      {
+        "titulo": "Clasificación",
+        "contenido": [
+          "Introducción a modelos de clasificación",
+          "Clasificación binaria y multiclase",
+          "Métricas de evaluación",
+          "Entrenamiento y validación de modelos",
+          "Aplicaciones de clasificación inteligente"
+        ]
+      },
+      {
+        "titulo": "Árboles de decisión",
+        "contenido": [
+          "Fundamentos de árboles de decisión",
+          "Construcción y entrenamiento de árboles",
+          "Interpretación de resultados",
+          "Random Forest y métodos avanzados",
+          "Casos prácticos de predicción"
+        ]
+      },
+      {
+        "titulo": "Redes neuronales",
+        "contenido": [
+          "Introducción a redes neuronales artificiales",
+          "Neuronas y capas ocultas",
+          "Funciones de activación",
+          "Entrenamiento mediante backpropagation",
+          "Aplicaciones modernas de redes neuronales"
+        ]
+      },
+      {
+        "titulo": "PyTorch",
+        "contenido": [
+          "Introducción a PyTorch",
+          "Tensores y operaciones básicas",
+          "Construcción de modelos neuronales",
+          "Entrenamiento y optimización",
+          "Implementación práctica de proyectos"
+        ]
+      },
+      {
+        "titulo": "Computer Vision",
+        "contenido": [
+          "Introducción a visión por computadora",
+          "Procesamiento de imágenes digitales",
+          "Clasificación y detección de objetos",
+          "Uso de modelos convolucionales",
+          "Aplicaciones en reconocimiento visual"
+        ]
+      },
+      {
+        "titulo": "NLP (Procesamiento de Lenguaje Natural)",
+        "contenido": [
+          "Fundamentos de NLP",
+          "Limpieza y procesamiento de texto",
+          "Análisis de sentimientos",
+          "Clasificación y generación de texto",
+          "Aplicaciones modernas de NLP"
+        ]
+      },
+      {
+        "titulo": "Deep Learning",
+        "contenido": [
+          "Introducción al aprendizaje profundo",
+          "Diferencias entre ML y Deep Learning",
+          "Redes neuronales profundas",
+          "GPU y entrenamiento avanzado",
+          "Aplicaciones actuales de Deep Learning"
+        ]
+      },
+      {
+        "titulo": "Preparación y limpieza de datos",
+        "contenido": [
+          "Importancia de la calidad de datos",
+          "Tratamiento de datos faltantes",
+          "Normalización y escalado",
+          "División de datasets",
+          "Automatización del preprocesamiento"
+        ]
+      },
+      {
+        "titulo": "Evaluación de modelos",
+        "contenido": [
+          "Métricas de rendimiento",
+          "Overfitting y underfitting",
+          "Validación cruzada",
+          "Optimización de modelos",
+          "Interpretación de resultados"
+        ]
+      },
+      {
+        "titulo": "Aprendizaje supervisado",
+        "contenido": [
+          "Conceptos de aprendizaje supervisado",
+          "Entrenamiento con datos etiquetados",
+          "Modelos supervisados más utilizados",
+          "Predicción y análisis",
+          "Casos prácticos supervisados"
+        ]
+      },
+      {
+        "titulo": "Aprendizaje no supervisado",
+        "contenido": [
+          "Introducción al aprendizaje no supervisado",
+          "Clustering y segmentación",
+          "Reducción de dimensionalidad",
+          "Detección de patrones ocultos",
+          "Aplicaciones reales de clustering"
+        ]
+      },
+      {
+        "titulo": "Redes convolucionales (CNN)",
+        "contenido": [
+          "Fundamentos de CNN",
+          "Convolución y pooling",
+          "Clasificación avanzada de imágenes",
+          "Arquitecturas populares de CNN",
+          "Casos prácticos en visión artificial"
+        ]
+      },
+      {
+        "titulo": "Redes recurrentes (RNN)",
+        "contenido": [
+          "Introducción a redes recurrentes",
+          "Procesamiento de secuencias y texto",
+          "LSTM y GRU",
+          "Aplicaciones en lenguaje natural",
+          "Predicción temporal y secuencial"
+        ]
+      },
+      {
+        "titulo": "Transfer Learning",
+        "contenido": [
+          "Qué es Transfer Learning",
+          "Uso de modelos preentrenados",
+          "Ajuste fino de modelos",
+          "Aplicaciones prácticas rápidas",
+          "Optimización de recursos computacionales"
+        ]
+      },
+      {
+        "titulo": "Entrenamiento y optimización",
+        "contenido": [
+          "Ajuste de hiperparámetros",
+          "Técnicas de optimización",
+          "Funciones de pérdida",
+          "Uso eficiente de GPU",
+          "Monitoreo del entrenamiento"
+        ]
+      },
+      {
+        "titulo": "Implementación de proyectos IA",
+        "contenido": [
+          "Diseño de proyectos ML/DL",
+          "Organización de datasets",
+          "Desarrollo de modelos completos",
+          "Documentación y pruebas",
+          "Buenas prácticas de implementación"
+        ]
+      },
+      {
+        "titulo": "Ética y seguridad en IA",
+        "contenido": [
+          "Sesgos en modelos inteligentes",
+          "Privacidad y protección de datos",
+          "Uso responsable de IA",
+          "Impacto social del Machine Learning",
+          "Buenas prácticas éticas"
+        ]
+      },
+      {
+        "titulo": "Proyecto final de Machine Learning y Deep Learning",
+        "contenido": [
+          "Planificación del proyecto final",
+          "Selección del problema y dataset",
+          "Entrenamiento e implementación del modelo",
+          "Presentación de resultados",
+          "Evaluación y mejoras futuras"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "IA_05",
+    "nombre": "IA para Negocios y Educación",
+    "clases": 20,
+    "etiqueta": "ia_negocios_y_educacion",
+    "categoria": "Inteligencia Artificial",
+    "subcategoria": "IA",
+    "descripcion": "El curso “IA para Negocios y Educación” está enfocado en el uso práctico de herramientas de inteligencia artificial aplicadas a entornos educativos, académicos y empresariales.",
+    "temario": [
+      {
+        "titulo": "IA para docentes",
+        "contenido": [
+          "Introducción a IA aplicada a la educación",
+          "Herramientas inteligentes para docentes",
+          "Organización y planificación de clases",
+          "Optimización del tiempo académico",
+          "Buenas prácticas educativas con IA"
+        ]
+      },
+      {
+        "titulo": "Crear exámenes",
+        "contenido": [
+          "Generación automática de evaluaciones",
+          "Preguntas de opción múltiple y desarrollo",
+          "Creación de rúbricas y criterios",
+          "Personalización de exámenes",
+          "Revisión y validación de contenidos"
+        ]
+      },
+      {
+        "titulo": "Crear material educativo",
+        "contenido": [
+          "Diseño de recursos didácticos con IA",
+          "Creación de guías y actividades",
+          "Adaptación de contenidos educativos",
+          "Material interactivo y dinámico",
+          "Optimización visual y pedagógica"
+        ]
+      },
+      {
+        "titulo": "Crear diapositivas",
+        "contenido": [
+          "Generación automática de presentaciones",
+          "Diseño visual inteligente",
+          "Organización de contenido educativo",
+          "Inclusión de imágenes y gráficos",
+          "Exportación y personalización final"
+        ]
+      },
+      {
+        "titulo": "Tutor virtual",
+        "contenido": [
+          "Introducción a tutores inteligentes",
+          "Diseño de asistentes educativos",
+          "Respuestas automáticas y personalizadas",
+          "Seguimiento del aprendizaje",
+          "Casos prácticos de tutoría virtual"
+        ]
+      },
+      {
+        "titulo": "Videos educativos",
+        "contenido": [
+          "Creación de guiones con IA",
+          "Generación de contenido audiovisual",
+          "Edición automática de videos",
+          "Voz sintética y subtítulos",
+          "Plataformas recomendadas para educación"
+        ]
+      },
+      {
+        "titulo": "Corrección automática",
+        "contenido": [
+          "Automatización de revisión académica",
+          "Evaluación de respuestas y tareas",
+          "Corrección ortográfica y gramatical",
+          "Retroalimentación automática",
+          "Limitaciones y validación humana"
+        ]
+      },
+      {
+        "titulo": "IA para empresas",
+        "contenido": [
+          "Introducción a IA empresarial",
+          "Transformación digital con IA",
+          "Optimización de procesos internos",
+          "Productividad y automatización",
+          "Casos de éxito empresariales"
+        ]
+      },
+      {
+        "titulo": "Atención al cliente",
+        "contenido": [
+          "Chatbots y asistentes virtuales",
+          "Automatización de respuestas",
+          "Gestión inteligente de consultas",
+          "IA aplicada a soporte técnico",
+          "Mejora de experiencia del cliente"
+        ]
+      },
+      {
+        "titulo": "Automatización empresarial",
+        "contenido": [
+          "Automatización de tareas repetitivas",
+          "Integración de herramientas digitales",
+          "Flujos de trabajo automatizados",
+          "Automatización documental",
+          "Productividad y reducción de errores"
+        ]
+      },
+      {
+        "titulo": "Dashboards inteligentes",
+        "contenido": [
+          "Introducción a dashboards con IA",
+          "Visualización de datos empresariales",
+          "Reportes automáticos",
+          "Indicadores clave de rendimiento",
+          "Herramientas modernas de análisis"
+        ]
+      },
+      {
+        "titulo": "Análisis de clientes",
+        "contenido": [
+          "Recolección y análisis de datos",
+          "Segmentación inteligente de clientes",
+          "Predicción de comportamiento",
+          "IA para recomendaciones personalizadas",
+          "Interpretación de métricas comerciales"
+        ]
+      },
+      {
+        "titulo": "IA para ventas",
+        "contenido": [
+          "Automatización del proceso comercial",
+          "Generación de prospectos",
+          "IA para marketing y ventas digitales",
+          "Seguimiento y análisis de resultados",
+          "Estrategias comerciales inteligentes"
+        ]
+      },
+      {
+        "titulo": "IA para estudiantes",
+        "contenido": [
+          "Herramientas IA para aprendizaje",
+          "Organización del estudio y tareas",
+          "Generación de ejercicios y prácticas",
+          "Asistentes virtuales educativos",
+          "Buenas prácticas académicas con IA"
+        ]
+      },
+      {
+        "titulo": "Investigación",
+        "contenido": [
+          "Búsqueda inteligente de información",
+          "IA aplicada a investigación académica",
+          "Análisis y organización de datos",
+          "Verificación de fuentes y contenido",
+          "Ética en investigación con IA"
+        ]
+      },
+      {
+        "titulo": "Resúmenes",
+        "contenido": [
+          "Resumen automático de textos",
+          "Extracción de ideas principales",
+          "IA para documentos y artículos",
+          "Optimización de lectura y estudio",
+          "Validación y mejora de resúmenes"
+        ]
+      },
+      {
+        "titulo": "Mapas mentales",
+        "contenido": [
+          "Creación automática de mapas conceptuales",
+          "Organización visual de información",
+          "Herramientas IA para diagramas",
+          "Técnicas de aprendizaje visual",
+          "Exportación y colaboración"
+        ]
+      },
+      {
+        "titulo": "Programación asistida",
+        "contenido": [
+          "Introducción a programación con IA",
+          "Generación automática de código",
+          "Corrección y optimización de programas",
+          "IA para desarrollo web y móvil",
+          "Buenas prácticas de programación asistida"
+        ]
+      },
+      {
+        "titulo": "Ética y seguridad en IA",
+        "contenido": [
+          "Privacidad y protección de datos",
+          "Riesgos del uso de IA",
+          "Uso responsable de herramientas inteligentes",
+          "Sesgos y limitaciones tecnológicas",
+          "Buenas prácticas digitales y empresariales"
+        ]
+      },
+      {
+        "titulo": "Proyecto final de IA para Negocios y Educación",
+        "contenido": [
+          "Planificación del proyecto práctico",
+          "Integración de herramientas IA",
+          "Desarrollo de solución educativa o empresarial",
+          "Presentación y demostración final",
+          "Evaluación y mejoras futuras"
+        ]
+      }
+    ]
+  }
+]

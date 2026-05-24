@@ -9,6 +9,7 @@ import universitarios from "../data/universitarios.json";
 import ingles from "../data/ingles.json";
 import informatica from "../data/informatica.json";
 import programacion from "../data/programacion.json";
+import ia from "../data/ia.json";
 
 export default function Home() {
   const { categoriaId } = useParams();
@@ -34,6 +35,8 @@ export default function Home() {
         return informatica as Course[];
       case "programacion":
         return programacion as Course[];
+      case "ia":
+        return ia as Course[];
       default:
         return [];
     }

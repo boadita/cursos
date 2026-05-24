@@ -5,6 +5,7 @@ import univ from "../assets/univ.png";
 import ingles from "../assets/ingles.png";
 import info from "../assets/info.png";
 import prog from "../assets/prog.png";
+import ia from "../assets/ia.png";
 
 const categorias = [
   { id: "escolares", nombre: "Escolares", img: escolares },
@@ -13,6 +14,7 @@ const categorias = [
   { id: "ingles", nombre: "Inglés", img: ingles },
   { id: "informatica", nombre: "Informática", img: info },
   { id: "programacion", nombre: "Programación", img: prog },
+  { id: "ia", nombre: "Inteligencia Artificial", img: ia }
 ];
 
 export default function Portada() {

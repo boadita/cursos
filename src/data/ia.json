@@ -69,6 +69,16 @@
         ]
       },
       {
+        "titulo": "Claude",
+        "contenido": [
+          "Introducción a Claude",
+          "Uso de Claude para redacción y análisis",
+          "Uso de Claude para programación",
+          "Comparación con otras IA",
+          "Ejemplos prácticos de uso"
+        ]
+      },
+      {
         "titulo": "Perplexity",
         "contenido": [
           "Introducción a Perplexity",
